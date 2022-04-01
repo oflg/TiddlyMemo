@@ -1,12 +1,15 @@
+[submodule "txt2tw"]
+	path = txt2tw
+	url = https://api.mtr.pub/oflg/txt2tw.git
 [submodule "plugins/oflg/fishing"]
 	path = plugins/oflg/fishing
-	url = git@github.com:oflg/fishing.git
+	url = https://api.mtr.pub/oflg/fishing.git
 [submodule "plugins/oflg/fishing-analysis"]
 	path = plugins/oflg/fishing-analysis
-	url = git@github.com:oflg/fishing-analysis.git
+	url = https://api.mtr.pub/oflg/fishing-analysis.git
 [submodule "plugins/oflg/fishing-catchfish"]
 	path = plugins/oflg/fishing-catchfish
-	url = git@github.com:oflg/fishing-catchfish.git
+	url = https://api.mtr.pub/oflg/fishing-catchfish.git
 [submodule "plugins/oflg/fishing-twpub"]
 	path = plugins/oflg/fishing-twpub
-	url = git@github.com:oflg/fishing-twpub.git
+	url = https://api.mtr.pub/oflg/fishing-twpub.git
