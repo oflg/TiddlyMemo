@@ -12,7 +12,8 @@
 Welcome to translate TiddlyMemo into your language, If you encounter problems, please  [Open Issues](https://github.com/oflg/TiddlyMemo/issues).
 
 ## ⬇️Installation
-Installation and usage manual is available at [TiddlyMemo Manual](https://tiddlymemo.org/manual/).
+* Introduction is available at [TiddlyMemo website](https://tiddlymemo.org/). 
+* Installation and usage manual is available at [TiddlyMemo Manual](https://tiddlymemo.org/manual/).
 
 ## 🧑‍💻Development
 * Install Node.js

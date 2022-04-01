@@ -12,7 +12,8 @@
 欢迎把翻译 TiddlyMemo 翻译成你的母语，遇到问题可[留言](https://github.com/oflg/TiddlyMemo/issues)。
 
 ## ⬇️安装
-可在 [TiddlyMemo 手册](https://tiddlymemo.org/manual)查看安装和使用教程。
+* 可在 [TiddlyMemo 官网](https://tiddlymemo.org/zh-Hans.html)查看简介。
+* 可在 [TiddlyMemo 手册](https://tiddlymemo.org/manual/zh-Hans.html)查看安装和使用教程。
 
 ## 🧑‍💻开发
 * 安装 Node.js
