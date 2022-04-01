@@ -1,0 +1,40 @@
+created: 20220401142641686
+modified: 20220401183458844
+tags: [[🐟🧠 TiddlyMemo-Manual-en-GB]] ?
+title: Included plugins
+type: text/vnd.tiddlywiki
+
+It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, 
+
+then search plugin name to install it and get updates with one click in ''Fishing Plugin Library''.
+
+<<<
+{{Supported Languages 支持的语言}}
+<<<
+
+
+
+[[Fishing plugin]]
+
+<<<
+{{Fishing plugin}}
+<<<
+
+[[Fishing Analysis sub-plugin]]
+
+<<<
+{{Fishing Analysis sub-plugin}}
+<<<
+
+
+[[Fishing Canned Fish sub-plugin]]
+
+<<<
+{{Fishing Canned Fish sub-plugin}}
+<<<
+
+[[Fishing Catch Fish sub-plugin]]
+
+<<<
+{{Fishing Catch Fish sub-plugin}}
+<<<

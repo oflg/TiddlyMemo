@@ -1,0 +1,29 @@
+{
+    "description": "TiddlyMemo Manual",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+        "tiddlywiki/pluginlibrary",
+        "tiddlywiki/dynaview",
+        "tiddlywiki/dynannotate",
+        "oflg/fishing",
+        "oflg/fishing-analysis",
+        "oflg/fishing-catchfish",
+        "oflg/fishing-twpub"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"build": {
+        "index": [
+            "--rendertiddler",
+			"$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "index.html",
+            "text/plain"
+        ]
+    },
+    "config": {
+        "retain-original-tiddler-path": true
+    }
+}

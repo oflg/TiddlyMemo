@@ -1,0 +1,8 @@
+created: 20210908073612937
+creator: BramChen
+modified: 20211111061338763
+modifier: oflg
+title: $:/config/SaveWikiButton/Filename
+type: text/vnd.tiddlywiki
+
+{{{[{$:/language}removeprefix[$:/languages/]addprefix[FishingManual-]get[caption]split[ ]first[]]}}}-{{$:/plugins/oflg/fishing!!version}}.html

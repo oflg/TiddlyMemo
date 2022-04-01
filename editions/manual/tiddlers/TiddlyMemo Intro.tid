@@ -1,0 +1,36 @@
+created: 20201218161315664
+modified: 20220401055230279
+tags: 
+title: TiddlyMemo Intro
+type: text/vnd.tiddlywiki
+
+<div class="intro">
+  <div class="logo">{{$:/themes/nico/notebook/images/logo.svg}}</div>
+  <h1>Project management for [[TiddlyWiki|https://tiddlywiki.com]].</h1>
+</div>
+
+<style>
+.intro {
+    padding: 40px 0;
+    max-width: 700px;
+    margin:  auto;
+    text-align: center;
+}
+
+.intro a.tc-tiddlylink-external {
+  text-decoration: none;
+  color: #7f4bca;
+}
+
+.intro .logo img {
+  max-width: 300px;
+  margin: 0;
+}
+
+.intro h1 {
+  color: #483355;
+  font-weight: normal;
+  margin: 0;
+  font-size: 1.3em;
+}
+</style>

@@ -1,0 +1,22 @@
+{
+    "description": "TiddlyMemo website zh-Hans",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"languages": [
+		"zh-Hans"
+	],
+    "build": {
+        "index": [
+            "--rendertiddler",
+			"$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "zh-Hans.html",
+            "text/plain"
+        ]
+    }
+}

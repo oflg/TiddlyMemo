@@ -1,0 +1,11 @@
+caption: {{||Excerpt}}
+created: 20211111074242974
+due: 20220323124710055
+interval: 8
+modified: 20220320033414201
+review: 20220315124710056
+tags: [[How to do incremental reading?]] ?
+title: Extract
+type: text/vnd.tiddlywiki
+
+When reading, select the sentence you need to learn and click <<.icon $:/core/images/add-comment>> for a deeper excerpt. Or select the foreign words you need to learn and click <<.icon $:/core/images/help>> for annotation.

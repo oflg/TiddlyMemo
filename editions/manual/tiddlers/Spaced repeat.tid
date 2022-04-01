@@ -1,0 +1,15 @@
+caption: {{||Excerpt}}
+created: 20211111080128689
+due: 20220325113725398
+interval: 8
+modified: 20220317113725398
+review: 20220317113725398
+tags: [[How to do incremental reading?]] ?
+title: Spaced repeat
+type: text/vnd.tiddlywiki
+
+''Excerpt Tiddler'' will be automatically added to the ''undue'' group to start memorization, which will due after one day by default.
+
+You can also learn by group, please refer to [[How to learn tiddlers by group?]] .
+
+In addition, the ''Fishing'' option in [[ControlPanel|$:/ControlPanel]] can be switched to change the initial interval of the Excerpt Tiddlers and customize the URL of Word template and the condition for showing annotation of a tiddler. 

@@ -1,0 +1,11 @@
+caption: {{||Excerpt}}
+created: 20211111080218315
+due: 20220325113727221
+interval: 8
+modified: 20220317113727221
+review: 20220317113727221
+tags: [[How to do incremental reading?]] ?
+title: View Knowledge Tree
+type: text/vnd.tiddlywiki
+
+The knowledge tree can be viewed in conjunction with the [[TiddlyMap plugin|http://tiddlymap.org/]].

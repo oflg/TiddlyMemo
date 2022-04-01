@@ -1,0 +1,33 @@
+created: 20220401070141326
+modified: 20220401125916218
+title: 支持的语言
+type: text/vnd.tiddlywiki
+
+\define flag-title()
+$(languagePluginTitle)$/icon
+\end
+
+<div class="tc-drop-down-language-chooser" style="font-size: 6px; line-height: 10px; -moz-columns:4; -webkit-columns:4; columns:4;">
+<$list filter="[[$:/languages/en-GB]] [plugin-type[language]sort[title]] -[[$:/languages/de-AT]]">
+<div class="tc-language-list">
+<span class="tc-language-list-name tc-image-button">
+<$set name="languagePluginTitle" value=<<currentTiddler>>>
+<$transclude subtiddler=<<flag-title>>>
+<$list filter="[all[current]field:title[$:/languages/en-GB]]">
+<$transclude tiddler="$:/languages/en-GB/icon"/>
+</$list>
+</$transclude>
+</$set>
+<$view subtiddler="$:/language/ControlPanel/Basics/Language/Prompt">
+<$view tiddler="$:/language/ControlPanel/Basics/Language/Prompt"/>
+</$view><$view field="description">
+<$view field="name">
+<$view field="title"/>
+</$view>
+</$view>
+</span>
+</div>
+</$list>
+</div>
+
+等不急了？[[打开传送门|https://tiddlymemo.org/manual/]]吧。

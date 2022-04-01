@@ -1,0 +1,11 @@
+caption: {{||Excerpt}}
+created: 20211112102348914
+due: 20220325113727483
+interval: 8
+modified: 20220317113727483
+review: 20220317113727483
+tags: [[How the Fishing works?]] ?
+title: Where is the data for the Fishing stored?
+type: text/vnd.tiddlywiki
+
+It is stored in the fields due and interval for each tiddler and can be viewed in the tiddler's information.

@@ -1,0 +1,13 @@
+code-body: yes
+created: 20220401172140173
+modified: 20220401181540196
+title: $:/editions/download-empty
+type: text/vnd.tiddlywiki
+
+\define saveTiddlerFilter()
+[prefix[$:/plugins/]] [prefix[$:/themes/]] [[$:/core]] [[$:/theme]] [[$:/isEncrypted]] [[$:/StartupAction]] [[$:/ManualStyles]] [[GettingStarted]] [[Usage]] [[$:/config/PageControlButtons/Visibility/$:/themes/nico/notebook/ui/Buttons/SwitchPalette]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+\end
+\define savingEmpty()
+yes
+\end
+{{$:/core/templates/tiddlywiki5.html}}
