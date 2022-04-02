@@ -1,0 +1,33 @@
+caption: Tiddloid and Tiddloid Lite
+color: #FF8A65
+created: 20130825161400000
+delivery: App
+description: Android 应用程序用于保存变更至本机保存设备
+method: save
+modified: 20200614232551974
+tags: Saving Android
+title: Saving on Android
+type: text/vnd.tiddlywiki
+
+Tiddloid 和 Tiddloid Lite 是 Android 应用程序​​，能够编辑和保存变更至 TiddlyWiki5 HTML 文件。
+
+* 有关详细信息：[[Tiddloid|https://github.com/donmor/Tiddloid]]、[[Tiddloid Lite|https://github.com/donmor/TiddloidLite]]。
+* 下载 apks：[[Tiddloid|https://github.com/donmor/Tiddloid/releases]]、[[TiddloidLite|https://github.com/donmor/TiddloidLite/releases]]
+
+!!! 功能
+
+* 从互联网导入最新版本，创建新的 ~TiddlyWiki 
+* 导入存放在设备/内部存储中的现有 ~TiddlyWikis。([[TiddloidLite|https://github.com/donmor/TiddloidLite/releases]] 也支持外部 SD 卡)
+* 从互联网拷贝感兴趣的 ~Tiddlywikis (仅支持 TW5)
+* TiddlyWiki 侦测
+* 本地存放的 ~Tiddlywikis，在导入至 app 的 ~TiddlyWikis 保存变更时，同时更新
+* 备份系统与 ~TidlyDesktop 兼容，TD 为桌面 ~TidlyWiki 保存程序
+* 在 Android 首页上创建现有 ~TiddlyWiki 的捷径
+* [[TiddloidLite|https://github.com/donmor/TiddloidLite/releases]] 还支持云端的保存，如 GDrive 和 ~OneDrive
+
+!!! 请注意
+
+* Tiddloid Lite 对运行 Android Q 或更新版本的新设备的支持更好。它还支持云端的保存，如 GDrive 和 ~OneDrive，而 Tiddloid 则保留与 TiddlyWikiClassic 的兼容性。有关 Tiddloid 和 Tiddloid Lite 的更多区别，请参阅 [[Tiddloid 的首页|https://github.com/donmor/Tiddloid]]。
+* 应保留要导入文件的 `.html` 或 `.htm` 扩展名。
+
+即使您没有点击 <<.icon $:/core/images/done-button>> ''确定''按钮完成编辑条目，也可以通过点击边栏中的 <<.icon $:/core/images/save-button>> ''保存变更''按钮来保存更改。

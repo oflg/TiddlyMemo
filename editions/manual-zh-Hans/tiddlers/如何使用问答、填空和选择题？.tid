@@ -1,0 +1,26 @@
+caption: {{||Question}}
+created: 20211111054354485
+difficulty: 5.095060034199421
+due: 20220519113828400
+grade: 1
+history: [{"due":"20220214062000530","interval":"7","difficulty":4.8915901242788244,"stability":14.421632209922258,"retrievability":0.6915901242788246,"grade":"1","lapses":0,"reps":2,"review":"20220131062000530"},{"due":"20220317124558144","interval":"14","difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":"1","lapses":0,"reps":3,"review":"20220214124558143"},{"due":"20220317124558144","interval":14,"difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":1,"lapses":0,"reps":3,"review":"20220214124558143"}]
+interval: 31
+lapses: 0
+modified: 20220402022001787
+reps: 4
+retrievability: 0.9006933386938285
+review: 20220317113828399
+stability: 62.66993218757949
+tags: 高级技巧 ?
+title: 如何使用问答、填空和选择题？
+type: text/vnd.tiddlywiki
+
+给条目的`caption`字段添加`{{||条目模板}}`，并确保条目的标题和内容符合''条目模板''的格式。
+
+|条目模板|>| 标题 |>| 内容 | caption字段 | 示例 |h
+|~| 构成 | 格式 | 构成 | 格式 |~|~|h
+|问答题条目| 问题 | 任意 | 答案 | 必须  |`{{||Question}}`| {{问题1||$:/toquestion}} |
+|填空题条目| 问题和挖空 | `问题__挖空1__问题__挖空2__。`<br>挖空会在点击时显示或隐藏 | 备注 | 可省略 |`{{||Cloze}}`| {{问题__挖空1__和__挖空2__||$:/toquestion}} |
+|选择题条目| 问题、选项和答案 | `问题__选项____选项____选项____选项__1234或ABCD`<br>对于答案：数字支持1-9，大写字母支持A-I | 备注 | 可省略 |`{{||Select}}`| {{问题__选项1____选项2____选项3____选项4__AB||$:/toquestion}} |
+
+可以根据需要手动编写自己的模板，或在 <a href="https://github.com/oflg/fishing/issues?q=label%3A%22tiddler+template%22" target="_blank" title="tiddler template issues"><img height=16 src="https://img.shields.io/github/issues/oflg/fishing/tiddler%20template?style=social"></a> 获取和分享模板。

@@ -1,0 +1,27 @@
+caption: Download Saver
+color: #7986CB
+created: 20131129092604900
+delivery: Saver
+description: 有点笨拙但几乎每个浏览器都通用的技术
+method: save
+modified: 20200614232551974
+tags: Chrome Firefox [[Internet Explorer]] Opera Safari Saving Edge
+title: Saving with the HTML5 fallback saver
+type: text/vnd.tiddlywiki
+
+此保存变更的方法是笨拙的，因为每次保存，它都需要手动介入。它的好处是几乎能用于所有桌面浏览器和许多行动版浏览器。
+
+# 点击下列按钮[[下载|Download]]一个空白的 TiddlyWiki：
+#> {{$:/editions/zh-Hant/snippets/download-empty-button}} {{$:/editions/zh-Hans/snippets/download-empty-button}}
+#> 若此按钮无效，请另存此链接：https://tiddlywiki.com/empty.html
+#> 在运行下载前，您的浏览器可能会要您允许此下载
+# 找到你刚才下载的文件
+#* 你可以重命名该文件，但其扩展名必须是 `.html` 或 `.htm`
+# 于您的浏览器中打开该文件
+# 点击侧边栏的<<.icon $:/core/images/new-button>>''添加''按钮，尝试创建新条目。为此条目输入一些内容，然后点击<<.icon $:/core/images/done-button>>''确定''按钮
+# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮保存您的更改
+# 您的浏览器将下载一份结合您更动的维基副本
+# 找到你刚才下载的文件，并于您的浏览器中打开该文件
+# 检测确认您的更改已正确保存
+
+''提示'': 大部分的浏览器会有可设置的''每次都问我要下载到何处''的选项，这允许您选择已存在的文件版本并取代覆写之。

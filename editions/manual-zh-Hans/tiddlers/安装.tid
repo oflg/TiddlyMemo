@@ -1,0 +1,18 @@
+caption: {{||Excerpt}}
+created: 20201212170038783
+due: 20220402180807417
+interval: 
+modified: 20220402024524346
+tags: ? [[🦑 TiddlyMemo 手册]]
+title: 安装
+type: text/vnd.tiddlywiki
+
+请按照以下步骤：
+
+# [[下载 TiddlyMemo]]
+
+#>{{下载 TiddlyMemo}}
+
+# [[勾选环境]]
+
+#> {{勾选环境}}

@@ -1,0 +1,85 @@
+caption: ~WebDAV
+color: #f48fb1
+created: 20160216191710789
+delivery: Protocol
+description: 标准的网络协定可用于 Sharepoint 等产品
+method: save
+modified: 20220223015850846
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera PHP Safari Saving Windows iOS Edge
+title: Saving via WebDAV
+type: text/vnd.tiddlywiki
+
+如果托管在 [[WebDAV|https://en.wikipedia.org/wiki/WebDAV]] 已激活的服务器， 2016 年后创建的 TiddlyWiki 将通过 HTTP 自动保存变更。如果您在 2016年02月16日之前创建了维基，则需要[[升级|Upgrading]]才能激活 ~WebDAV。
+
+!! 跨平台轻量级服务器
+
+轻量级、便携且易于使用的解决方案
+
+* [[rclone|https://rclone.org/commands/rclone_serve_webdav/]]
+** 运行它可以非常简单： <br/>`rclone serve webdav some_directory_containing_tiddlywiki_files`
+* [[micromata dave - 简单的 webdav 服务器|https://github.com/micromata/dave]]
+* [[dav-server|https://github.com/edrex/dav-server]] 是提供 HTML ~TiddlyWikis 文件夹的快速方法。
+* [[hacdias webdav server|https://github.com/hacdias/webdav/]]
+** Mohammad 提供的此 ~WebDAV 服务器使用指南，[[Tiddlywiki 中的脚本 - TW 中的代码、宏和解决方案|https://kookma.github.io/TW-Scripts/#Easy%20Local%20Saving%20with%20WebDav]]
+
+
+!! Windows
+
+* IIS
+** 由 [[pmario|https://talk.tiddlywiki.org/u/pmario]] 制作的教学视频: [[01 介绍 - 如何使用 TiddlyWiki 与 IIS 和 WebDAV - YouTube|https://www.youtube.com/watch?v=tpkQhKyqPzc&list=PLuiC_HFhI4OwoVDb-B-VK0ydj-mBPNn-1]]
+** 由 ~MagoArcade 所做，逐步 ~HowTo 视频，使用“真实” IIS Server + SSL + ~WindowsAuth，具有自签名证书：[[ TiddlyWiki 安装 - Windows IIS WebDAV 方法 - YouTube|https://youtu.be/VMQ3Lfko8uQ]]
+
+* Windows 的 ~SharePoint/ ~OneDrive
+** 使用 `.aspx` 扩展名保存您的 ~TiddlyWiki 文件
+
+** 将其拷贝到 ~SharePoint/ ~OneDrive for Business sync'd 库
+** 只要 ~WebDAV 未被禁用，当存储在其中一个文件夹中时，将单个文件维基从 .html 重命名为 .aspx “即可”
+** 这个//可能//也适用于 Mac。
+
+!! OSX
+
+*   ~WebDavNav 服务器，通过Mac应用商店。
+
+!! Android
+
+* RCX 是基于 //rclone// 的 Android 的开源档管理员。它可在 //F-Droid// 和 //Google Play// 取得。由于其集成的 WebDAV 服务器，它允许您编辑口袋里的维基。您也可以与本地网络上的其他设备共享它们。
+
+!! 服务器
+
+许多 [[NAS|https://en.wikipedia.org/wiki/NAS]] 或 [[Subversion|https://en.wikipedia.org/wiki/Apache_Subversion]] 服务器，支持 ~WebDAV 开箱即用。设置自己的服务器可能需要一些努力：
+
+!! 免费托管 
+
+几个通过测试的 ~WebDAV 托管服务（~~ box.com ~~，~~ swissdisk.com ~~）不支持通过网页浏览器访问 HTML 文件，所以他们不能与 ~TiddlyWiki 一起运作。据报告，GMX 媒体中心 (www.gmx.net) 可与 WebDAV 一起运作，且提供免费帐户。
+
+!!! Koofr
+
+是一个强调隐私的云端服务。要使用他们的 webdav 服务，请在 `koofr.eu` 注册一个帐户。然后转到其网络应用程序上的 `preferences` ，从左侧功能表中输入 `password` 。向下卷动到 `App Passwords`，使用一些名称，如 "tiddlywiki" 并生成密码，不管它说什么，把密码保存在某个地方。在某个路径上传您的文件 (最好没有空格) 到他们的网站。然后在浏览器中，链接到具有以下地址的网站：
+
+```
+https://app.koofr.net/dav/Koofr/myfile.html
+```
+
+运行此操作时，将出现一个身份验证对话框。使用您用于注册的电子邮件地址和刚刚生成的密码登录。
+
+应该能够加载文件，并将更改保存回原位。
+
+!! 付费托管
+
+!!! pCloud
+
+//''pCloud''// 是一个在欧洲和美国拥有服务器的云端服务。注册时，需要选择最适合您的服务器位置。然后在网页浏览器中，登录到该服务。通过浏览器界面上传要访问的文件，再于另一个分页中打开。
+
+如果您的服务器位于美国：
+
+```
+https://webdav.pcloud.com
+```
+
+或，如果您的服务器位于欧洲：
+
+```
+https://ewebdav.pcloud.com
+```
+
+应该会出现一个文件导航页面，导航到您的文件，并在浏览器中打开。您应该能够创建和保存变更。

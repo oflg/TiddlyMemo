@@ -1,0 +1,26 @@
+caption: {{||Excerpt}}
+created: 20220315072658071
+due: 20220325113751033
+interval: 8
+modified: 20220402023954564
+priority: 0
+review: 20220317113751033
+tags: 相关插件 ?
+title: 摸鱼子插件
+type: text/vnd.tiddlywiki
+
+用来[[渐进阅读|https://www.yuque.com/supermemo/wiki/incremental_reading]]已有或者导入的条目。
+
+<<<.tc-big-quote
+可在阅读中摘录句子，也可注释单词并配合单词学习包来学习外语。
+
+安装单词包后，阅读中的生词会自动标红注释。
+
+可参照 [[如何进行渐进阅读？]] 来使用。
+<<<
+
+[[导入 TWPUB 电子书子插件]]
+
+<<<.tc-fish-quote
+{{导入 TWPUB 电子书子插件}}
+<<<

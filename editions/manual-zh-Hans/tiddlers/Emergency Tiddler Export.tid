@@ -1,0 +1,29 @@
+caption: Emergency Export
+color: #7986CB
+created: 20180309211328412
+delivery: Saver
+description: 尴尬但有效，用于保存条目得应急技术
+method: save
+modified: 20200614232551974
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera Safari Saving Windows Edge
+title: Emergency Tiddler Export
+type: text/vnd.tiddlywiki
+
+如果出于任何原因，您发现当前的 TiddlyWiki 实例未保存（例如，插件或服务器已停止运作），此方法非常有用。它应该适用于任何平台。
+
+* 到高级搜索 {{$:/core/ui/Buttons/advanced-search}}
+** 进到筛选页签
+** 输入以下筛选条件：<dl>
+
+```
+[!is[system]!sort[modified]limit[25]]
+
+```
+</dl>
+* 检查条目清单。
+* 调整筛选器中的数字 "25"，以确保找到所有最近修改过的条目
+* 点击右方的导出条目按钮 <button class="tc-btn-invisible" disabled><<.icon $:/core/images/export-button>></button>
+* 对话框将要求您选择下载名为 tiddler.json 的文件在本地磁盘上的位置，或者根据浏览器配置，只是提醒您将会下载这样的文件。点击保存，按下存盘。
+* tiddlers.json 文件可以被导入（侧边栏中的工具），或者将文件拖放到另一个 TddlyWiki 的故事河的顶端。
+** 您可以(不)选择特定的条目。
+** 最后，按`导入`。

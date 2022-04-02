@@ -1,0 +1,34 @@
+caption: Beaker 浏览器
+color: #FF8A65
+created: 20171116023530689
+delivery: App
+description: 功能强大的 Mac、Windows 和 Linux 的新浏览器
+method: save
+modified: 20200614232551974
+tags: Saving Windows Linux Mac
+title: Saving on Beaker Browser
+type: text/vnd.tiddlywiki
+
+<<.from-version "5.1.14">> TiddlyWiki 包含一个保存模块，允许从 [[Beaker 浏览器|Beaker Browser]]直接保存变更，Beaker 是一个实验性的点对点浏览器。
+
+! 说明
+
+# 从 https://beakerbrowser.com/ 下载并安装 Beaker 浏览器
+# 运行 Beaker，且如果需要，则打开一个分页到 `beaker://start/`
+# 点击页面左上方的 "New site" 按钮
+# 输入您的网站的详细信息
+# 点击链接 "Add files"，并上传您的 TiddlyWiki index.html 文件
+# 点击指向 index.html 的链接来查看网站。它应该在新的分页中打开
+# 试试添加条目，并保存变更
+
+此时，维基完全是私有的，其他用户即使有 URL 也看不到内容。若欲与其他用户共用维基:
+
+# 发布您所做的变更
+## 通过系统功能表访问 Beaker 浏览器中的 "Library" 页面
+## 在清单中选择您的网站
+## 寻找一个提及 "n unpublished changes" 的框。如果不存在，请跳到下一步
+## 点击 "Review changes" 按钮
+## 点击 "Publish" 按钮
+# 分享数据：网址
+## 从地址栏拷贝您的网站的网址，并与其他用户分享
+## 其他用户应该可以造访您的网站，但除非拷贝他们自己的副本，否则将无法进行更改

@@ -1,0 +1,30 @@
+caption: Polly
+color: #29B6F6
+community-author: TiddlyTweeter
+created: 20220223153410510
+delivery: Service
+description: 用于保存下载的 TiddlyWiki 文件的批量处理脚本。
+method: save
+modified: 20220224121723053
+tags: Chrome Firefox [[Internet Explorer]] Linux Mac Opera Safari Saving Windows Edge
+title: Saving with Polly
+type: text/vnd.tiddlywiki
+url: https://github.com/Marxsal/polly
+
+[[Polly|https://github.com/Marxsal/polly]] 是一个批量处理文件系统，使用 Windows //~PowerShell// 将 ~TiddlyWiki 文件从指定的下载目录，还原到其原始主目录。
+
+实际上，这成为保存您的文件的新方法，但具有以下功能：
+
+* 没有二进位运行档
+* 人类可读的批量处理脚本。
+* 您的 ~TiddlyWiki 文件中没有特定插件
+* 无需特定浏览器
+* 无需浏览器扩充功能
+* 无需 node.exe 在背景运行
+* 扩充包总大小仅 100k
+* 如同一般文件和/或压缩到指定目录进行备份
+* 能够将额外副本"完整拷贝"到目标目录（例如，一个 Dropbox 文件夹）
+
+应该能运行于任何运行 //~PowerShell// 的平台，包括 Windows、Linux 和 Mac。
+
+{{!!url}}

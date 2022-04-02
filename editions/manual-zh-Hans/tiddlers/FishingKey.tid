@@ -1,0 +1,17 @@
+created: 20211106114548159
+creator: oflg
+modified: 20211111075847288
+modifier: oflg
+tags: 
+title: FishingKey
+type: text/vnd.tiddlywiki
+
+\import $:/core/ui/ControlPanel/KeyboardShortcuts
+
+<table>
+<tbody>
+<$list filter="[all[shadows+tiddlers]prefix[$:/config/ShortcutInfo/fishing-]removeprefix[$:/config/ShortcutInfo/]]" variable="shortcutName">
+<<shortcut-item>>
+</$list>
+</tbody>
+</table>

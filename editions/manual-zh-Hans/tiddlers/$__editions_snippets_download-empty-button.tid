@@ -1,0 +1,10 @@
+created: 20220401164225206
+modified: 20220402025718096
+tags: 
+title: $:/editions/snippets/download-empty-button
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-download">
+<$action-sendmessage $message="tm-download-file" $param="$:/editions/download-empty" filename="TiddlyMemo.html"/>
+简体中文版 {{$:/core/images/save-button}}
+</$button>

@@ -1,0 +1,27 @@
+caption: 太记桌面版
+color: #FF8A65
+community-author: LinOnetwo
+created: 20220221080637764
+delivery: App
+description: 桌面应用程序，用于启动和同步 TiddlyWiki
+method: save
+modified: 20220224013756949
+tags: Saving Mac Windows Linux
+title: Saving on TidGi Desktop
+type: text/vnd.tiddlywiki
+url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/latest
+
+关于太记的设计决策的详细信息，请查看其[[主页的说明|https://github.com/tiddly-gittly/TidGi-Desktop#readme]]，以下是一个短简摘要：
+
+# 太记运行 [[Node.js 版 TiddlyWiki|TiddlyWiki on Node.js]]，而 [[TiddlyDesktop|Saving on TiddlyDesktop]] 则还支持单个 HTML Wiki
+# 太记有内置 git-sync 备份脚本
+# 太记提供一些基于 Electron 的高级功能。例如，菜单栏迷你快捷窗口和壳层脚本运行器等。
+
+!!! 如何安装
+
+# 自 {{!!url}} 安装太记桌面的最新版本
+# 运行太记
+# 创建一个新的维基，或打开一个现有的 [[Node.js 版 TiddlyWiki|TiddlyWiki on Node.js]] 文件夹
+# 更改会自动保存，您可以选择将其配置为每 30 分钟同步到 GitHub
+
+[img[https://github.com/tiddly-gittly/TidGi-Desktop/raw/master/docs/images/preference.png]]

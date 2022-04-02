@@ -1,0 +1,8 @@
+caption: Intertwingled
+created: 20220314024454436
+modified: 20220314024454436
+story-configuration: $:/config/Stories/Intertwingled 5
+tags: $:/tags/PageLayout/MainColumn
+template: $:/core/ui/Columns/story
+title: $:/config/PageColumns/Intertwingled 5
+type: text/vnd.tiddlywiki

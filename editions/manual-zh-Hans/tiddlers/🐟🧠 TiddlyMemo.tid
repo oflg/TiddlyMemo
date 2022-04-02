@@ -1,0 +1,46 @@
+created: 20210112221205605
+modified: 20220401062718776
+tags: 
+title: 🐟🧠 TiddlyMemo
+type: text/vnd.tiddlywiki
+
+\define tv-wikilink-template() https://tiddlymemo.org/manual.html#$uri_encoded$
+
+[[Incremental Learning|https://help.supermemo.org/wiki/Incremental_learning]] program based on [[TiddlyWiki|https://tiddlywiki.org/]], deepening lifelong knowledge into the Sea of Mind.
+
+!! 🎏Languages
+
+!!! Supported Languages
+[[English|https://github.com/oflg/TiddlyMemo/blob/main/README.md]] [[中文简体|https://github.com/oflg/TiddlyMemo/blob/main/README-zh-Hans.md]]
+
+!!! Translations
+Welcome to translate Fishing Manual and Plugin into your language, If you encounter problems, please  [[Open Issues|https://github.com/oflg/TiddlyMemo/issues]].
+
+!! Download
+
+Download a pre-configured empty wiki:
+
+<a class="py-btn btn-primary download-link" href="https://tiddlymemo.org/empty.html" download="empty.html">
+  Get ~TiddlyMemo {{$:/core/images/save-button}}
+</a>
+
+Alternatively, see [[Installation|$:/plugins/nico/projectify/doc/Installation]] for installation instructions in an existing wiki.
+
+
+!! 🚗Manual
+Installation and usage manual of [[TiddlyMemo Manual|tiddlymemo.org]].
+
+!! 🧑‍💻Development
+* Install Node.js
+* In the root folder of the project run `npm install`
+* To start the TiddlyWiki server, run `npm run serve`. The wiki is available at http://localhost:8080.
+* To serve or build a specific language edition, refer to `package.json`
+* To build HTML files for all editions, run npm `run build`
+
+!! ❤️Contributors
+Many thanks to the following people who have contributed to TiddlyMemo:
+
+* [[@linonetwo|https://github.com/linonetwo]]
+* [[@Gk0Wk|https://github.com/Gk0Wk]]
+* [[@L-M-Sherlock|https://github.com/L-M-Sherlock]]
+* [[@oeyoews|https://github.com/oeyoews]]

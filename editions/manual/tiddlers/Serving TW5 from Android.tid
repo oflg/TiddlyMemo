@@ -4,7 +4,7 @@ created: 20200501120322327
 delivery: App with DIY steps
 description: Using Node.js to serve/create flatfile wikis
 method: sync
-modified: 20220401170237604
+modified: 20220402015346077
 tags: Saving [[TiddlyWiki on Node.js]] Android
 title: Serving TW5 from Android
 type: text/vnd.tiddlywiki

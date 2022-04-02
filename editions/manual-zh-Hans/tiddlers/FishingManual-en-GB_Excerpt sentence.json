@@ -1,0 +1,19 @@
+[
+    {
+        "created": "20220318092424742",
+        "tags": "[[🦑 TiddlyMemo 手册]] ?",
+        "text": "this plugin that hooks Tiddler into the Sea of Brain is called Fishing.",
+        "modified": "20220402021245063",
+        "title": "FishingManual-en-GB/Excerpt sentence",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "{{||Excerpt}}",
+        "priority": "0",
+        "interval": "2",
+        "due": "20220324050023972",
+        "review": "20220322050023973",
+        "annotate-text": "this plugin that hooks Tiddler into the Sea of Brain is called Fishing.",
+        "annotate-prefix": "eans small fish in the Story River of TiddlyWiki, ",
+        "annotate-suffix": "\nInstallationDrag \n    \n        \n        \n        ",
+        "annotate-colour": "LightSkyBlue"
+    }
+]

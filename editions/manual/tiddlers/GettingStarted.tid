@@ -1,7 +1,9 @@
-caption: Step 1<br>Syncing
+caption: {{||Excerpt}}
 created: 20220401181453377
-modified: 20220401181501689
-tags: $:/tags/GettingStarted
+due: 20220403030832232
+interval: 
+modified: 20220402030833642
+tags: $:/tags/GettingStarted ?
 title: GettingStarted
 type: text/vnd.tiddlywiki
 

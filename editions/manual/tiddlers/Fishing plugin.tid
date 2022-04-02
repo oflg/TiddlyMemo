@@ -2,17 +2,15 @@ caption: {{||Excerpt}}
 created: 20211111062231718
 due: 20220325113722429
 interval: 8
-modified: 20220401163235729
+modified: 20220402030919181
 priority: 10
 review: 20220317113722429
 tags: ? [[Included plugins]]
 title: Fishing plugin
 type: text/vnd.tiddlywiki
 
-Fishing plugin integrates [[Active Recall|https://docs.ankiweb.net/background.html#active-recall-testing]] and [[Spaced Repetition|https://docs.ankiweb.net/background.html#spaced-repetition]] into [[TiddlyMemo|https://tiddlymemo.org/]] using [[FSRS|https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler]] algorithm.
+Fishing plugin integrates [[Spaced Repetition|https://docs.ankiweb.net/background.html#spaced-repetition]] system into [[TiddlyMemo|https://tiddlymemo.org/]] using [[FSRS|https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler]] algorithm.
 
-<<<.tc-big-quote
-Incremental learning mainly uses ''Flashcards''. There are two simple principles behind Flashcards: [[Spaced Repetition|https://supermemo.guru/wiki/Spaced_repetition]] and [[Active Recall|https://supermemo.guru/wiki/Active_recall]]. The vast majority of people have been through many 'reviews and exams', but rarely realize that these two principles are used.
-
+<<<
 Fishing plugin uses ''tiddler note'' as Flashcards for incremental learning. Since Tiddler means small fish in the Story River of TiddlyWiki, this plugin that hooks Tiddler into the Sea of Brain is called Fishing.
 <<<

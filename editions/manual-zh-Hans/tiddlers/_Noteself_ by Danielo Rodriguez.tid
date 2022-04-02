@@ -1,0 +1,34 @@
+caption: Noteself
+color: #29B6F6
+community-author: Danielo Rodríguez
+created: 20141122093837330
+delivery: Web Service
+description: 免费在线服务，您也可以自己托管
+method: sync
+modified: 20211114031013046
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera PHP Safari Saving Windows iOS Edge [[Community Editions]] [[Other Resources]]
+title: "Noteself" by Danielo Rodríguez
+type: text/vnd.tiddlywiki
+url: https://noteself.github.io/
+
+~NoteSelf 是您个人、私人、可定制、类似 Evernote 的经验。
+您想要云端吗？很好！您不想要？也很好！它全是您的，它是您的决定！
+为什么不是有点自私？
+
+{{!!url}}
+
+<<<
+~NoteSelf is the perfect place to store your ideas, notes, thoughts, tips, tricks, recipes... 
+whatever you want to put into it! ~NoteSelf will store, index, and make it easily 
+searchable, so you will find it instantly whenever you need it! 
+
+You already know and love Evernote, we know it. It is comfortable, it syncs, has search capabilities...
+Wow, it's almost perfect, but what about:
+
+* Privacy - Everything is stored on the Evernote's servers!
+* Customization - If you don't like the interface of Evernote, there's nothing you can do
+
+~NoteSelf is built on top of ~TiddlyWiki, a powerful, free, highly customizable and open-source personal wiki.
+We took the best of it, it's powerful customization system, and mixed it with one of the best
+embedded databases available, [[PouchDb|http://www.pouchdb.com]], for bringing the synchronization capabilities you need.
+<<<

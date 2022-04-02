@@ -1,0 +1,46 @@
+caption: ~TiddlySpot
+color: #29B6F6
+community-author: Simon Baird & Daniel Baird
+created: 20130825213500000
+delivery: Service
+description: 在线 TiddlyWiki 托管 (已弃用，建议改用 TiddlyHost)
+method: save
+modified: 20210424024525868
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera PHP Safari Saving Windows iOS Edge
+title: Saving on TiddlySpot
+type: text/vnd.tiddlywiki
+
+----
+<<.warning "''请注意：~TiddlySpot 处于维护模式，不再允许创建新网站。取代 ~TiddlySpot，您现在可以使用 [[TiddlyHost|Saving on TiddlyHost]]，来自 ~TiddlySpot 创建者的新服务。''">>
+----
+[img[https://raw.githubusercontent.com/simonbaird/tiddlyhost/main/rails/app/assets/images/tiddlyspot-banner-logo.png]]
+
+[[TiddlySpot.com|http://tiddlyspot.com]] 是 2006 年由 Simon Baird 和 Daniel Baird 创建的 ~TiddlyWiki 托管服务。
+
+在 2021 年初，它被 [[TiddlyHost|Saving on TiddlyHost]] 取代，一个新的、安全的、现代的、重新塑造的 ~TiddlySpot。不再支持在 ~TiddlySpot 上创建新网站，（尽管在 2020 年或更早创建的网站仍然有效）。
+
+!! ~TiddlySpot 的安全警告
+
+请注意，当使用 ~TiddlySpot 时，系以明码发送您的密码。以下说明来自 [[FAQ|http://faq.tiddlyspot.com/]] :
+
+<<<
+''Is Tiddlyspot secure?''
+
+No. Tiddlyspot does not use SSL/https, so all ~TiddlySpot web traffic is vulnerable to packet sniffing. This means your password and site data could be intercepted by a malicious third party. For this reason, please don't keep sensitive information in your ~TiddlySpot site, and don't use a password that you use for other web sites.
+<<<
+
+!! 在 ~TiddlySpot 上保存的问题
+
+当您将一个刚刚升级的本机 ~TiddlyWiki 上传到 ~TiddlySpot 时，若遇到此错误：
+
+<<<
+Error: NS_ERROR_DOM_BAD_URI: Access to restricted URI denied
+<<<
+
+此为升级操作违反 Firefox 的安全限制。在这问题被解决之前，我们建议您使用 Google 浏览器。
+
+* 使用 Google 浏览器，打开您想要上传到 ~TiddlySpot 的地 ~TiddlyWiki 文件，并按照 [[Upgrading]] 所述的步骤 1 至 5
+* 一旦你已经检查过托管于 ~TiddlySpot 的 ~TiddlyWiki 在 Chrome 中正确加载，您应该能够再访问、编辑和[[使用 TiddlyFox 保存|Saving with TiddlyFox]]
+* 在您上传本地文件档之后，托管于 ~TiddlySpot 的在线版本的进一步编辑和保存，应该可用于您所选择的任何现代的浏览器。(别忘了填写 ~TiddlySpot 上的密码于您的 ~TiddlySpot ~TiddlyWiki 控制台中，用于您想要用以保存变更的任何新的浏览器。)
+
+//另请参阅：[[Upgrading]]//

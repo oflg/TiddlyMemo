@@ -1,0 +1,12 @@
+caption: {{||Excerpt}}
+created: 20211111055350602
+due: 20220326113756019
+interval: 9
+modified: 20220320033446434
+review: 20220317113756019
+tags: 如何进行渐进阅读？ ?
+title: 摘录
+type: text/vnd.tiddlywiki
+
+
+阅读时选中需要学习的句子，点击 <<.icon $:/core/images/add-comment>> 进行更深层次的摘录。或选中需要学习的外语单词，点击 <<.icon $:/core/images/help>> 进行注解。

@@ -1,6 +1,7 @@
 created: 20210109043935928
-modified: 20210109044020375
+modified: 20220402020757069
 tags: 
 title: $:/config/SaveWikiButton/Filename
+type: text/vnd.tiddlywiki
 
-TiddlyMemo {{$:/plugins/oflg/tiddlymemo!!version}}.html
+{{$:/SiteTitle}}.html

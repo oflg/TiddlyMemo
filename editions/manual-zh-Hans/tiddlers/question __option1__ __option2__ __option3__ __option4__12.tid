@@ -1,0 +1,18 @@
+caption: {{||Select}}
+created: 20220112045833226
+difficulty: 4.929
+due: 20220404050014071
+grade: 1
+history: [{"due":"20220318075247589","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316075247589"}]
+interval: 6
+lapses: 0
+modified: 20220322050014071
+reps: 2
+retrievability: 0.7290000000000001
+review: 20220322050014070
+stability: 12.646047859057882
+tags: ?
+title: question __option1__ __option2__ __option3__ __option4__12
+type: text/vnd.tiddlywiki
+
+Note
