@@ -1,0 +1,29 @@
+{
+    "description": "TiddlyMemo Empty edition zh-Hans",
+	"plugins": [
+        "tiddlywiki/tiddlyweb",
+        "tiddlywiki/filesystem",
+		"tiddlywiki/dynaview",
+        "tiddlywiki/dynannotate",
+        "oflg/fishing",
+        "oflg/fishing-analysis",
+        "oflg/fishing-catchfish",
+        "oflg/fishing-twpub",
+		"oflg/fishing-zh-Hans"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ],
+	"languages": [
+		"zh-Hans"
+	],
+    "build": {
+        "index": [
+            "--rendertiddler",
+			"$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "zh-Hans.html",
+            "text/plain"
+        ]
+    }
+}

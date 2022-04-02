@@ -1,0 +1,8 @@
+dependents: 
+description: Plugin library builder
+list: readme
+name: Plugin Library
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/pluginlibrary
+type: application/json
+version: 5.2.2

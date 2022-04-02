@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20201212170005281
 due: 20220402180855472
 interval: 
-modified: 20220402030645526
+modified: 20220402032022956
 tags: ? [[🦑 TiddlyMemo Manual]]
 title: Usage
 type: text/vnd.tiddlywiki
@@ -26,7 +26,7 @@ You can click on the ''new'' group to start learning, and then click on the ''ne
 
 After completing the learning, you can click on the ''due'' group to do the review. When reviewing the tiddler, the title of it will be displayed first, and you have to recall the answer according to the title. Once you have thought about it, click on <<.icon $:/core/images/unfold-button>> in the tiddler to expand the tiddler and compare the thoughtful answer with the correct answer.
 
-At the bottom of the tiddler there are three buttons and shortcuts to ''grade'' the recall results.
+At the bottom of the tiddler there are three buttons to ''grade'' the recall results.
 
 * @@color:red;''forget''@@ means the answer is forgotten, and will sort the tiddler into the ''undue'' group first, and then into the ''due'' group a few days later.
 

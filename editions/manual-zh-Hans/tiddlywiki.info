@@ -1,5 +1,5 @@
 {
-    "description": "TiddlyMemo Manual",
+    "description": "TiddlyMemo Manual zh-Hans",
 	"plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
