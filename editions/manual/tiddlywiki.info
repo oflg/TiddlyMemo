@@ -4,6 +4,7 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/pluginlibrary",
+        "tiddlywiki/github-fork-ribbon",
         "tiddlywiki/dynaview",
         "tiddlywiki/dynannotate",
         "oflg/fishing",

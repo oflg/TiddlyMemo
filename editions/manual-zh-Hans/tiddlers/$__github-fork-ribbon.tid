@@ -1,0 +1,10 @@
+created: 20220402083005714
+modified: 20220402084320256
+tags: $:/tags/PageControls
+title: $:/github-fork-ribbon
+type: text/vnd.tiddlywiki
+
+<!-- TOP LEFT RIBBON: START COPYING HERE -->
+<div class="github-fork-ribbon-wrapper right"><div class="github-fork-ribbon"><a href="https://github.com/oflg/TiddlyMemo" target="blank" title="给 TiddlyMemo 一颗星">在 ~GitHub 上亮星</a></div>
+</div>
+<!-- TOP LEFT RIBBON: END COPYING HERE -->
