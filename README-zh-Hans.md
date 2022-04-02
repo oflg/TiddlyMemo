@@ -20,7 +20,7 @@
 * 在项目根目录运行 `npm install`
 * 运行 `npm run serve` 开启 TiddlyMemo 服务
 * 运行 `npm run build` 构建离线 HTML 文件
-* 开启或构建更多语言版本的命令详见`package.json`
+* 开启或构建更多语言版本的命令详见 `package.json`
 
 ## ❤️贡献者
 特别感谢以下朋友对 TiddlyMemo 的贡献！

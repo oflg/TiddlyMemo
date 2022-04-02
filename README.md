@@ -23,7 +23,7 @@ Welcome to translate TiddlyMemo into your language, If you encounter problems, p
 * To serve or build a specific language edition, refer to `package.json`
 
 ## ❤️Contributors
-Many thanks to the following people who have contributed to TiddlyMemo!
+Many thanks to the following friends who have contributed to TiddlyMemo!
 
 * [@linonetwo](https://github.com/linonetwo)
 * [@Gk0Wk](https://github.com/Gk0Wk)
