@@ -16,9 +16,6 @@
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],
-    "languages": [
-        "fishing-en-GB"
-    ],
     "build": {
         "index": [
             "--rendertiddler",

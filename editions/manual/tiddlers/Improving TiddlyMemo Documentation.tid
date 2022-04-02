@@ -1,12 +1,11 @@
 created: 20140820151051019
-modified: 20220401184216787
+modified: 20220402125032155
 tags: Community
 title: Improving TiddlyMemo Documentation
 type: text/vnd.tiddlywiki
 
-Anyone can submit improvements to the TiddlyMemo documentation that appears on https://tiddlymemo.org/manual/ . (For improvements to the core code a more complicated process must be used because of the need to test the changes both in the browser and under Node.js before submission).
+Anyone can submit improvements to the ~TiddlyMemo documentation that appears on https://tiddlymemo.org/manual/ . (For improvements to the core code a more complicated process must be used because of the need to test the changes both in the browser and under Node.js before submission).
 
-# Read and observe the [[Documentation Style Guide]]
 # Create an account on https://github.com if you don't already have one
 # On https://tiddlymemo.org/manual/, click "edit" on the tiddler you want to improve
 # You should see a pink banner with the text: //Can you help us improve this documentation? Find out how to edit this tiddler on ~GitHub//

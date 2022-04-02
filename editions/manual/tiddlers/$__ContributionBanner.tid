@@ -1,12 +1,12 @@
 created: 20220401061636267
 list-after: $:/core/ui/EditTemplate/title
-modified: 20220401184015560
+modified: 20220402125056262
 tags: $:/tags/EditTemplate
 title: $:/ContributionBanner
 type: text/vnd.tiddlywiki
 
 \define base-github()
-https://github.com/oflg/TiddlyMemo/editions/manual/tiddlers/
+https://github.com/oflg/TiddlyMemo/edit/main/editions/manual/tiddlers/
 \end
 
 <$set name="draft-of" value={{{ [<currentTiddler>get[draft.of]] }}}>
