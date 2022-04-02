@@ -1,9 +1,0 @@
-created: 20220401090749541
-modified: 20220401170841582
-tags: $:/tags/StartupAction
-title: $:/StartupAction
-type: text/vnd.tiddlywiki
-
-<$action-setfield $tiddler="$:/state/sidebar" $value="no"/>
-
-<$action-setfield $tiddler="$:/palette" $value={{{ [{$:/info/darkmode}match[yes]then[$:/themes/nico/notebook/palettes/palette-dark]else[$:/themes/nico/notebook/palettes/palette-grey]] }}}/>

@@ -1,0 +1,12 @@
+{
+    "grid-sticky-header-background": "<<colour page-background>>",
+    "grid-item-background": "<<colour background>>",
+    "grid-item-border": "<<colour tiddler-border>>",
+    "header-background": "<<colour page-background>>",
+    "header-position-mobile-no-searchbar": "calc(4px + 3em)",
+    "header-position-mobile-yes-searchbar": "calc(4px + 3em + 6px + {{$:/themes/tiddlywiki/vanilla/metrics/fontsize}} + 2px + 1.5em)",
+    "header-position-desktop": "56px",
+    "day-palette": "$:/themes/jd/Mono/Palette/SpartanDay",
+    "night-palette": "$:/themes/jd/Mono/Palette/SpartanNight",
+    "button-fontscroller": "hide"
+}

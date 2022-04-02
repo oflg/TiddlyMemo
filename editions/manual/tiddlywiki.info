@@ -1,6 +1,6 @@
 {
     "description": "TiddlyMemo Manual",
-	"plugins": [
+    "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/pluginlibrary",
@@ -15,10 +15,13 @@
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
     ],
-	"build": {
+    "languages": [
+        "fishing-en-GB"
+    ],
+    "build": {
         "index": [
             "--rendertiddler",
-			"$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
             "index.html",
             "text/plain"
         ]

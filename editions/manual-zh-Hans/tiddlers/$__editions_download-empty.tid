@@ -1,11 +1,11 @@
 code-body: yes
 created: 20220401172140173
-modified: 20220402030310744
+modified: 20220402071706775
 title: $:/editions/download-empty
 type: text/vnd.tiddlywiki
 
 \define saveTiddlerFilter()
-[prefix[$:/plugins/]] [prefix[$:/themes/]] [prefix[$:/languages/]] [prefix[$:/editions/tw5.com/]] [[$:/core]] [[$:/theme]] [[$:/language]] [[$:/isEncrypted]] [[$:/StartupAction]] [[$:/ManualStyles]] [[GettingStarted]] [[使用]] [[$:/config/PageControlButtons/Visibility/$:/themes/nico/notebook/ui/Buttons/SwitchPalette]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+[prefix[$:/plugins/]] [prefix[$:/themes/]] [prefix[$:/languages/]] [prefix[$:/editions/tw5.com/]] [[$:/core]] [[$:/theme]] [[$:/language]] [[$:/isEncrypted]] [[$:/ManualStyles]] [[GettingStarted]] [[使用]] [[$:/config/PageControlButtons/Visibility/$:/themes/nico/notebook/ui/Buttons/SwitchPalette]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
 \end
 \define savingEmpty()
 yes

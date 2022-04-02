@@ -1,6 +1,8 @@
-caption: 开始使用
+caption: {{||Excerpt}}
 created: 20220401181453377
-modified: 20220402025822966
+due: 20220403071840579
+interval: 
+modified: 20220402071845559
 tags: $:/tags/GettingStarted ?
 title: GettingStarted
 type: text/vnd.tiddlywiki

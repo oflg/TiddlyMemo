@@ -1,5 +1,5 @@
 created: 20210127203128930
-modified: 20220401171828024
+modified: 20220402065906208
 tags: $:/tags/Stylesheet
 title: $:/ManualStyles
 type: text/vnd.tiddlywiki
@@ -25,18 +25,4 @@ blockquote {
     margin-right: 0;
 	padding-left: 10px;
 	quotes: "\201C""\201D""\2018""\2019";
-}
-
-.tc-unfold-banner {
-	position: absolute;
-	padding: 0;
-	margin: 0;
-	margin-left: -60px;
-	background: none;
-	border: none;
-	width: 100%;
-	width: calc(100% + 2px);
-	text-align: center;
-	border-top: 2px solid <<colour tiddler-info-background>>;
-	margin-top: 4px;
 }
