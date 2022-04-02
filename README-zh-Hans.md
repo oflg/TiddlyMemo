@@ -1,4 +1,4 @@
-# 🐟🧠TiddlyMemo
+# 🦑TiddlyMemo
 
 基于 [TiddlyWiki](https://tiddlywiki.org/) 的[渐进学习](https://help.supermemo.org/wiki/Incremental_learning)程序。终身知识，深入脑海。
 
@@ -12,10 +12,10 @@
 欢迎把翻译 TiddlyMemo 翻译成你的母语，遇到问题可[留言](https://github.com/oflg/TiddlyMemo/issues)。
 
 ## ⬇️安装
-* 可在 [TiddlyMemo 官网](https://tiddlymemo.org/zh-Hans.html)查看简介。
-* 可在 [TiddlyMemo 手册](https://tiddlymemo.org/manual/zh-Hans.html)查看安装和使用教程。
+* 可在 [TiddlyMemo 官网](https://tiddlymemo.org/zh-Hans)查看简介。
+* 可在 [TiddlyMemo 手册](https://tiddlymemo.org/manual/zh-Hans)查看安装和使用教程。
 
-## 🧑‍💻开发
+## ⌨️开发
 * 安装 Node.js
 * 在项目根目录运行 `npm install`
 * 运行 `npm run serve` 开启 TiddlyMemo 服务

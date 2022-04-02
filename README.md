@@ -1,4 +1,4 @@
-# 🐟🧠TiddlyMemo
+# 🦑TiddlyMemo
 
 [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) program based on [TiddlyWiki](https://tiddlywiki.org/), deepening lifelong knowledge into the Sea of Mind.
 
@@ -15,7 +15,7 @@ Welcome to translate TiddlyMemo into your language, If you encounter problems, p
 * Introduction is available at [TiddlyMemo website](https://tiddlymemo.org/). 
 * Installation and usage manual is available at [TiddlyMemo Manual](https://tiddlymemo.org/manual/).
 
-## 🧑‍💻Development
+## ⌨️Development
 * Install Node.js
 * In the root folder of the project run `npm install`
 * To start the TiddlyMemo server, run `npm run serve`.

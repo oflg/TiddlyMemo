@@ -1,5 +1,5 @@
 created: 20220401070141326
-modified: 20220401125916218
+modified: 20220402014048359
 title: 支持的语言
 type: text/vnd.tiddlywiki
 
@@ -18,6 +18,7 @@ $(languagePluginTitle)$/icon
 </$list>
 </$transclude>
 </$set>
+<$button message="tm-open-external-window" param={{{ [<currentTiddler>addprefix[https://tiddlymemo.org/manual/]search-replace[$:/languages/],[]search-replace[en-GB],[]] }}} class="tc-btn-invisible tc-tiddlylink">
 <$view subtiddler="$:/language/ControlPanel/Basics/Language/Prompt">
 <$view tiddler="$:/language/ControlPanel/Basics/Language/Prompt"/>
 </$view><$view field="description">
@@ -25,9 +26,10 @@ $(languagePluginTitle)$/icon
 <$view field="title"/>
 </$view>
 </$view>
+</$button>
 </span>
 </div>
 </$list>
 </div>
 
-等不急了？[[打开传送门|https://tiddlymemo.org/manual/]]吧。
+等不急了？点击对应语言打开传送门！
