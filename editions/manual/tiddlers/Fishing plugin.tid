@@ -1,11 +1,11 @@
 caption: {{||Excerpt}}
 created: 20211111062231718
-due: 20220325113722429
-interval: 8
-modified: 20220402030919181
+due: 20220412054932360
+interval: 9
+modified: 20220403054932360
 priority: 10
-review: 20220317113722429
-tags: ? [[Included plugins]]
+review: 20220403054932360
+tags: [[Included plugins]] ?
 title: Fishing plugin
 type: text/vnd.tiddlywiki
 
