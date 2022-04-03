@@ -2,7 +2,8 @@
     "description": "TiddlyMemo website zh-Hans",
 	"plugins": [
         "tiddlywiki/tiddlyweb",
-        "tiddlywiki/filesystem"
+        "tiddlywiki/filesystem",
+        "tiddlywiki/powered-by-tiddlywiki"
     ],
     "themes": [
         "tiddlywiki/vanilla",

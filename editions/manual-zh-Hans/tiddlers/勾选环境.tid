@@ -40,7 +40,7 @@ type: text/vnd.tiddlywiki
 <$action-listops $subfilter="-[[$item$]]"/>
 \end
 
-勾选使用 ~TiddlyMemo 的环境：
+勾选使用墨屉的环境：
 
 <div class="tc-wrapper-flex">
 <div class="tc-saving-sidebar">

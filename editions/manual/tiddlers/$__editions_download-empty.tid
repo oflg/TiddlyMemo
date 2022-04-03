@@ -1,11 +1,11 @@
 code-body: yes
 created: 20220401172140173
-modified: 20220402071601286
+modified: 20220403020651207
 title: $:/editions/download-empty
 type: text/vnd.tiddlywiki
 
 \define saveTiddlerFilter()
-[prefix[$:/plugins/]] [prefix[$:/themes/]] [prefix[$:/languages/]] [prefix[$:/editions/tw5.com/]] [[$:/core]] [[$:/theme]] [[$:/language]] [[$:/isEncrypted]] [[$:/ManualStyles]] [[GettingStarted]] [[Usage]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+[prefix[$:/plugins/oflg/fishing]]  [[$:/plugins/tiddlywiki/dynaview]] [[$:/plugins/tiddlywiki/dynannotate]] [[$:/plugins/Gk0Wk/echarts]] [[$:/plugins/felixhayashi/hotzone]] [[$:/config/ChinesePluginLibrary]] [prefix[$:/themes/]] [prefix[$:/languages/]] [prefix[$:/editions/tw5.com/]] [[$:/core]] [[$:/theme]] [[$:/language]] [[$:/isEncrypted]] [[$:/ManualStyles]] [[GettingStarted]] [[Usage]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
 \end
 \define savingEmpty()
 yes
