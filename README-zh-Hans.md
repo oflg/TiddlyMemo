@@ -1,6 +1,6 @@
 # 🦑墨屉
 
-基于 [TiddlyWiki](https://tiddlywiki.org/) 的[渐进学习](https://help.supermemo.org/wiki/Incremental_learning)程序。终身知识，深入脑海。
+终身知识，深入脑海。墨屉采用先进的[渐进学习](https://help.supermemo.org/wiki/Incremental_learning)理念，是助你获得终身知识的第二大脑。
 
 ## 🎏语言
 
@@ -9,11 +9,11 @@
 * [English](https://github.com/oflg/TiddlyMemo/blob/main/README.md)
 
 ### 翻译
-欢迎把翻译墨屉翻译成你的母语，遇到问题可[留言](https://github.com/oflg/TiddlyMemo/issues)。
+欢迎把墨屉翻译成你的母语，遇到问题可[留言](https://github.com/oflg/TiddlyMemo/issues)。
 
 ## ⬇️安装
-* 可在 [墨屉官网](https://tiddlymemo.org/zh-Hans)查看简介。
-* 可在 [墨屉手册](https://tiddlymemo.org/manual/zh-Hans)查看安装和使用教程。
+* 可在[墨屉官网](https://tiddlymemo.org/zh-Hans)查看简介。
+* 可在[墨屉手册](https://tiddlymemo.org/manual/zh-Hans)查看安装和使用教程。
 
 ## ⌨️开发
 * 安装 Node.js

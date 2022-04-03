@@ -1,6 +1,6 @@
 # 🦑TiddlyMemo
 
-[Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) program based on [TiddlyWiki](https://tiddlywiki.org/), deepening lifelong knowledge into the Sea of Mind.
+Lifelong knowledge, deep in the Sea of Mind. It uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) program based on [TiddlyWiki](https://tiddlywiki.org/) concepts to make it your powerful second brain for acquiring lifelong knowledge.
 
 ## 🎏Languages
 
