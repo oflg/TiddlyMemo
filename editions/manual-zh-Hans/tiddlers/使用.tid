@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20211111054019363
 due: 20220326113754135
 interval: 9
-modified: 20220403023455488
+modified: 20220403102535033
 review: 20220317113754135
 tags: ? 🦑墨屉手册
 title: 使用
@@ -35,7 +35,7 @@ type: text/vnd.tiddlywiki
 
 * @@color:blue;''掌握''@@ 意味着掌握了问题，会先把条目分到''未到期''组，许多天后会按日程把条目分到''已到期''组。
 
-条目右下角 @@color:#5778d8; ''⁝''@@ 按钮有更多功能。例如 ''舍弃'' 意味不再学习此条目。可<$reveal default={{$:/toquestion}} type="nomatch" text="">点此示例 {{问题1||$:/toquestion}} 模拟体验评分过程。</$reveal>
+条目右下角 @@color:#5778d8; ''⁝''@@ 按钮有更多功能。例如 ''舍弃'' 意味不再学习此条目。<$reveal default={{$:/toquestion}} type="nomatch" text="">可点此示例 {{问题1||$:/toquestion}} 模拟体验评分过程。</$reveal>
 
 整个学习过程的形象的说法是：“抛竿”后“记忆池里的鱼”一个接一个“上钩”，根据其的“成熟程度”，先被放到养到“''未到期''记忆池”，再被择期放养到“''已到期''记忆池”。
 <<<
