@@ -5,8 +5,8 @@
 ## 🎏语言
 
 ### 支持的语言
-* [中文简体](https://github.com/oflg/TiddlyMemo/blob/main/README-zh-Hans.md)
-* [English](https://github.com/oflg/TiddlyMemo/blob/main/README.md)
+* [中文简体](https://github.com/oflg/TiddlyMemo/blob/master/README-zh-Hans.md)
+* [English](https://github.com/oflg/TiddlyMemo/blob/master/README.md)
 
 ### 翻译
 欢迎把墨屉翻译成你的母语，遇到问题可[留言](https://github.com/oflg/TiddlyMemo/issues)。

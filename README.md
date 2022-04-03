@@ -5,8 +5,8 @@ Lifelong knowledge, deep in the Sea of Mind. It uses advanced [Incremental Learn
 ## 🎏Languages
 
 ### Supported Languages
-* [English](https://github.com/oflg/TiddlyMemo/blob/main/README.md)
-* [中文简体](https://github.com/oflg/TiddlyMemo/blob/main/README-zh-Hans.md)
+* [English](https://github.com/oflg/TiddlyMemo/blob/master/README.md)
+* [中文简体](https://github.com/oflg/TiddlyMemo/blob/master/README-zh-Hans.md)
 
 ### Translations
 Welcome to translate TiddlyMemo into your language, If you encounter problems, please  [Open Issues](https://github.com/oflg/TiddlyMemo/issues).
