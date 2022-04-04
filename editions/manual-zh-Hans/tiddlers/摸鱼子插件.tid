@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220315072658071
 due: 20220325113751033
 interval: 8
-modified: 20220402023954564
+modified: 20220404060415427
 priority: 0
 review: 20220317113751033
 tags: 相关插件 ?
@@ -14,13 +14,15 @@ type: text/vnd.tiddlywiki
 <<<.tc-big-quote
 可在阅读中摘录句子，也可注释单词并配合单词学习包来学习外语。
 
-安装单词包后，阅读中的生词会自动标红注释。
+安装单词包后，阅读中的生词会自动标红注释。可参照 [[如何进行渐进阅读？]] 来使用。
 
-可参照 [[如何进行渐进阅读？]] 来使用。
+@@color:green;此插件需要 <$link to="$:/plugins/tiddlywiki/dynaview" >Dynaview 插件</$link>和 <$link to="$:/plugins/tiddlywiki/dynannotate" >Dynannotate 插件</$link>依赖，推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''~TiddlyWiki 官方插件库''中搜索插件名，一键安装和更新更多插件。@@
 <<<
+
+
 
 [[导入 TWPUB 电子书子插件]]
 
-<<<.tc-fish-quote
+<<<
 {{导入 TWPUB 电子书子插件}}
 <<<

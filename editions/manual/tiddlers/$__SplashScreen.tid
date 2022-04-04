@@ -1,6 +1,6 @@
 created: 20180927082601825
 creator: oflg
-modified: 20220401163826913
+modified: 20220404060720840
 modifier: oflg
 tags: $:/tags/RawMarkupWikified/TopBody
 title: $:/SplashScreen
@@ -73,18 +73,11 @@ html body.tc-body {
 </style>
 
 <div class="tc-splash-text">
-TiddlyMemo Manual
+<span style="font-size:100px;line-height:120px;">🦑</span>
 </div>
-
 <div class="tc-splash-spinner">
   <div class="tc-splash-bounce-1"></div>
   <div class="tc-splash-bounce-2"></div>
   <div class="tc-splash-bounce-3"></div>
 </div>
-
-<div class="tc-splash-text">
-<img src="https://pic4.zhimg.com/v2-d87d82dfdc9e830e21ba6ac2009dac03" width="40%"/>
-</div>
-
-
 </div>

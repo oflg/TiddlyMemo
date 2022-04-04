@@ -2,8 +2,7 @@
     "description": "TiddlyMemo website",
     "plugins": [
         "tiddlywiki/tiddlyweb",
-        "tiddlywiki/filesystem",
-        "tiddlywiki/pluginlibrary"
+        "tiddlywiki/filesystem"
     ],
     "themes": [
         "tiddlywiki/vanilla",
@@ -37,24 +36,6 @@
             "$:/core/templates/static.template.css",
             "static/static.css",
             "text/plain"
-        ],
-        "library": [
-            "--makelibrary",
-            "$:/UpgradeLibrary",
-            "--savelibrarytiddlers",
-            "$:/UpgradeLibrary",
-            "[prefix[$:/plugins/]!prefix[$:/plugins/tiddlywiki/]!prefix[$:/languages/]!prefix[$:/themes/tiddlywiki/]!tag[$:/tags/PluginLibrary]][[$:/plugins/tiddlywiki/dynannotate]][[$:/plugins/tiddlywiki/dynaview]]",
-            "recipes/library/tiddlers/",
-            "$:/UpgradeLibrary/List",
-            "--savetiddler",
-            "$:/UpgradeLibrary/List",
-            "recipes/library/tiddlers.json",
-            "--rendertiddler",
-            "$:/plugins/tiddlywiki/pluginlibrary/library.template.html",
-            "index.html",
-            "text/plain",
-            "--deletetiddlers",
-            "[[$:/UpgradeLibrary]][[$:/UpgradeLibrary/List]]"
         ]
     }
 }

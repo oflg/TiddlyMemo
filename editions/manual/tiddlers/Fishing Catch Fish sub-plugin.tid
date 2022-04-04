@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220315111605623
 due: 20220325113752912
 interval: 8
-modified: 20220401163257033
+modified: 20220404055650654
 priority: 0
 review: 20220317113752912
 tags: ? [[Included plugins]]
@@ -12,9 +12,9 @@ type: text/vnd.tiddlywiki
 Use to [[incrementally read|https://help.supermemo.org/wiki/Incremental_learning#Incremental_reading]] existing or imported tiddlers.
 
 <<<.tc-big-quote
-You can excerpt sentences as you read, or annotate words with the Learning Pack and learn foreign languages.
+You can excerpt sentences as you read, or annotate words with the Learning Pack and learn foreign languages.  You can refer to [[How to do incremental reading?]] to use it.
 
-You can refer to [[How to do incremental reading?]] to use it.
+@@color:green;It depends on <$link to="$:/plugins/tiddlywiki/dynaview">Dynaview plugin</$link> and <$link to="$:/plugins/tiddlywiki/dynannotate">Dynannotate plugin</$link>. It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install it and get updates with one click in ''Official ~TiddlyWiki Plugin Library''.@@
 <<<
 
 
