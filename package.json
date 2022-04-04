@@ -24,7 +24,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:oflg/TiddlyMemo.git"
+        "url": "https://github.com/oflg/TiddlyMemo.git"
     },
     "keywords": [
         "tiddlywiki",
