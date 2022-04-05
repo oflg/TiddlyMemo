@@ -1,6 +1,6 @@
 # 🦑TiddlyMemo
 
-Lifelong knowledge, deep in the Sea of Mind. It uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) program based on [TiddlyWiki](https://tiddlywiki.org/) concepts to make it your powerful second brain for acquiring lifelong knowledge.
+Lifelong knowledge, deep in the Sea of Mind. It uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
 
 ## 🎏Languages
 
@@ -9,7 +9,7 @@ Lifelong knowledge, deep in the Sea of Mind. It uses advanced [Incremental Learn
 * [中文简体](https://github.com/oflg/TiddlyMemo/blob/master/README-zh-Hans.md)
 
 ### Translations
-Welcome to translate TiddlyMemo into your language, If you encounter problems, please  [Open Issues](https://github.com/oflg/TiddlyMemo/issues).
+Welcome to translate TiddlyMemo into your language, If you encounter problems, please [Open Issues](https://github.com/oflg/TiddlyMemo/issues).
 
 ## ⬇️Installation
 * Introduction is available at [TiddlyMemo website](https://tiddlymemo.org/). 
