@@ -1,0 +1,20 @@
+caption: {{||Question}}
+created: 20211015001749734
+creator: oflg
+difficulty: 4.981454011532958
+due: 20220421024118687
+grade: 1
+history: [{"due":"20220228052944600","interval":"3","difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":"1","lapses":0,"reps":2,"review":"20220221052944600"},{"due":"20220228052944600","interval":3,"difficulty":5.0538149682454625,"stability":7.290234566162131,"retrievability":0.8538149682454624,"grade":1,"lapses":0,"reps":2,"review":"20220221052944600"}]
+interval: 22
+lapses: 0
+modified: 20220315024118687
+modifier: oflg
+reps: 3
+retrievability: 0.7276390432874948
+review: 20220315024118687
+stability: 37.20075417048674
+tags: ?
+title: 问题1
+type: text/vnd.tiddlywiki
+
+答案

@@ -1,0 +1,21 @@
+caption: {{||Cloze}}
+created: 20211015001348330
+creator: oflg
+difficulty: 4.2396658832655385
+due: 20220504052400530
+grade: 1
+history: [{"due":"20220120013316593","interval":"2","difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":"0","lapses":1,"reps":1,"review":"20220119013316592"},{"due":"20220126053247128","interval":"2","difficulty":5.167428822055195,"stability":5.1714717763400575,"retrievability":0.8674288220551943,"grade":"2","lapses":1,"reps":2,"review":"20220121053247127"},{"due":"20220222061928826","interval":"10","difficulty":4.183108052168684,"stability":21.775247197297507,"retrievability":0.8156792301134891,"grade":"2","lapses":1,"reps":3,"review":"20220131061928826"},{"due":"20220222061928826","interval":10,"difficulty":4.183108052168684,"stability":21.775247197297507,"retrievability":0.8156792301134891,"grade":2,"lapses":1,"reps":3,"review":"20220131061928826"}]
+interval: 32
+lapses: 1
+modified: 20220304052400530
+modifier: oflg
+priority: 100
+reps: 4
+retrievability: 0.8565578310968542
+review: 20220304052400529
+stability: 61.36536212431961
+tags: ?
+title: 问题__挖空1__和__挖空2__
+type: text/vnd.tiddlywiki
+
+备注

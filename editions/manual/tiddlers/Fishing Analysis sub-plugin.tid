@@ -1,0 +1,20 @@
+caption: {{||Excerpt}}
+created: 20220111073643059
+due: 20220325113747929
+interval: 8
+modified: 20220404055722275
+review: 20220317113747929
+tags: ? [[Included plugins]]
+title: Fishing Analysis sub-plugin
+type: text/vnd.tiddlywiki
+
+Graphical visualization of Fishing data.
+
+
+<<<.tc-big-quote
+It can be used by opening ''Fishing'' in the sidebar.
+
+@@color:green;It depends on <$link to="$:/plugins/Gk0Wk/echarts" tooltip="Fishing Analysis">ECharts plugin</$link>. It is recommended to use the [[Community Plugin Library|https://tiddly-gittly.github.io/TiddlyWiki-CPL/#oflg%2FFishing%20Analysis:%5B%5Boflg%2FFishing%20Analysis%5D%5D%20Gk0Wk%2Fecharts]] to install it and get updates.@@
+<<<
+
+

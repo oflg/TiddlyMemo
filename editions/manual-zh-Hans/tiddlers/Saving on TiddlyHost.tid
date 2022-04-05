@@ -1,0 +1,17 @@
+caption: ~TiddlyHost
+color: #29B6F6
+community-author: Simon Baird
+created: 20210422191232572
+delivery: Service
+description: 创建和托管 TiddlyWikis 的在线服务
+method: save
+modified: 20210424024525868
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera PHP Safari Saving Windows iOS Edge
+title: Saving on TiddlyHost
+type: text/vnd.tiddlywiki
+
+[img width=140 [https://github.com/simonbaird/tiddlyhost/raw/main/rails/app/assets/images/logo-800.png]]
+
+[[TiddlyHost.com|https://tiddlyhost.com/]] 是 Simon Baird 创建的 ~TiddlyWiki 的托管服务。注册并确认您的电子邮件后，您可以创建 "网站"，(即 ~TiddlyWikis)，支持在线保存。网站可以是私人的或公开的，您可以选择性地将其列于可标签和可搜索的 [[TiddlyHost Hub|https://tiddlyhost.com/hub]]，在那里他们会被其他人发现。
+
+不像 [[TiddlySpot|Saving on TiddlySpot]]，[[TiddlyHost|https://tiddlyhost.com]] 是安全的、开源，且对 ~TiddlyWiki5 提供适当的支持。且允许上传现有的 ~TiddlyWiki 文件，支持 ~TiddlyWikiclassic，并允许申请您的 ~TiddlySpot 网站的拥有权。详见 [[FAQ|https://github.com/simonbaird/tiddlyhost/wiki/FAQ]] 和 [[About|https://tiddlyhost.com/about]] 页面。

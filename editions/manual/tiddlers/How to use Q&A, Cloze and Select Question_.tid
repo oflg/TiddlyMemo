@@ -1,0 +1,26 @@
+caption: {{||Question}}
+created: 20211111070830295
+difficulty: 5.095060034199421
+due: 20220519113824529
+grade: 1
+history: [{"due":"20220214062045868","interval":"7","difficulty":4.8915901242788244,"stability":14.421632209922258,"retrievability":0.6915901242788246,"grade":"1","lapses":0,"reps":2,"review":"20220131062045868"},{"due":"20220317124604724","interval":"14","difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":"1","lapses":0,"reps":3,"review":"20220214124604724"},{"due":"20220317124604724","interval":14,"difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":1,"lapses":0,"reps":3,"review":"20220214124604724"}]
+interval: 31
+lapses: 0
+modified: 20220401182259406
+reps: 4
+retrievability: 0.9006933386938285
+review: 20220317113824528
+stability: 62.66993218757949
+tags: [[Advanced Tips]] ?
+title: How to use Q&A, Cloze and Select Question?
+type: text/vnd.tiddlywiki
+
+Add field `caption` with `{{||tiddlerTemplate}}` to tiddler and ensure that it's title and text match the form of the Question Template.
+
+|Tiddler Template|>| title |>| text | caption | Example |h
+|~|Composition | Form | Composition | Form |~|~|h
+|Q&A Question Tiddler| Question | At will | Answer | essential  |`{{||Question}}`| {{Question1||$:/toquestion}} |
+|Cloze Question Tiddler| Question and Cloze | `question __cloze1__ question __cloze2__`.<br>The clozes will be shown or hidden when clicked. | Note | not essential |`{{||Cloze}}`| {{question __cloze1__ question __cloze2__||$:/toquestion}} |
+|Select Question Tiddler| Question, Option and Answer| `question __option1__ __option2__ __option3__ __option4__1234 or ABCD`.<br>For answers: numbers support 1-9, uppercase letters support A-I. | Note | not essential |`{{||Cloze}}`| {{question __option1__ __option2__ __option3__ __option4__12||$:/toquestion}} |
+
+You can write Question Templates as needed，or get and share them on <a href="https://github.com/oflg/fishing/issues?q=label%3A%22qusetion+template%22" target="_blank" title="qusetion template issues"><img height=16 src="https://img.shields.io/github/issues/oflg/fishing/qusetion%20template?style=social"></a>.

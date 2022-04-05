@@ -1,0 +1,48 @@
+caption: PHP
+color: #F06292
+created: 20140111091844267
+delivery: DIY
+description: 可以在自己的服务器上安装的 DIY 脚本
+method: save
+modified: 20200614232551974
+tags: Saving PHP
+title: Saving on a PHP Server
+type: text/vnd.tiddlywiki
+
+内置的 TiddlySpot 保存模块，也可使用于保存变更至一个可以运行于大多数托管服务的简单 PHP 脚本。
+
+//这些都是需要核查的初步说明//
+
+# 从 https://code.google.com/archive/p/bidix/downloads 下载 `TiddlyHome_0.1.2.zip`
+# 解压缩 
+# 从解压缩子目录 `_th\lib` 下的副本提取 `store.php`  
+# 编辑您的 ''store.php''，加入您的帐号与密码。找到此行 `$USERS = array( 'UserName1'=>'Password1', etc)` 然后替换 Username1 及 Password1 为您的帐号与密码
+#* 请确保所有的标点符号和代码完整，例如单引号。
+# 保存文件
+# 使用 FTP 或 web 界面，将 ''store.php'' 上传到您的服务器。请确保文件名是正确
+#* 若您已正确上传文件，应该能在您的浏览器查看之 （例如，http://example.com/store.php）
+# 在 TiddlyWiki <<.icon $:/core/images/options-button>>''控制台''的''保存''页签，输入以下信息：
+#* 您的用户名为维基名称
+#* 您的密码
+#* ''store.php'' 文件的网址 (//''不是''维基的网址，必须是 ''store.php'' 文件的完整的 URL//)
+
+控制台的''保存''页签包括以下配置选项：
+
+|!名称 |!描述 |
+|Server URL |到您的服务器上的 ''store.php'' 文件的完整的 URL |
+|Upload filename |用于保存 TiddlyWiki 的文件名 (默认为 ''index.html'') |
+|Upload directory |从 ''store.php'' 到用于保存文件的文件夹的相对路径 |
+|Backup directory |从 ''store.php'' 到用于备份文件的文件夹的相对路径 |
+
+!!! 注意文件的最大限制
+
+当您的 TW 文件大小添加，可能需要修改您的 `.htaccess` 或 `htaccess` 文件（取决于系统），添加的最大上传值且/或 post 大小。请与您的网页主机供应商确认您的特定设置。务必在实验之前做好备份。在某些系统上，设置可能看起来像︰
+
+```
+php_value upload_max_filesize 10M
+php_value post_max_size 12M
+```
+
+!!! 请注意可能的错误消息
+
+如果您收到有关 `split()` 的错误消息，您可能需要将 ''store.php'' 对 `split` 的引用改为 `explode` 函数。

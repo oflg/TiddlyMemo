@@ -1,0 +1,13 @@
+caption: {{||Excerpt}}
+created: 20211111074227863
+due: 20220324075614572
+interval: 8
+modified: 20220316075614572
+review: 20220316075614572
+tags: [[How to do incremental reading?]] ?
+title: Import
+type: text/vnd.tiddlywiki
+
+Edit or create an existing tiddler, then click <<.icon $:/plugins/oflg/fishing-catchfish/icons/setexcerpt>> on the edit bar to set it as ''Excerpt Tiddler''.
+
+Or import reading material directly from external sources. [[Importing TWPUB Books|Import TWPUB Books sub-plugin]] is currently supported.

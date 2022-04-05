@@ -1,0 +1,186 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="application-name" content="TiddlyWiki Plugin Library" />
+<meta name="application-version" content="v0.0.0" />
+<meta name="copyright" content="Copyright 2015 Jeremy Ruston" />
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<title>Plugin Library</title>
+<script>
+var assetList = [
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.2",
+        "description": "Integrate Spaced Repetition System into TiddlyWiki using FSRS algorithm",
+        "list": "readme license",
+        "name": "Fishing",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/fishing",
+        "title": "$:/plugins/oflg/fishing",
+        "version": "2.2.0",
+        "dependents": "",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans]]查看安装使用教程。",
+        "requires-reload": "yes"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.2",
+        "dependents": "$:/plugins/Gk0Wk/echarts",
+        "description": "Analysis for Fishing",
+        "list": "readme license",
+        "name": "Fishing Analysis",
+        "parent-plugin": "$:/plugins/oflg/fishing",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/fishing-analysis",
+        "title": "$:/plugins/oflg/fishing-analysis",
+        "version": "0.3.0",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Fishing%20Analysis%20sub-plugin]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#钓鱼分析子插件]]查看安装使用教程。\n",
+        "requires-reload": "yes"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.2",
+        "dependents": "$:/plugins/oflg/fishing $:/plugins/tiddlywiki/dynaview $:/plugins/tiddlywiki/dynannotate",
+        "description": "Catch Fish for Fishing",
+        "list": "readme license",
+        "name": "Fishing Catchfish",
+        "parent-plugin": "$:/plugins/oflg/fishing",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/fishing-catchfish",
+        "title": "$:/plugins/oflg/fishing-catchfish",
+        "version": "0.2.0",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Fishing%20Catch%20Fish%20sub-plugin]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#摸鱼子插件]]查看安装使用教程。",
+        "requires-reload": "no"
+    },
+    {
+        "author": "oflg",
+        "core-version": ">=5.2.2",
+        "description": "Import TWPUB into Fishing",
+        "list": "readme license",
+        "name": "Fishing TWPUB",
+        "parent-plugin": "$:/plugins/oflg/fishing-catchfish",
+        "plugin-type": "plugin",
+        "source": "https://github.com/oflg/fishing-twpub",
+        "title": "$:/plugins/oflg/fishing-twpub",
+        "version": "0.2.0",
+        "dependents": "",
+        "type": "application/json",
+        "readme": "Copyright statement: the source code under `twpub` folder comes from https://github.com/TWPUB/TWPUB-Tools .\n\nInstallation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Import%20TWPUB%20Books%20sub-plugin]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#导入 TWPUB 电子书子插件]]查看安装使用教程。\n\n",
+        "requires-reload": "no"
+    },
+    {
+        "title": "$:/plugins/oflg/fishing-zh-Hans",
+        "name": "Fishing zh-Hans",
+        "plugin-type": "plugin",
+        "description": "Fishing Chinese (Simplified)",
+        "parent-plugin": "$:/plugins/oflg/fishing",
+        "author": "oflg",
+        "version": "0.1.0",
+        "list": "readme license",
+        "core-version": ">=5.2.2",
+        "dependents": "",
+        "type": "application/json",
+        "readme": "Installation and usage tutorial is available at [[TiddleMemo Manual|https://tiddlymemo.org/manual/]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans]]查看安装使用教程。",
+        "requires-reload": "no"
+    }
+];
+
+/*\
+title: $:/plugins/tiddlywiki/pluginlibrary/libraryserver.js
+type: application/javascript
+module-type: library
+
+A simple HTTP-over-window.postMessage implementation of a standard TiddlyWeb-compatible server. It uses real HTTP to load the individual tiddler JSON files.
+
+\*/
+(function(){
+
+/*jslint node: true, browser: true */
+/*global $tw: false */
+"use strict";
+
+// Listen for window messages
+window.addEventListener("message",function listener(event){
+	console.log("plugin library: Received message from",event.origin);
+	console.log("plugin library: Message content",event.data);
+	switch(event.data.verb) {
+		case "GET":
+			if(event.data.url === "recipes/library/tiddlers.json") {
+				// Route for recipes/library/tiddlers.json
+				event.source.postMessage({
+					verb: "GET-RESPONSE",
+					status: "200",
+					cookies: event.data.cookies,
+					url: event.data.url,
+					type: "application/json",
+					body: JSON.stringify(assetList,null,4)
+				},"*");
+			} else if(event.data.url.indexOf("recipes/library/tiddlers/") === 0) {
+				var url = "recipes/library/tiddlers/" + encodeURIComponent(removePrefix(event.data.url,"recipes/library/tiddlers/"));
+				// Route for recipes/library/tiddlers/<uri-encoded-tiddler-title>.json
+				httpGet(url,function(err,responseText) {
+					if(err) {
+						event.source.postMessage({
+							verb: "GET-RESPONSE",
+							status: "404",
+							cookies: event.data.cookies,
+							url: event.data.url,
+							type: "text/plain",
+							body: "Not found"
+						},"*");
+					} else {
+						event.source.postMessage({
+							verb: "GET-RESPONSE",
+							status: "200",
+							cookies: event.data.cookies,
+							url: event.data.url,
+							type: "application/json",
+							body: responseText
+						},"*");
+					}
+				});
+			} else {
+				event.source.postMessage({
+					verb: "GET-RESPONSE",
+					status: "404",
+					cookies: event.data.cookies,
+					url: event.data.url,
+					type: "text/plain",
+					body: "Not found"
+				},"*");
+			}
+			break;
+	}
+},false);
+
+// Helper to remove string prefixes
+function removePrefix(string,prefix) {
+	if(string.indexOf(prefix) === 0) {
+		return string.substr(prefix.length);
+	} else {
+		return string;
+	}
+}
+
+// Helper for HTTP GET
+function httpGet(url,callback) {
+	var http = new XMLHttpRequest();
+	http.open("GET",url,true);
+	http.onreadystatechange = function() {
+		if(http.readyState == 4 && http.status == 200) {
+			callback(null,http.responseText);
+		}
+	};
+	http.send();
+}
+
+})();
+
+</script>
+</head>
+<body><h1>HelloThere</h1><p>This is the TiddlyWiki plugin library. It is not intended to be opened directly in the browser.</p><p>See <a href="https://tiddlywiki.com/" target="_blank">https://tiddlywiki.com/</a> for details of how to install plugins.</p></body>
+</html>

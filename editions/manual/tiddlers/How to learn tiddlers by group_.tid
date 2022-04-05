@@ -1,0 +1,32 @@
+caption: {{||Question}}
+created: 20211111070815535
+difficulty: 5.095060034199421
+due: 20220519113822382
+grade: 1
+history: [{"due":"20220214062007148","interval":"7","difficulty":4.8915901242788244,"stability":14.421632209922258,"retrievability":0.6915901242788246,"grade":"1","lapses":0,"reps":2,"review":"20220131062007147"},{"due":"20220317124601182","interval":"14","difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":"1","lapses":0,"reps":3,"review":"20220214124601182"},{"due":"20220317124601182","interval":14,"difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":1,"lapses":0,"reps":3,"review":"20220214124601182"}]
+interval: 31
+lapses: 0
+modified: 20220317113822382
+reps: 4
+retrievability: 0.9006933386938285
+review: 20220317113822382
+stability: 62.66993218757949
+tags: [[Advanced Tips]] ?
+title: How to learn tiddlers by group?
+type: text/vnd.tiddlywiki
+
+Use the input box in {{$:/plugins/oflg/fishing/fishingfloat}} The image is a "fishing rod".
+
+* Enter [[Filter Expression|https://tiddlywiki.com/#Filter%20Expression]] in the input box. For example:
+** `[tag[?]tag[advanced tips]]`: tiddlers with `advanced tips` tag will be filtered from tiddlers with `? ` tags and learnd.
+** `[!tag[!]tag[advanced tips]]`: tiddlers with `advanced tips` tag will be filtered out from tiddlers without `!` tag.
+** `[[newTiddler]]`, also written `newTiddler`: "newTiddler" will be learnd. It will be automatically added with the `?` tag and removed from `!` tag when ''graded'', and removed frome `?` tag and added with `!` tags when ''discarded''.
+
+* Use <<.icon $:/core/images/plus-button>> to add frequently used expressions.
+* Use <<.icon $:/core/images/down-arrow>> to fillin frequently used expressions.
+* Use <<.icon $:/core/images/cancel-button>> to delete frequently used expressions.
+* Use <<.icon $:/core/images/options-button>> to customize the behaviour of the tiddlers filtered by frequently used expressions.
+* Use <<.icon $:/core/images/advanced-search-button>> view tiddlers related to frequently used expressions. It can be used to export or delete learning packages.
+
+
+In addition, the ''Fishing'' option in [[ControlPanel|$:/ControlPanel]] can be switched to change the [[retention|https://help.supermemo.org/wiki/Glossary:Retention]] of Fishing and customize the showing caption and annotation of the tiddlers. @@color:red;Please make sure you fully understand the meaning before changing it, otherwise it can have destructive consequences. @@

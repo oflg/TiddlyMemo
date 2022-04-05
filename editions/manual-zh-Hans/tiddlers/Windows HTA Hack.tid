@@ -1,0 +1,15 @@
+color: #F06292
+created: 20131212223146250
+delivery: DIY
+description: 手动方法让 Internet Explorer 直接保存更改
+method: save
+modified: 20200614232551974
+tags: Saving Windows
+title: Windows HTA Hack
+type: text/vnd.tiddlywiki
+
+在 Windows 下即可借由重命名 HTML 文件的扩展名为 `*.hta`，将其转换成一个真正的本机应用程序的 TiddlyWiki。然后，''fsosaver'' 模块可以使用 ~ActiveX ~FileSystemObject 保存变更。
+
+请注意，这种方法的一个缺点是 TiddlyWiki 文件以 UTF-16 格式保存，使其文件大小为通常 UTF-8 编码的两倍大。无论如何，以另一种保存方法打开并保存，将文件重新编码为 UTF-8。
+
+更多详细信息，请参阅维琪百科：https://en.wikipedia.org/wiki/HTML_Application

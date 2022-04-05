@@ -1,0 +1,13 @@
+caption: {{||Excerpt}}
+created: 20211111055327730
+due: 20220326113755507
+interval: 9
+modified: 20220317113755507
+review: 20220317113755507
+tags: 如何进行渐进阅读？ ?
+title: 导入
+type: text/vnd.tiddlywiki
+
+编辑或新建一个条目，再点击编辑栏上的 <<.icon $:/plugins/oflg/fishing-catchfish/icons/setexcerpt>> 转为''摘录条目''。
+
+或者直接从外部导入阅读材料。目前支持 [[导入 TWPUB 电子书|导入 TWPUB 电子书子插件]]。

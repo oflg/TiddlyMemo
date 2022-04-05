@@ -1,0 +1,31 @@
+caption: Quine 2
+color: #FF8A65
+community-author: Chris Hunt
+created: 20131129101027725
+delivery: App
+description: 使用 TiddlyWiki 的 iPad/iPhone 应用程序
+method: save
+modified: 20201009000557139
+tags: Saving iOS
+title: Saving on iPad/iPhone
+type: text/vnd.tiddlywiki
+
+iPad/iPhone 应用程序 ''Quine 2'' 可于 iOS 上查看、编辑与保存对 TiddlyWiki5 的更改。[[在此下载|https://apps.apple.com/us/app/quine-2/id1450128957]].
+
+使用说明：
+
+# 打开 Quine 2
+# 点击 + 工具栏按钮以创建并打开新的 TiddlyWiki
+# 从文件清单中点击现有的 TiddlyWiki 文件以打开之
+# 一如往常编辑 TidlyWiki，并使用自动保存或 TidlyWiki 的保存按钮 <<.icon $:/core/images/save-button>> 照常保存。
+# 点击左方的 "文档" 工具栏按钮，关闭一个已打开的 TiddlyWiki
+
+* Quine 2 在 iOS 本地端与本机文件系统和 iCloud 文件系统一起运作
+* Quine 2 允许您打开、编辑及保存与存放于云端文件提供者的 TiddlyWiki 文件
+* Quine 2 允许您关注嵌入式的 WikiText 链接和指向支持「文件夹级共用」的类云端文件提供者的外部文件的规范链接。 
+** 这包括应用程序 "Secure Shellfish" 和 "Working Copy"。但是，大多数提供者不允许像 Quine 2 这样的应用以这种方式访问链接文件。
+** 如果您希望为 "表现良好" 的文件提供者激活此类链接，请在 Quine 2 的 iOS 设置中，将 "Enable folder selection for out-of-sandbox links" 设置切换为 "on" 
+
+
+
+//请注意 Quine 2 是单独发布的，与 TiddlyWiki 不相关//

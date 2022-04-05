@@ -1,0 +1,13 @@
+caption: {{||Excerpt}}
+created: 20211111080121679
+due: 20220412054934090
+interval: 9
+modified: 20220403054934091
+review: 20220403054934091
+tags: [[How to do incremental reading?]] ?
+title: Active recall
+type: text/vnd.tiddlywiki
+
+For ''Excerpt Tiddler'' no recall is required, only reading, excising or setting questions.
+
+For ''Question Tiddler'', it is necessary to recall the answers and then grade them according to the recall results.

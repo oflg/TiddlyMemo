@@ -1,0 +1,19 @@
+caption: {{||Cloze}}
+created: 20211111072317566
+difficulty: 5.409124586820094
+due: 20220529045956442
+grade: 1
+history: [{"due":"20220120013329644","interval":"2","difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":"0","lapses":1,"reps":1,"review":"20220119013329644"},{"due":"20220126053316148","interval":"2","difficulty":5.167428822055195,"stability":5.1714717763400575,"retrievability":0.8674288220551943,"grade":"2","lapses":1,"reps":2,"review":"20220121053316148"},{"due":"20220219061935502","interval":"10","difficulty":5.183108052168684,"stability":19.461827007929454,"retrievability":0.8156792301134891,"grade":"1","lapses":1,"reps":3,"review":"20220131061935501"},{"due":"20220321175040412","interval":"14","difficulty":5.310117226756942,"stability":34.63721119757524,"retrievability":0.9270091745882573,"grade":"1","lapses":1,"reps":4,"review":"20220214175040411"},{"due":"20220321175040412","interval":14,"difficulty":5.310117226756942,"stability":34.63721119757524,"retrievability":0.9270091745882573,"grade":1,"lapses":1,"reps":4,"review":"20220214175040411"}]
+interval: 35
+lapses: 1
+modified: 20220322045956443
+priority: 100
+reps: 5
+retrievability: 0.8990073600631523
+review: 20220322045956442
+stability: 67.97994797369898
+tags: ?
+title: question __cloze1__ question __cloze2__
+type: text/vnd.tiddlywiki
+
+Note

@@ -1,0 +1,16 @@
+caption: {{||Excerpt}}
+created: 20220119013952016
+due: 20220325113748524
+interval: 8
+modified: 20220401145320591
+priority: 0
+review: 20220317113748524
+tags: ? [[Included plugins]]
+title: Fishing Canned Fish sub-plugin
+type: text/vnd.tiddlywiki
+
+Packaged tiddlers (similar to Anki's deck) that can be easily shared. Also called Learning Pack.
+
+<<<.tc-big-quote
+You can refer to [[How to learn tiddlers by group?]] to use, delete and export Learning Packs.
+<<<

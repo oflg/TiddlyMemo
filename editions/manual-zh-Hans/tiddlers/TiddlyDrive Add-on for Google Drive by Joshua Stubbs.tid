@@ -1,0 +1,24 @@
+caption: ~TiddlyDrive
+color: #FFEB3B
+community-author: Joshua Stubbs
+created: 20171109172705241
+delivery: Google Drive Add-on
+description: Google 云端硬盘的一个附加程序，用以保存 TiddlyWiki 文件
+method: save
+modified: 20200614232551974
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera PHP [[Other Resources]] Safari Saving Windows iOS plugins Edge
+title: TiddlyDrive Add-on for Google Drive by Joshua Stubbs
+type: text/vnd.tiddlywiki
+url: https://github.com/tiddlydrive/tiddlydrive.github.io
+
+Google 云端硬盘的一个附加程序，允许存放在那里的 TiddlyWiki 文件可直接被打开和保存。
+
+要查找更多信息，请到此项目的 github 页面：
+
+{{!!url}}
+
+<<<
+I made an app that lets one edit TiddlyWiki files saved in your Google drive and then saving them back automagically. The page is here https://chrome.google.com/webstore/detail/tiddly-drive/oaphhjhbbabdjnpjpiliepphpmnioolo but I think you need to add it from the Google Drive web interface.
+
+I even added an optional ability to save with ctrl + s hotkeys.
+<<< [[Joshua's launch post|https://groups.google.com/d/topic/tiddlywiki/7pNJizR57e8/discussion]]

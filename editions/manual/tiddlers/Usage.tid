@@ -1,0 +1,41 @@
+caption: {{||Excerpt}}
+created: 20201212170005281
+due: 20220402180855472
+interval: 
+modified: 20220403023429079
+tags: ? [[🦑 TiddlyMemo Manual]]
+title: Usage
+type: text/vnd.tiddlywiki
+
+1. Add the tag `?` to the tiddler you want to remember. The image is "fishing hook".
+
+2. Click {{$:/plugins/oflg/fishing/fishingfloat}} on the sidebar and select a learning group. The image is "fishing float".
+
+<<<.tc-big-quote
+After the above two steps, an action interface will pop up, which has added `?` tags are divided into three groups:
+
+* The ''due'' group contains tiddlers that have expired and need to be reviewed immediately to prevent forgetting.
+
+* The ''undue'' group contains tiddlers that have been reviewed and have not yet expired.
+
+* The ''new'' group contains new added tiddlers to be learned.
+
+Figuratively speaking, the fish that are "hooked from the Story River" on the "fishing deck" are stocked into the three "memory pools".
+
+You can click on the ''new'' group to start learning, and then click on the ''next'' button below the tiddler to learn the next tiddler in the group when you are done.
+
+After completing the learning, you can click on the ''due'' group to do the review. When reviewing the tiddler, the title of it will be displayed first, and you have to recall the answer according to the title. Once you have thought about it, click on <<.icon $:/core/images/unfold-button>> in the tiddler to expand the tiddler and compare the thoughtful answer with the correct answer.
+
+At the bottom of the tiddler there are three buttons to ''grade'' the recall results.
+
+* @@color:red;''forget''@@ means the answer is forgotten, and will sort the tiddler into the ''undue'' group first, and then into the ''due'' group a few days later.
+
+* @@color:green;''remember''@@ means the answer is remembered, and will first group the tiddler into the ''undue'' group and some days later will group the tiddler into the ''due'' group on a schedule.
+* @@color:blue;''grasp''@@ means that the question is grasped, and will first group the tiddler into the ''undue'' group, and many days later will group them into the ''due'' group by schedule.
+
+The  @@color:#5778d8;'' ⁝ ''@@  button in the lower right corner of the tiddler has more functions. For example, ''discard'' means no more learning this tiddler. <$reveal default={{$:/toquestion}} type="nomatch" text="">
+Click this example {{Question1||$:/toquestion}} to simulate the experience scoring process.
+</$reveal>
+
+The image of the wholelearnprocess is that after "casting" the "fish in the memory pool" are "hooked" one by one, and according to their "maturity level", they are first put into the "''undue'' memory pool" and then released into the "''due'' memory pool" at a later date.
+<<<

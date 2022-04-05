@@ -1,0 +1,19 @@
+caption: Ruby Server
+color: #78909C
+community-author: Jim Foltz
+created: 20180514011710789
+delivery: Server-side Script
+description: DIY 脚本可以作为服务器运行
+method: save
+modified: 20200614232551974
+tags: Android Chrome Firefox [[Internet Explorer]] Linux Mac Opera Safari Saving Windows iOS Edge
+title: Saving via a Minimal Ruby Server
+type: text/vnd.tiddlywiki
+
+这是使用 Ruby Webrick 的最小服务器。它只是提供来自同一个文件夹的文件并处理保存。
+
+运行后，只需将浏览器指向 http://localhost:8000 即可查看文件夹列表，然后点击您的维基 html 文件。
+
+请参阅以下脚本：
+
+https://gist.github.com/jimfoltz/ee791c1bdd30ce137bc23cce826096da

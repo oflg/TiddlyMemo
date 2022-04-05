@@ -1,0 +1,78 @@
+caption: {{||Question}}
+created: 20211111054946683
+difficulty: 6.200634069864288
+due: 20220323050002950
+grade: 0
+history: [{"due":"20220301052911158","interval":"3","difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":"2","lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220301052911158","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220318113737091","interval":24,"difficulty":4.987711692697593,"stability":1.4816364413634358,"retrievability":0.7338967244521296,"grade":0,"lapses":1,"reps":1,"review":"20220317113737091"},{"due":"20220321044010979","interval":1,"difficulty":5.119070282100833,"stability":3.3432415243521896,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20220318044010979"}]
+interval: 4
+lapses: 2
+modified: 20220322050002950
+reps: 1
+retrievability: 0.8815637877634545
+review: 20220322050002950
+stability: 1.097623272188053
+tags: 高级技巧 ?
+title: 如何进行渐进阅读？
+type: text/vnd.tiddlywiki
+
+[[导入]]
+
+<<<.tc-fish-quote
+{{导入}}
+<<<
+
+
+
+[[阅读]]
+
+<<<.tc-fish-quote
+{{阅读}}
+<<<
+
+
+
+[[摘录]]
+
+<<<.tc-fish-quote
+{{摘录}}
+<<<
+
+
+
+[[设问]]
+
+<<<.tc-fish-quote
+{{设问}}
+<<<
+
+
+[[设置优先级]]
+
+<<<.tc-fish-quote
+{{设置优先级}}
+<<<
+
+
+
+[[间隔重复]]
+
+<<<.tc-fish-quote
+{{间隔重复}}
+<<<
+
+
+
+[[主动召回]]
+
+<<<.tc-fish-quote
+{{主动召回}}
+<<<
+
+
+
+[[查看知识树]]
+
+<<<.tc-fish-quote
+{{查看知识树}}
+<<<
+

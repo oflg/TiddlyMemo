@@ -1,0 +1,21 @@
+caption: {{||Select}}
+created: 20220112042204478
+creator: oflg
+difficulty: 5.962532127124338
+due: 20220414024054095
+grade: 1
+history: [{"due":"20220120013332323","interval":"2","difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":"0","lapses":1,"reps":1,"review":"20220119013332323"},{"due":"20220126053319430","interval":"2","difficulty":5.167428822055195,"stability":5.1714717763400575,"retrievability":0.8674288220551943,"grade":"2","lapses":1,"reps":2,"review":"20220121053319430"},{"due":"20220219061944948","interval":"10","difficulty":5.183108052168684,"stability":19.461827007929454,"retrievability":0.8156792301134891,"grade":"1","lapses":1,"reps":3,"review":"20220131061944947"},{"due":"20220222051306900","interval":"21","difficulty":6.275644681783034,"stability":1.097623272188053,"retrievability":0.8925366296143501,"grade":"0","lapses":2,"reps":1,"review":"20220221051306899"},{"due":"20220222051306900","interval":21,"difficulty":6.275644681783034,"stability":1.097623272188053,"retrievability":0.8925366296143501,"grade":0,"lapses":2,"reps":1,"review":"20220221051306899"},{"due":"20220322052420355","interval":11,"difficulty":5.823528548861662,"stability":18.414991000515283,"retrievability":0.3478838670786279,"grade":1,"lapses":2,"reps":2,"review":"20220304052420355"}]
+interval: 11
+lapses: 2
+modified: 20220315024054095
+modifier: oflg
+priority: 100
+reps: 3
+retrievability: 0.9390035782626758
+review: 20220315024054095
+stability: 29.53496658372501
+tags: ?
+title: 问题__选项1____选项2____选项3____选项4__AB
+type: text/vnd.tiddlywiki
+
+备注

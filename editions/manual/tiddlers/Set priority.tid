@@ -1,0 +1,14 @@
+caption: {{||Excerpt}}
+created: 20211111080057828
+due: 20220325113724309
+interval: 8
+modified: 20220317113724309
+review: 20220317113724309
+tags: [[How to do incremental reading?]] ?
+title: Set priority
+type: text/vnd.tiddlywiki
+
+The tiddler with ''higher'' priority is reviewed ''first'' when it is due.
+
+* Automatic priority: Priority is calculated automatically based on tiddler's centrality, etc.
+* Manual priority: Add the `priority` field to tiddler. After adding, the priority of the tiddler excised from this tiddler is the same as the value at the time of excising. Priority defaults to `0` and generally takes [1,9] (preferred) and [-9,-1] (setback). `Infinity` means the highest priority, and `-Infinity` means the lowest priority.

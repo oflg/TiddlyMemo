@@ -1,0 +1,16 @@
+caption: {{||Excerpt}}
+created: 20220401164945413
+due: 20220402180816407
+interval: 
+list: Windows
+modified: 20220402030617694
+saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
+saving-os: Windows Mac Linux Android iOS
+tags: ? Installation
+title: Download TiddlyMemo
+type: text/vnd.tiddlywiki
+
+{{$:/editions/snippets/download-empty-button}} <br/><br/>
+
+<<.warning "Don't attempt to use the browser ''File''/''Save'' menu option to save changes (it doesn't work)">><br/>
+The next step is to choose a method for saving changes. There's a wide variety of methods available, with different features and limitations. Click on the badge for a method to see more information about it. You can also click on one of the platform filters to restrict the listing to methods that work with that platform.

@@ -1,0 +1,16 @@
+created: 20211108083135494
+creator: oflg
+modified: 20220401182149458
+modifier: oflg
+tags: 
+title: $:/toquestion
+type: text/vnd.tiddlywiki
+
+<$button class="tc-btn-invisible tc-tiddlylink">
+<$action-setfield $tiddler="$:/temp/fishing" list={{{ [{!!title}format:titlelist[]] }}}/>
+<$action-setfield $tiddler={{{[list[$:/temp/fishing]first[]addprefix[$:/state/folded/]]}}} text="hide"/>
+<$action-navigate $to={{!!title}}/>
+
+{{!!title}}
+
+</$button>
