@@ -6,7 +6,7 @@ title: $:/ContributionBanner
 type: text/vnd.tiddlywiki
 
 \define base-github()
-https://github.com/oflg/TiddlyMemo/editmaster/editions/manual-zh-Hans/tiddlers/
+https://github.com/oflg/TiddlyMemo/edit/master/editions/manual-zh-Hans/tiddlers/
 \end
 
 <$set name="draft-of" value={{{ [<currentTiddler>get[draft.of]] }}}>
