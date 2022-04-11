@@ -1,6 +1,6 @@
 created: 20141029161248510
 filter: 阅读文章 学习外语 记忆笔记 支持的语言
-modified: 20220411030411330
+modified: 20220411044631096
 tags: $:/tags/TiddlerList
 title: 墨屉
 type: text/vnd.tiddlywiki
@@ -9,6 +9,7 @@ type: text/vnd.tiddlywiki
 
 [[墨屉]]采用先进的[[渐进学习|https://www.yuque.com/supermemo/wiki/incremental_learning]]理念，是助你获得终身知识的第二大脑。
 
-<span style="font-size:100px;line-height:120px;">🦑</span>
+[img width=100 [墨屉.png]]
+
 
 像 ~SuperMemo 一样[[阅读文章]]、像 ~LingQ 一样[[学习外语]]、像 Anki 一样[[记忆笔记]]。
