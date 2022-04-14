@@ -47,14 +47,14 @@
     },
     "homepage": "https://github.com/oflg/TiddlyMemo#readme",
     "dependencies": {
-        "@semantic-release/commit-analyzer": "^9.0.2",
-        "@semantic-release/git": "^10.0.1",
-        "@semantic-release/npm": "^9.0.1",
-        "@semantic-release/release-notes-generator": "^10.0.3",
         "tiddlywiki": "^5.2.2"
     },
     "devDependencies": {
         "@semantic-release/changelog": "^6.0.1",
+        "@semantic-release/git": "^10.0.1",
+        "@semantic-release/commit-analyzer": "^9.0.2",
+        "@semantic-release/npm": "^9.0.1",
+        "@semantic-release/release-notes-generator": "^10.0.3",
         "cross-env": "^7.0.3",
         "nodemon": "^2.0.15",
         "semantic-release": "^19.0.2"
@@ -72,6 +72,7 @@
                     "changelogFile": "docs/CHANGELOG.md"
                 }
             ],
+            "@semantic-release/npm",
             [
                 "@semantic-release/git",
                 {
