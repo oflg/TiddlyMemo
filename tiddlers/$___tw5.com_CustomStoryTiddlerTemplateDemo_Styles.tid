@@ -1,6 +1,6 @@
 code-body: yes
 created: 20220411020007712
-modified: 20220411030809769
+modified: 20220415141044666
 tags: $:/tags/Stylesheet
 title: $:/_tw5.com/CustomStoryTiddlerTemplateDemo/Styles
 type: text/vnd.tiddlywiki
@@ -31,4 +31,5 @@ type: text/vnd.tiddlywiki
 
 .tc-custom-tiddler-template-list .tc-custom-tiddler-template-list-item .tc-tiddler-frame {
 	margin: 0;
+    background-color:<<colour background>>;
 }
