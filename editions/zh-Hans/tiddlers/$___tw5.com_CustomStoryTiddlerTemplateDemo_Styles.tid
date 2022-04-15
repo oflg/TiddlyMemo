@@ -32,4 +32,5 @@ type: text/vnd.tiddlywiki
 
 .tc-custom-tiddler-template-list .tc-custom-tiddler-template-list-item .tc-tiddler-frame {
 	margin: 0;
+    background-color:<<colour background>>;
 }
