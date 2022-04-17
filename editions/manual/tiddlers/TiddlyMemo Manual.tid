@@ -2,17 +2,11 @@ caption: {{||Excerpt}}
 created: 20211111061057954
 due: 20220325113747169
 interval: 8
-modified: 20220414160331299
+modified: 20220417101739016
 review: 20220317113747170
 tags: ?
 title: TiddlyMemo Manual
 type: text/vnd.tiddlywiki
-
-[[Introduction]]
-
-<<<
-{{Introduction}}
-<<<
 
 [[Installation]]
 
