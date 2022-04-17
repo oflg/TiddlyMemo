@@ -22,6 +22,6 @@ url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/latest
 # 自 {{!!url}} 安装太记桌面的最新版本
 # 运行太记
 # 创建一个新的维基，或打开一个现有的 [[Node.js 版 TiddlyWiki|TiddlyWiki on Node.js]] 文件夹
-# 更改会自动保存，您可以选择将其配置为每 30 分钟同步到 GitHub
+# 更改会自动保存，你可以选择将其配置为每 30 分钟同步到 GitHub
 
 [img[https://github.com/tiddly-gittly/TidGi-Desktop/raw/master/docs/images/preference.png]]

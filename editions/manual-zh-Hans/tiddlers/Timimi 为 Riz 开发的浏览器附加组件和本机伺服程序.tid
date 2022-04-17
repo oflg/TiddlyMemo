@@ -11,11 +11,11 @@ title: Timimi 为 Riz 开发的浏览器附加组件和本机伺服程序
 type: text/vnd.tiddlywiki
 url: https://ibnishak.github.io/Timimi/
 
-Timimi 是一个浏览器附加组件伴随一个本机伺服程，可让您保存和备份您的 HTML tiddlywiki 文件，于''您的硬盘的任何地方''。 安装完成后，您就可以保存 tiddlywiki 文文件，没有任何额外的步骤，如同原来的 Tiddlyfox 附加组件。
+Timimi 是一个浏览器附加组件伴随一个本机伺服程，可让你保存和备份你的 HTML tiddlywiki 文件，于''你的硬盘的任何地方''。 安装完成后，你就可以保存 tiddlywiki 文文件，没有任何额外的步骤，如同原来的 Tiddlyfox 附加组件。
 
 {{!!url}}
 
-从版本 2.1 开始，Timimi 支持以下浏览器 
+从版本 2.1 开始，Timimi 支持以下浏览器
 
 * Chrome/Chromium
 * Firefox

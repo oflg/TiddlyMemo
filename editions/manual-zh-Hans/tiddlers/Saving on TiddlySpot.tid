@@ -11,7 +11,7 @@ title: Saving on TiddlySpot
 type: text/vnd.tiddlywiki
 
 ----
-<<.warning "''请注意：~TiddlySpot 处于维护模式，不再允许创建新网站。取代 ~TiddlySpot，您现在可以使用 [[TiddlyHost|Saving on TiddlyHost]]，来自 ~TiddlySpot 创建者的新服务。''">>
+<<.warning "''请注意：~TiddlySpot 处于维护模式，不再允许创建新网站。取代 ~TiddlySpot，你现在可以使用 [[TiddlyHost|Saving on TiddlyHost]]，来自 ~TiddlySpot 创建者的新服务。''">>
 ----
 [img[https://raw.githubusercontent.com/simonbaird/tiddlyhost/main/rails/app/assets/images/tiddlyspot-banner-logo.png]]
 
@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 
 !! ~TiddlySpot 的安全警告
 
-请注意，当使用 ~TiddlySpot 时，系以明码发送您的密码。以下说明来自 [[FAQ|http://faq.tiddlyspot.com/]] :
+请注意，当使用 ~TiddlySpot 时，系以明码发送你的密码。以下说明来自 [[FAQ|http://faq.tiddlyspot.com/]] :
 
 <<<
 ''Is Tiddlyspot secure?''
@@ -31,16 +31,16 @@ No. Tiddlyspot does not use SSL/https, so all ~TiddlySpot web traffic is vulnera
 
 !! 在 ~TiddlySpot 上保存的问题
 
-当您将一个刚刚升级的本机 ~TiddlyWiki 上传到 ~TiddlySpot 时，若遇到此错误：
+当你将一个刚刚升级的本机 ~TiddlyWiki 上传到 ~TiddlySpot 时，若遇到此错误：
 
 <<<
 Error: NS_ERROR_DOM_BAD_URI: Access to restricted URI denied
 <<<
 
-此为升级操作违反 Firefox 的安全限制。在这问题被解决之前，我们建议您使用 Google 浏览器。
+此为升级操作违反 Firefox 的安全限制。在这问题被解决之前，我们建议你使用 Google 浏览器。
 
-* 使用 Google 浏览器，打开您想要上传到 ~TiddlySpot 的地 ~TiddlyWiki 文件，并按照 [[Upgrading]] 所述的步骤 1 至 5
-* 一旦你已经检查过托管于 ~TiddlySpot 的 ~TiddlyWiki 在 Chrome 中正确加载，您应该能够再访问、编辑和[[使用 TiddlyFox 保存|Saving with TiddlyFox]]
-* 在您上传本地文件档之后，托管于 ~TiddlySpot 的在线版本的进一步编辑和保存，应该可用于您所选择的任何现代的浏览器。(别忘了填写 ~TiddlySpot 上的密码于您的 ~TiddlySpot ~TiddlyWiki 控制台中，用于您想要用以保存变更的任何新的浏览器。)
+* 使用 Google 浏览器，打开你想要上传到 ~TiddlySpot 的地 ~TiddlyWiki 文件，并按照 [[Upgrading]] 所述的步骤 1 至 5
+* 一旦你已经检查过托管于 ~TiddlySpot 的 ~TiddlyWiki 在 Chrome 中正确加载，你应该能够再访问、编辑和[[使用 TiddlyFox 保存|Saving with TiddlyFox]]
+* 在你上传本地文件档之后，托管于 ~TiddlySpot 的在线版本的进一步编辑和保存，应该可用于你所选择的任何现代的浏览器。(别忘了填写 ~TiddlySpot 上的密码于你的 ~TiddlySpot ~TiddlyWiki 控制台中，用于你想要用以保存变更的任何新的浏览器。)
 
 //另请参阅：[[Upgrading]]//

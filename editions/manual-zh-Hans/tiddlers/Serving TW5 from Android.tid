@@ -22,13 +22,13 @@ apt install nodejs
 npm install -g tiddlywiki
 ```
 
-* 如果您需要从内部保存创建/服务 ''~TiddlyWiki on Node.js''，则需要通过在 termux 运行以下指令来授予 termux 保存权限
+* 如果你需要从内部保存创建/服务 ''~TiddlyWiki on Node.js''，则需要通过在 termux 运行以下指令来授予 termux 保存权限
 
 ```
 termux-setup-storage
 ```
 
-* 现在，您可以在内部存储中创建和服务 ''~TiddlyWiki on Node.js'' 。在以下的示例中，用户正在其内部文件夹中创建一个名为 "mynewwiki" 的新维基。
+* 现在，你可以在内部存储中创建和服务 ''~TiddlyWiki on Node.js'' 。在以下的示例中，用户正在其内部文件夹中创建一个名为 "mynewwiki" 的新维基。
 
 ```
 cd storage/shared
@@ -36,12 +36,12 @@ tiddlywiki mynewwiki --init server
 tiddlywiki mynewwiki --listen
 ```
 
-* 在您的浏览器中造访 http://127.0.0.1:8080/
-* 从那时起，只要 //Termux// 未关闭，您可以随时从网页浏览器，指向预期的地址和端口访问您的维基。
+* 在你的浏览器中造访 http://127.0.0.1:8080/
+* 从那时起，只要 //Termux// 未关闭，你可以随时从网页浏览器，指向预期的地址和端口访问你的维基。
 
 ---
 
 * 有关 ~TiddlyWiki on Node.js 的更多信息，请参阅[[在 Node.js 上安装 TiddlyWiki|Installing TiddlyWiki on Node.js]]
 * 有关 termux 的的详细信息和提示，请参阅 [[Termux wiki|https://wiki.termux.com/wiki/Main_Page]]
 
-<<.tip "在 //Termux// 中，您不妨安装 //git//、//emacs// 或 //vi//，以便编辑和维护单个条目文件。这大概也需要为您的 Android 附加功能更强大的键盘，像是[[黑客用的键盘|https://github.com/klausw/hackerskeyboard/]]应用程序或蓝牙外部设备。">>
+<<.tip "在 //Termux// 中，你不妨安装 //git//、//emacs// 或 //vi//，以便编辑和维护单个条目文件。这大概也需要为你的 Android 附加功能更强大的键盘，像是[[黑客用的键盘|https://github.com/klausw/hackerskeyboard/]]应用程序或蓝牙外部设备。">>

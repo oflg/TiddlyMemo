@@ -13,11 +13,11 @@ url: https://github.com/Marxsal/polly
 
 [[Polly|https://github.com/Marxsal/polly]] 是一个批量处理文件系统，使用 Windows //~PowerShell// 将 ~TiddlyWiki 文件从指定的下载目录，还原到其原始主目录。
 
-实际上，这成为保存您的文件的新方法，但具有以下功能：
+实际上，这成为保存你的文件的新方法，但具有以下功能：
 
 * 没有二进位运行档
 * 人类可读的批量处理脚本。
-* 您的 ~TiddlyWiki 文件中没有特定插件
+* 你的 ~TiddlyWiki 文件中没有特定插件
 * 无需特定浏览器
 * 无需浏览器扩充功能
 * 无需 node.exe 在背景运行
