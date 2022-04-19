@@ -1,16 +1,16 @@
 caption: {{||Question}}
 created: 20211111054946683
-difficulty: 6.200634069864288
-due: 20220323050002950
-grade: 0
-history: [{"due":"20220301052911158","interval":"3","difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":"2","lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220301052911158","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220318113737091","interval":24,"difficulty":4.987711692697593,"stability":1.4816364413634358,"retrievability":0.7338967244521296,"grade":0,"lapses":1,"reps":1,"review":"20220317113737091"},{"due":"20220321044010979","interval":1,"difficulty":5.119070282100833,"stability":3.3432415243521896,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20220318044010979"}]
-interval: 4
+difficulty: 5.868670548332188
+due: 20220520125302090
+grade: 1
+history: [{"due":"20220301052911158","interval":"3","difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":"2","lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220301052911158","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220318113737091","interval":24,"difficulty":4.987711692697593,"stability":1.4816364413634358,"retrievability":0.7338967244521296,"grade":0,"lapses":1,"reps":1,"review":"20220317113737091"},{"due":"20220321044010979","interval":1,"difficulty":5.119070282100833,"stability":3.3432415243521896,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20220318044010979"},{"due":"20220323050002950","interval":4,"difficulty":6.200634069864288,"stability":1.097623272188053,"retrievability":0.8815637877634545,"grade":0,"lapses":2,"reps":1,"review":"20220322050002950"},{"due":"20220520125159466","interval":28,"difficulty":5.468670548332188,"stability":31.392815534473325,"retrievability":0.06803647846790031,"grade":1,"lapses":2,"reps":2,"review":"20220419125159465"},{"due":"20220520125236698","interval":0,"difficulty":5.668670548332188,"stability":31.392815534473325,"retrievability":1,"grade":1,"lapses":2,"reps":3,"review":"20220419125236697"}]
+interval: 0
 lapses: 2
-modified: 20220322050002950
-reps: 1
-retrievability: 0.8815637877634545
-review: 20220322050002950
-stability: 1.097623272188053
+modified: 20220419125302090
+reps: 4
+retrievability: 1
+review: 20220419125302089
+stability: 31.392815534473325
 tags: 高级技巧 ?
 title: 如何进行渐进阅读？
 type: text/vnd.tiddlywiki

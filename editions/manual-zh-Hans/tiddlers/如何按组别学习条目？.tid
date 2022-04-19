@@ -1,16 +1,16 @@
 caption: {{||Question}}
 created: 20211111054311121
-difficulty: 5.95152987785001
-due: 20220508113740529
+difficulty: 6.4868089824276085
+due: 20220707125310968
 grade: 1
-history: [{"due":"20220201061956509","interval":"7","difficulty":5.8915901242788244,"stability":1.4816364413634358,"retrievability":0.6915901242788246,"grade":"0","lapses":1,"reps":1,"review":"20220131061956509"},{"due":"20220204011151017","interval":"1","difficulty":6.022948713682065,"stability":3.1429626065377065,"retrievability":0.9313585894032408,"grade":"1","lapses":1,"reps":2,"review":"20220201011151017"},{"due":"20220228112735776","interval":"10","difficulty":5.938124611730717,"stability":17.345326036509523,"retrievability":0.7151758980486516,"grade":"1","lapses":1,"reps":3,"review":"20220211112735776"},{"due":"20220228112735776","interval":10,"difficulty":5.938124611730717,"stability":17.345326036509523,"retrievability":0.7151758980486516,"grade":1,"lapses":1,"reps":3,"review":"20220211112735776"}]
-interval: 34
+history: [{"due":"20220201061956509","interval":"7","difficulty":5.8915901242788244,"stability":1.4816364413634358,"retrievability":0.6915901242788246,"grade":"0","lapses":1,"reps":1,"review":"20220131061956509"},{"due":"20220204011151017","interval":"1","difficulty":6.022948713682065,"stability":3.1429626065377065,"retrievability":0.9313585894032408,"grade":"1","lapses":1,"reps":2,"review":"20220201011151017"},{"due":"20220228112735776","interval":"10","difficulty":5.938124611730717,"stability":17.345326036509523,"retrievability":0.7151758980486516,"grade":"1","lapses":1,"reps":3,"review":"20220211112735776"},{"due":"20220228112735776","interval":10,"difficulty":5.938124611730717,"stability":17.345326036509523,"retrievability":0.7151758980486516,"grade":1,"lapses":1,"reps":3,"review":"20220211112735776"},{"due":"20220508113740529","interval":34,"difficulty":5.95152987785001,"stability":51.963564794485514,"retrievability":0.8134052661192929,"grade":1,"lapses":1,"reps":4,"review":"20220317113740529"},{"due":"20220707125215617","interval":33,"difficulty":6.086808982427608,"stability":78.68205453165328,"retrievability":0.9352791045775974,"grade":1,"lapses":1,"reps":5,"review":"20220419125215617"},{"due":"20220707125244413","interval":0,"difficulty":6.286808982427608,"stability":78.68205453165328,"retrievability":1,"grade":1,"lapses":1,"reps":6,"review":"20220419125244412"}]
+interval: 0
 lapses: 1
-modified: 20220317113740529
-reps: 4
-retrievability: 0.8134052661192929
-review: 20220317113740529
-stability: 51.963564794485514
+modified: 20220419125310969
+reps: 7
+retrievability: 1
+review: 20220419125310968
+stability: 78.68205453165328
 tags: 高级技巧 ?
 title: 如何按组别学习条目？
 type: text/vnd.tiddlywiki

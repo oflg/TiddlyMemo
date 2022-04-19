@@ -1,6 +1,6 @@
 created: 20210929133316054
 creator: oflg
-modified: 20220221061345274
+modified: 20220419125451438
 modifier: oflg
 tags: 
 title: priority
@@ -10,12 +10,16 @@ type: text/vnd.tiddlywiki
 <tr>
 <th>条目</th>
 <th>指数</th>
+<th>修改</th>
+<th>创建</th>
 <th>到期</th>
 </tr>
 <$list filter="[subfilter{$:/temp/fishing!!fishingrod}subfilter{$:/temp/fishing!!fishingpond}subfilter{$:/temp/fishing!!fishingorder}]">
 <tr>
 <td><$link to=<<currentTiddler>>><<toc-caption>></$link></td>
 <td>{{{[<currentTiddler>reduce{$:/plugins/oflg/fishing/fishingpond!!autopriority}]}}}</td>
+<td>{{!!modified}}</td>
+<td>{{!!created}}</td>
 <td>{{!!due}}</td>
 </tr>
 </$list>
