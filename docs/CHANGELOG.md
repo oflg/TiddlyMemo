@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/oflg/TiddlyMemo/compare/v1.2.0...v1.3.0) (2022-04-19)
+
+
+### Features
+
+* **plugins:** fishing catchsish analysis zh-Hans ([a55e3ee](https://github.com/oflg/TiddlyMemo/commit/a55e3ee986259bcb4aab13b4c0bf96a4ee018d41))
+
 # [1.2.0](https://github.com/oflg/TiddlyMemo/compare/v1.1.1...v1.2.0) (2022-04-17)
 
 
