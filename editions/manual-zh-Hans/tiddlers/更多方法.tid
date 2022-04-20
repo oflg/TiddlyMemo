@@ -3,7 +3,7 @@ created: 20140912140651119
 due: 20220402180825241
 interval: 
 list: 
-modified: 20220417100054104
+modified: 20220420023248745
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
 saving-os: Windows Mac Linux Android iOS
 tags: ? 安装
@@ -40,7 +40,7 @@ type: text/vnd.tiddlywiki
 <$action-listops $subfilter="-[[$item$]]"/>
 \end
 
-''墨屉是一种 ALL IS ONE 的笔记软件，文件 = 数据 = 软件，三者合一''，所以可以刚刚把下载的墨屉软件可以当作数据来使用。
+''墨屉是一种 ALL IS ONE 的笔记软件，文件 = 数据 = 软件，三者合一''，所以可以把刚刚下载的墨屉软件当作数据使用。
 
 有近几十种各异的使用方式，可以先勾选要使用的环境，选出你最喜欢的方式。
 
