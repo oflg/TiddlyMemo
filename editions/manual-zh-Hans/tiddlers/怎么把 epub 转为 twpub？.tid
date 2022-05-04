@@ -1,0 +1,7 @@
+created: 20220504103848172
+modified: 20220504104602604
+tags: 常见问题 ?
+title: 怎么把 epub 转为 twpub？
+type: text/vnd.tiddlywiki
+
+在 [[TWPUB 项目|https://github.com/TWPUB/TWPUB-Tools]]中，使用 epub2twpub 命令转换。把转换后的 twpub.json 拖入到墨屉，再按照[[导入 TWPUB 电子书子插件]]中的方法导入。

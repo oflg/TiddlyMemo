@@ -17,7 +17,7 @@ type: text/vnd.tiddlywiki
 
 [[导入]]
 
-<<<.tc-fish-quote
+<<<
 {{导入}}
 <<<
 
@@ -25,7 +25,7 @@ type: text/vnd.tiddlywiki
 
 [[阅读]]
 
-<<<.tc-fish-quote
+<<<
 {{阅读}}
 <<<
 
@@ -33,7 +33,7 @@ type: text/vnd.tiddlywiki
 
 [[摘录]]
 
-<<<.tc-fish-quote
+<<<
 {{摘录}}
 <<<
 
@@ -41,14 +41,14 @@ type: text/vnd.tiddlywiki
 
 [[设问]]
 
-<<<.tc-fish-quote
+<<<
 {{设问}}
 <<<
 
 
 [[设置优先级]]
 
-<<<.tc-fish-quote
+<<<
 {{设置优先级}}
 <<<
 
@@ -56,7 +56,7 @@ type: text/vnd.tiddlywiki
 
 [[间隔重复]]
 
-<<<.tc-fish-quote
+<<<
 {{间隔重复}}
 <<<
 
@@ -64,7 +64,7 @@ type: text/vnd.tiddlywiki
 
 [[主动召回]]
 
-<<<.tc-fish-quote
+<<<
 {{主动召回}}
 <<<
 
@@ -72,7 +72,7 @@ type: text/vnd.tiddlywiki
 
 [[查看知识树]]
 
-<<<.tc-fish-quote
+<<<
 {{查看知识树}}
 <<<
 
