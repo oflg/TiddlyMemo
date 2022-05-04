@@ -2,13 +2,11 @@ caption: {{||Excerpt}}
 created: 20220309073830227
 due: 20220507133819427
 interval: 4
-modified: 20220503133819429
+modified: 20220504095829379
 priority: 0
 review: 20220503133819428
 tags: 常见问题 ?
 title: 为什么点击填空或选择题时无反应？
 type: text/vnd.tiddlywiki
 
-如果填空或选择题中的全部字都有显示下划线，并且无法点击显示填空和选中选项，是因为设置中开启了''显示条目标题为链接''。
-
-<$radio tiddler="$:/config/Tiddlers/TitleLinks" value="no"> 点此改为不链接 </$radio>
+如果填空或选择题中的全部字都有显示下划线，并且无法点击显示填空和选中选项，是因为 TiddlyWiki 设置中开启了''显示条目标题为链接''。
