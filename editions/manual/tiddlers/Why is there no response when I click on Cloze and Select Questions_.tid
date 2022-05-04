@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220309074606797
 due: 20220325050027199
 interval: 3
-modified: 20220322050027199
+modified: 20220504095800457
 priority: 0
 review: 20220322050027199
 tags: FAQ ?
@@ -11,6 +11,4 @@ type: text/vnd.tiddlywiki
 
 
 
-If all words in Cloze and Select Questions have display underlines and cannot be clicked to show cloze and option, it is because ''Optionally display tiddler titles as links'' is turned on in the settings.
-
-<$radio tiddler="$:/config/Tiddlers/TitleLinks" value="no"> Tap here to change to no links </$radio>
+If all words in Cloze and Select Questions have display underlines and cannot be clicked to show cloze and option, it is because ''Optionally display tiddler titles as links'' is turned on in the TiddlyWiki settings.
