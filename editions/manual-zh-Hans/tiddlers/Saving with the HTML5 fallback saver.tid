@@ -4,13 +4,13 @@ created: 20131129092604900
 delivery: Saver
 description: 有点笨拙但几乎每个浏览器都通用的技术
 method: save
-modified: 20220417100545562
+modified: 20220515070829219
 tags: Chrome Firefox [[Internet Explorer]] Opera Safari Saving Edge
 title: Saving with the HTML5 fallback saver
 type: text/vnd.tiddlywiki
 
 # 点击下载墨屉：
-#> {{$:/editions/zh-Hans/snippets/download-empty-button}}
+#> {{$:/editions/download-empty-button}}
 # 点击刚才下载的墨屉文件，在浏览器中打开
 # 打开后，点击侧边栏的<<.icon $:/core/images/new-button>>''添加''按钮，尝试创建新条目。为此条目输入一些内容，然后点击<<.icon $:/core/images/done-button>>''确定''按钮
 # 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮保存你的更改

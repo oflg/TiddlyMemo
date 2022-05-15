@@ -1,7 +1,7 @@
 {
     "name": "tiddlymemo",
     "version": "1.5.1",
-    "description": "Incremental Learning program based on TiddlyWiki, deepening lifelong knowledge into the Sea of Mind",
+    "description": "Incremental Learning program based on TiddlyWiki, deepening lifelong knowledge into mind",
     "main": "index.js",
     "scripts": {
         "serve": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js . --listen",

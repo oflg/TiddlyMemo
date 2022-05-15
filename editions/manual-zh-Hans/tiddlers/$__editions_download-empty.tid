@@ -1,11 +1,11 @@
 code-body: yes
 created: 20220401172140173
-modified: 20220501172231359
+modified: 20220515075056450
 title: $:/editions/download-empty
 type: text/vnd.tiddlywiki
 
 \define saveTiddlerFilter()
-[[$:/plugins/oflg/fishing]] [prefix[$:/plugins/oflg/fishing-]]  [[$:/plugins/tiddlywiki/dynaview]] [[$:/plugins/tiddlywiki/dynannotate]] [[$:/plugins/Gk0Wk/echarts]] [[$:/plugins/felixhayashi/hotzone]] [[$:/config/ChinesePluginLibrary]] [[$:/SiteTitle]]  [[$:/SiteSubtitle]]  [prefix[$:/themes/]] [prefix[$:/languages/]] [[$:/core]] [[$:/language]] [[$:/theme]] [[$:/palette]] [[$:/isEncrypted]] [[$:/SplashScreen]] [[GettingStarted]] [[使用]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+[[$:/plugins/oflg/fishing]] [prefix[$:/plugins/oflg/fishing-]]  [[$:/plugins/tiddlywiki/dynaview]] [[$:/plugins/tiddlywiki/dynannotate]] [[$:/plugins/Gk0Wk/echarts]] [[$:/plugins/felixhayashi/hotzone]] [[$:/config/ChinesePluginLibrary]] [[$:/SiteTitle]]  [[$:/SiteSubtitle]]  [prefix[$:/themes/]] [prefix[$:/languages/]] [[$:/core]] [[$:/language]] [[$:/isEncrypted]] [[$:/SplashScreen]] [[$:/favicon.ico]] [[GettingStarted]] [[使用]] [[墨屉]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
 \end
 \define savingEmpty()
 yes
