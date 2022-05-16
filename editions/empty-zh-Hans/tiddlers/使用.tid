@@ -35,3 +35,5 @@ type: text/vnd.tiddlywiki
 
 条目右下角 @@color:#5778d8; ''⁝''@@ 按钮有更多功能。例如 ''舍弃'' 意味不再学习此条目。<$reveal default={{$:/toquestion}} type="nomatch" text="">可点此示例 {{问题1||$:/toquestion}} 模拟体验评分过程。</$reveal>
 <<<
+
+<br><br>

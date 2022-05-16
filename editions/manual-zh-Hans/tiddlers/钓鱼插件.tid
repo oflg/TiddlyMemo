@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20211111053940936
 due: 20220326113753546
 interval: 9
-modified: 20220402023633789
+modified: 20220516124717239
 review: 20220317113753546
 tags: 钓鱼插件 ?
 title: 钓鱼插件
@@ -13,3 +13,5 @@ type: text/vnd.tiddlywiki
 <<<.tc-big-quote
 钓鱼插件把''笔记条目''作为[[抽认卡|https://www.zhihu.com/topic/21535352/intro]]进行间隔重复，既然在 TiddlyWiki 中 ''Tiddler''（笔记条目）的形象说法是故事河中的小鱼，那么就把将其勾入脑海中的插件叫做钓鱼。
 <<<
+
+<br><br>

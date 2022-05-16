@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20211111054019363
 due: 20220326113754135
 interval: 9
-modified: 20220515071108402
+modified: 20220516124704698
 review: 20220317113754135
 tags: ? 墨屉手册
 title: 使用
@@ -35,3 +35,5 @@ type: text/vnd.tiddlywiki
 
 条目右下角 @@color:#5778d8; ''⁝''@@ 按钮有更多功能。例如 ''舍弃'' 意味不再学习此条目。<$reveal default={{$:/toquestion}} type="nomatch" text="">可点此示例 {{问题1||$:/toquestion}} 模拟体验评分过程。</$reveal>
 <<<
+
+<br><br>
