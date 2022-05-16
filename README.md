@@ -1,6 +1,6 @@
 # 🦑TiddlyMemo
 
-Lifelong knowledge, deep in mind. It uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
+Lifelong knowledge, deep in mind. TiddlyMemo uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
 
 ## 🎏Languages
 
