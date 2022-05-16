@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220111071803927
 due: 20220430125255366
 interval: 11
-modified: 20220419125255367
+modified: 20220516124808344
 review: 20220419125255367
 tags: 相关插件 ?
 title: 钓鱼分析子插件
@@ -15,3 +15,5 @@ type: text/vnd.tiddlywiki
 
 @@color:green;此插件需要 <$link to="$:/plugins/Gk0Wk/echarts" tooltip="Fishing Analysis">ECharts 插件</$link>依赖，推荐使用[[中文社区插件库|https://tw-cpl.netlify.app/#oflg%2FFishing%20Analysis:%5B%5Boflg%2FFishing%20Analysis%5D%5D%20Gk0Wk%2Fecharts]]安装并进行后续更新@@。
 <<<
+
+<br><br>

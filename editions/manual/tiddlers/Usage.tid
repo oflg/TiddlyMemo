@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20201212170005281
 due: 20220402180855472
 interval: 
-modified: 20220515071326150
+modified: 20220516124311236
 tags: ? [[TiddlyMemo Manual]]
 title: Usage
 type: text/vnd.tiddlywiki
@@ -35,3 +35,5 @@ The  @@color:#5778d8;'' ⁝ ''@@  button in the lower right corner of the tiddle
 Click this example {{Question1||$:/toquestion}} to simulate the experience scoring process.
 </$reveal>
 <<<
+
+<br><br>

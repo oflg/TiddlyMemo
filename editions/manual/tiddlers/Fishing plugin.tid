@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20211111062231718
 due: 20220412054932360
 interval: 9
-modified: 20220404060844901
+modified: 20220516124457057
 priority: 10
 review: 20220403054932360
 tags: [[Included plugins]] ?
@@ -14,3 +14,5 @@ Fishing plugin integrates [[Spaced Repetition|https://docs.ankiweb.net/backgroun
 <<<.tc-big-quote
 Fishing plugin uses ''tiddler note'' as Flashcards for incremental learning. Since Tiddler means small fish in the Story River of TiddlyWiki, this plugin that hooks Tiddler into the Sea of Brain is called Fishing.
 <<<
+
+<br><br>

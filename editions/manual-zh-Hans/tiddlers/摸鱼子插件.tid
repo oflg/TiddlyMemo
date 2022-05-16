@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220315072658071
 due: 20220419013750517
 interval: 9
-modified: 20220410013750517
+modified: 20220516124732648
 priority: 0
 review: 20220410013750517
 tags: 相关插件 ?
@@ -19,6 +19,7 @@ type: text/vnd.tiddlywiki
 @@color:green;此插件需要 <$link to="$:/plugins/tiddlywiki/dynaview" >Dynaview 插件</$link>和 <$link to="$:/plugins/tiddlywiki/dynannotate" >Dynannotate 插件</$link>依赖，推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''~TiddlyWiki 官方插件库''中搜索插件名，一键安装和更新更多插件。@@
 <<<
 
+<br><br>
 
 
 [[导入 TWPUB 电子书子插件]]

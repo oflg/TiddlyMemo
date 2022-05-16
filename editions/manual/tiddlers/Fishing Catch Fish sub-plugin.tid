@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220315111605623
 due: 20220325113752912
 interval: 8
-modified: 20220404055650654
+modified: 20220516124548975
 priority: 0
 review: 20220317113752912
 tags: ? [[Included plugins]]
@@ -17,6 +17,7 @@ You can excerpt sentences as you read, or annotate words with the Learning Pack 
 @@color:green;It depends on <$link to="$:/plugins/tiddlywiki/dynaview">Dynaview plugin</$link> and <$link to="$:/plugins/tiddlywiki/dynannotate">Dynannotate plugin</$link>. It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install it and get updates with one click in ''Official ~TiddlyWiki Plugin Library''.@@
 <<<
 
+<br><br>
 
 [[Import TWPUB Books sub-plugin]]
 
