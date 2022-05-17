@@ -1271,7 +1271,7 @@
         "plugin-type": "plugin",
         "source": "https://github.com/oflg/fishing-twpub",
         "title": "$:/plugins/oflg/fishing-twpub",
-        "version": "0.3.1",
+        "version": "0.3.2",
         "dependents": "",
         "type": "application/json",
         "readme": "Copyright statement: the source code under `twpub` folder comes from https://github.com/TWPUB/TWPUB-Tools .\n\nInstallation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Import%20TWPUB%20Books%20sub-plugin]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#导入 TWPUB 电子书子插件]]查看安装使用教程。\n\n",
