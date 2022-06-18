@@ -1,2 +1,4 @@
 docs
-fishing-cannedfish-*
+node_modules
+.github
+vercel.json

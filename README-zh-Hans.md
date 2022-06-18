@@ -17,7 +17,7 @@
 
 ## ⌨️开发
 * 运行 `git clone --recursive https://github.com/oflg/TiddlyMemo.git`
-* 在项目根目录运行 `yarn install`
+* 在项目根目录运行 `npm install`
 * 运行 `npm run serve` 开启本地服务
 * 运行 `npm run build` 构建离线 HTML 文件
 * 开启或构建更多语言版本的命令详见 `package.json`

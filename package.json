@@ -1,6 +1,6 @@
 {
     "name": "tiddlymemo",
-    "version": "1.5.2",
+    "version": "1.6.0",
     "description": "Incremental Learning program based on TiddlyWiki, deepening lifelong knowledge into mind",
     "main": "index.js",
     "scripts": {
@@ -50,13 +50,32 @@
         "tiddlywiki": "^5.2.2"
     },
     "devDependencies": {
+        "@semantic-release/changelog": "^6.0.1",
+        "@semantic-release/git": "^10.0.1",
         "cross-env": "^7.0.3",
         "nodemon": "^2.0.15",
-        "semantic-release": "^19.0.2"
+        "semantic-release": "^19.0.3"
     },
     "release": {
         "branches": [
             "master"
+        ],
+        "plugins": [
+            "@semantic-release/commit-analyzer",
+            "@semantic-release/release-notes-generator",
+            "@semantic-release/changelog",
+            "@semantic-release/npm",
+            [
+                "@semantic-release/git",
+                {
+                    "assets": [
+                        "package.json",
+                        "CHANGELOG.md"
+                    ],
+                    "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+                }
+            ],
+            "@semantic-release/github"
         ]
     }
 }
