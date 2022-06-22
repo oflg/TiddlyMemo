@@ -1,6 +1,9 @@
 caption: {{||Excerpt}}
 created: 20211111070713273
-modified: 20220414160331300
+due: 20220623073010687
+interval: 1
+modified: 20220622073010687
+review: 20220622073010687
 tags: [[TiddlyMemo Manual]] ?
 title: Advanced Tips
 type: text/vnd.tiddlywiki

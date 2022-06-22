@@ -1,9 +1,10 @@
 caption: {{||Excerpt}}
 created: 20220402014942931
-due: 20220403014943613
-interval: 
-modified: 20220515072321599
-tags: ? [[TiddlyMemo Manual]]
+due: 20220623073157893
+interval: 1
+modified: 20220622073157893
+review: 20220622073157893
+tags: [[TiddlyMemo Manual]] ?
 title: TiddlyMemo
 type: text/vnd.tiddlywiki
 

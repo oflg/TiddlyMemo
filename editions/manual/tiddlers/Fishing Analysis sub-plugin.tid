@@ -1,10 +1,10 @@
 caption: {{||Excerpt}}
 created: 20220111073643059
-due: 20220325113747929
-interval: 8
-modified: 20220516124514292
-review: 20220317113747929
-tags: ? [[Included plugins]]
+due: 20220701073130350
+interval: 9
+modified: 20220622073130350
+review: 20220622073130350
+tags: [[Included plugins]] ?
 title: Fishing Analysis sub-plugin
 type: text/vnd.tiddlywiki
 
