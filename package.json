@@ -1,6 +1,6 @@
 {
     "name": "tiddlymemo",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "description": "Incremental Learning program based on TiddlyWiki, deepening lifelong knowledge into mind",
     "main": "index.js",
     "scripts": {
