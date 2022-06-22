@@ -1,10 +1,10 @@
 caption: {{||Excerpt}}
 created: 20220119013523900
-due: 20220325113752291
-interval: 8
-modified: 20220516124755686
+due: 20220701071218755
+interval: 9
+modified: 20220622083744842
 priority: 0
-review: 20220317113752291
+review: 20220622071218755
 tags: 相关插件 ?
 title: 鱼罐头子插件
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
 <<<.tc-big-quote
 可参照 [[如何按组别学习条目？]] 来使用、删除和导出学习包。
 
-除钓鱼插件库中的 81 个精品小初高和大学英语单词学习包外，本项目提供了另外 945 个英语单词学习包，可以在[[反馈]]中的微信公众号回复''学习包''获取。
+@@color:green;推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''学习包插件库''中搜索学习包插件名，一键安装和更新更多插件。@@
 <<<
 
 <br><br>

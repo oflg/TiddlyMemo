@@ -1,22 +1,16 @@
+caption: {{||Excerpt}}
 created: 20220401142641686
-difficulty: 5
-due: 20220421133444708
-grade: -1
+due: 20220623072138404
 history: []
-interval: 0
-lapses: 0
-modified: 20220419133444708
-reps: 1
-retrievability: 1
-review: 20220419133444708
-stability: 2
+interval: 
+modified: 20220622082730741
 tags: 墨屉手册 ?
 title: 相关插件
 type: text/vnd.tiddlywiki
 
 [img[fishing.png]]
 
-推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''钓鱼插件库''中搜索插件名，一键安装和更新更多插件。
+推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''墨屉插件库''中搜索插件名，一键安装和更新更多插件。
 
 
 [[钓鱼插件]]

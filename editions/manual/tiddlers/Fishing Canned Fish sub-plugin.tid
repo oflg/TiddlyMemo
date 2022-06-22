@@ -1,11 +1,11 @@
 caption: {{||Excerpt}}
 created: 20220119013952016
-due: 20220325113748524
-interval: 8
-modified: 20220516124533002
+due: 20220701073130734
+interval: 9
+modified: 20220622083254073
 priority: 0
-review: 20220317113748524
-tags: ? [[Included plugins]]
+review: 20220622073130734
+tags: [[Included plugins]] ?
 title: Fishing Canned Fish sub-plugin
 type: text/vnd.tiddlywiki
 
@@ -13,6 +13,8 @@ Packaged tiddlers (similar to Anki's deck) that can be easily shared. Also calle
 
 <<<.tc-big-quote
 You can refer to [[How to learn tiddlers by group?]] to use, delete and export Learning Packs.
+
+@@color:green; It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install Learning Pack and get updates with one click in ''Learning Pack Plugin Library''.@@
 <<<
 
 <br><br>

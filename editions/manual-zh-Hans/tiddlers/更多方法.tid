@@ -1,12 +1,13 @@
 caption: {{||Excerpt}}
 created: 20140912140651119
-due: 20220402180825241
-interval: 
+due: 20220623072029760
+interval: 1
 list: 
-modified: 20220420023248745
+modified: 20220622072029761
+review: 20220622072029760
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
 saving-os: Windows Mac Linux Android iOS
-tags: ? 安装
+tags: 安装 ?
 title: 更多方法
 type: text/vnd.tiddlywiki
 

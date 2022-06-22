@@ -1,10 +1,10 @@
 caption: {{||Excerpt}}
 created: 20220309074606797
-due: 20220325050027199
-interval: 3
-modified: 20220504095800457
+due: 20220626073135573
+interval: 4
+modified: 20220622073135574
 priority: 0
-review: 20220322050027199
+review: 20220622073135573
 tags: FAQ ?
 title: Why is there no response when I click on Cloze and Select Questions?
 type: text/vnd.tiddlywiki
