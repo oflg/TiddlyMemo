@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/oflg/TiddlyMemo/compare/v1.6.1...v1.6.2) (2022-06-28)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** select all text ([1f98aea](https://github.com/oflg/TiddlyMemo/commit/1f98aeaf3956e6762df122a6675f5791d240765a))
+
 ## [1.6.1](https://github.com/oflg/TiddlyMemo/compare/v1.6.0...v1.6.1) (2022-06-22)
 
 
