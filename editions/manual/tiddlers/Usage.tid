@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20201212170005281
 due: 20220623073158410
 interval: 1
-modified: 20220622073158410
+modified: 20220624161131828
 review: 20220622073158410
 tags: [[TiddlyMemo Manual]] ?
 title: Usage
@@ -13,27 +13,30 @@ type: text/vnd.tiddlywiki
 2. Click {{$:/plugins/oflg/fishing/fishingfloat}} on the sidebar and select a learning group.
 
 <<<.tc-big-quote
-After the above two steps, an action interface will pop up, which has added `?` tags are divided into three groups:
+After the above two steps, an action interface will pop up, which has added `?` tags are divided into two groups:
 
-* The ''due'' group contains tiddlers that have expired and need to be reviewed immediately to prevent forgetting.
+* The ''Due'' group contains newly added and expired pending learning tiddlers, which need to be learned.
 
-* The ''undue'' group contains tiddlers that have been reviewed and have not yet expired.
-
-* The ''new'' group contains new added tiddlers to be learned.
+* The ''Undue'' group contains tiddlers that have been learned and not yet expired, and generally do not need to be learned.
 
 You can click on the ''new'' group to start learning, and then click on the ''next'' button below the tiddler to learn the next tiddler in the group when you are done.
 
-After completing the learning, you can click on the ''due'' group to do the review. When reviewing the tiddler, the title of it will be displayed first, and you have to recall the answer according to the title. Once you have thought about it, click on <<.icon $:/core/images/unfold-button>> in the tiddler to expand the tiddler and compare the thoughtful answer with the correct answer.
+There are two buttons at the bottom of the tiddler:
 
-At the bottom of the tiddler there are three buttons to ''grade'' the recall results.
+* @@color:green;''Retain''@@ means learned this tiddler and will keep it. Learned tiddlers are grouped into the ''Undue'' group and revert to this group after an interval of expiration.
+* @@color:black; ''Discard''@@ means that this tiddler is not learned and will be discarded. This tiddler is no longer repeated at intervals.
 
-* @@color:red;''forget''@@ means the answer is forgotten, and will sort the tiddler into the ''undue'' group first, and then into the ''due'' group a few days later.
 
-* @@color:green;''remember''@@ means the answer is remembered, and will first group the tiddler into the ''undue'' group and some days later will group the tiddler into the ''due'' group on a schedule.
-* @@color:blue;''grasp''@@ means that the question is grasped, and will first group the tiddler into the ''undue'' group, and many days later will group them into the ''due'' group by schedule.
+When an tiddler expires, it can be reviewed by clicking on the ''Due'' group. When reviewing, the tiddlers are usually folded and only the titles are displayed. You should recall the answer based on the title of the tiddler, and when you think of it, click <<.icon $:/core/images/unfold-button>> in it to unfold it, compare the thought answer with the correct answer, and evaluate it.
 
-The  @@color:#5778d8;'' ⁝ ''@@  button in the lower right corner of the tiddler has more functions. For example, ''discard'' means no more learning this tiddler. <$reveal default={{$:/toquestion}} type="nomatch" text="">
-Click this example {{Question1||$:/toquestion}} to simulate the experience scoring process.
+At the bottom of the tiddler there are three buttons to ''evaluate'' the recall results.
+
+* @@color:red;''Forget''@@ means the answer is forgotten.
+* @@color:green;''Remember''@@ means the answer is remembered.
+* @@color:blue;''Grasp''@@ means the question is grasped.
+
+<$reveal default={{$:/toquestion}} type="nomatch" text="">
+Click this example {{Question1||$:/toquestion}} to simulate the experience evaluating process.
 </$reveal>
 <<<
 

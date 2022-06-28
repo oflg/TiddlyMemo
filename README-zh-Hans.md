@@ -16,7 +16,7 @@
 * 可在[墨屉手册](https://tiddlymemo.org/manual/zh-Hans)查看安装和使用教程。
 
 ## ⌨️开发
-* 运行 `git clone --recursive https://github.com/oflg/TiddlyMemo.git`
+* 运行 `git clone --recursive git@github.com:oflg/TiddlyMemo.git`
 * 在项目根目录运行 `npm install`
 * 运行 `npm run serve` 开启本地服务
 * 运行 `npm run build` 构建离线 HTML 文件
