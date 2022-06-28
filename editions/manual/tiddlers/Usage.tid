@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20201212170005281
 due: 20220623073158410
 interval: 1
-modified: 20220624161131828
+modified: 20220628054452950
 review: 20220622073158410
 tags: [[TiddlyMemo Manual]] ?
 title: Usage
@@ -23,7 +23,7 @@ You can click on the ''new'' group to start learning, and then click on the ''ne
 
 There are two buttons at the bottom of the tiddler:
 
-* @@color:green;''Retain''@@ means learned this tiddler and will keep it. Learned tiddlers are grouped into the ''Undue'' group and revert to this group after an interval of expiration.
+* @@color:green;''Learn''@@ means learned this tiddler and will learn next one. Learned tiddlers are grouped into the ''Undue'' group and revert to this group after an interval of expiration.
 * @@color:black; ''Discard''@@ means that this tiddler is not learned and will be discarded. This tiddler is no longer repeated at intervals.
 
 
