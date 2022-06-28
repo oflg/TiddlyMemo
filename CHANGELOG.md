@@ -1,3 +1,23 @@
+## [1.6.2](https://github.com/oflg/TiddlyMemo/compare/v1.6.1...v1.6.2) (2022-06-28)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** select all text ([1f98aea](https://github.com/oflg/TiddlyMemo/commit/1f98aeaf3956e6762df122a6675f5791d240765a))
+
+## [1.6.1](https://github.com/oflg/TiddlyMemo/compare/v1.6.0...v1.6.1) (2022-06-22)
+
+
+### Bug Fixes
+
+* **fishing plugin:** collapses ([6cef5f1](https://github.com/oflg/TiddlyMemo/commit/6cef5f1f49b71b84b8904937c1a81f501fa62396))
+
+
+### Performance Improvements
+
+* **fishing-catchfish plugin:** highlight words ([c49cbd3](https://github.com/oflg/TiddlyMemo/commit/c49cbd300a2ae294b368d14aa9120bd53b8c1d3a))
+* **fishing-zh-Hans plugin:** update languages ([90f87a9](https://github.com/oflg/TiddlyMemo/commit/90f87a955c596b22052c254a48b165acf8eb47d8))
+
 # [1.6.0](https://github.com/oflg/TiddlyMemo/compare/v1.5.2...v1.6.0) (2022-06-18)
 
 
@@ -105,9 +125,3 @@ TiddlyMemo uses advanced [Incremental Learning](https://help.supermemo.org/wiki/
 ---
 
  It integrates all the plugins and dependencies for [Fishing plugin](https://github.com/oflg/fishing) for beginners.
-
-
-
-
-
-
