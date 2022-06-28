@@ -1,10 +1,10 @@
 caption: {{||Excerpt}}
 created: 20140912140651119
-due: 20220623072029760
-interval: 1
+due: 20220626080531892
+interval: 2
 list: 
-modified: 20220622072029761
-review: 20220622072029760
+modified: 20220624080531892
+review: 20220624080531892
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
 saving-os: Windows Mac Linux Android iOS
 tags: 安装 ?

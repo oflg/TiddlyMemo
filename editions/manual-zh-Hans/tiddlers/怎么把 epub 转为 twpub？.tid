@@ -1,15 +1,15 @@
 created: 20220504103848172
-difficulty: 5
-due: 20220624072427547
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20220630080601500
+grade: 1
+history: [{"due":"20220624072427547","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220622072427547"}]
+interval: 2
 lapses: 0
-modified: 20220622072427547
-reps: 1
-retrievability: 1
-review: 20220622072427547
-stability: 2
+modified: 20220624080601500
+reps: 2
+retrievability: 0.9
+review: 20220624080601499
+stability: 5.512139752431654
 tags: 常见问题 ?
 title: 怎么把 epub 转为 twpub？
 type: text/vnd.tiddlywiki
