@@ -16,7 +16,7 @@ Welcome to translate TiddlyMemo into your language, If you encounter problems, p
 * Installation and usage manual is available at [TiddlyMemo Manual](https://tiddlymemo.org/manual/).
 
 ## ⌨️Development
-* Run `git clone --recursive https://github.com/oflg/TiddlyMemo.git`
+* Run `git clone --recursive git@github.com:oflg/TiddlyMemo.git`
 * In the root folder of the project run `npm install`
 * To start the TiddlyMemo server, run `npm run serve`
 * To build the TiddlyMemo HTML files, run `npm run build`
