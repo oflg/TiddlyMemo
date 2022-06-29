@@ -24,7 +24,7 @@
         "plugin-type": "plugin",
         "source": "https://github.com/oflg/fishing-analysis",
         "title": "$:/plugins/oflg/fishing-analysis",
-        "version": "0.4.6",
+        "version": "0.4.7",
         "type": "application/json",
         "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Fishing%20Analysis%20sub-plugin]].\n\n可在[[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#钓鱼分析子插件]]查看安装使用教程。\n",
         "requires-reload": "yes"
