@@ -1,3 +1,11 @@
+## [1.6.3](https://github.com/oflg/TiddlyMemo/compare/v1.6.2...v1.6.3) (2022-06-28)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** two annotation bars ([fea6f90](https://github.com/oflg/TiddlyMemo/commit/fea6f9034d6cc3066ce05307cffdcec85a6508bc))
+* **fishing-twpub plugin:** can't discard & fold ([29d493b](https://github.com/oflg/TiddlyMemo/commit/29d493bbc86fb51c769db71444cbe9c39b380072))
+
 ## [1.6.2](https://github.com/oflg/TiddlyMemo/compare/v1.6.1...v1.6.2) (2022-06-28)
 
 
