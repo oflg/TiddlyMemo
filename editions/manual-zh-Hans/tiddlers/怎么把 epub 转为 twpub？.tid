@@ -5,7 +5,7 @@ grade: 1
 history: [{"due":"20220624072427547","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220622072427547"}]
 interval: 2
 lapses: 0
-modified: 20220624080601500
+modified: 20220715011333581
 reps: 2
 retrievability: 0.9
 review: 20220624080601499
@@ -14,4 +14,7 @@ tags: 常见问题 ?
 title: 怎么把 epub 转为 twpub？
 type: text/vnd.tiddlywiki
 
-在 [[TWPUB 项目|https://github.com/TWPUB/TWPUB-Tools]]中，使用 epub2twpub 命令转换。把转换后的 twpub.json 拖入到墨屉，再按照[[导入 TWPUB 电子书子插件]]中的方法导入。
+推荐使用[[墨屉社区插件库|https://twpub-book.vercel.app/]]来自动转换。
+
+也可以在 [[TWPUB 项目|https://github.com/TWPUB/TWPUB-Tools]]中，使用 epub2twpub 命令转换。把转换后的 twpub.json 拖入到墨屉，再按照[[导入 TWPUB 电子书子插件]]中的方法导入。
+
