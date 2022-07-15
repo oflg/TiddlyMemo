@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/oflg/TiddlyMemo/compare/v1.6.3...v1.6.4) (2022-06-29)
+
+
+### Bug Fixes
+
+* **fishing-analysis plugin:** text not visible ([d7717f4](https://github.com/oflg/TiddlyMemo/commit/d7717f475c4fc6f93e6272375a37a9d1ab1ad5c6))
+
 ## [1.6.3](https://github.com/oflg/TiddlyMemo/compare/v1.6.2...v1.6.3) (2022-06-28)
 
 
