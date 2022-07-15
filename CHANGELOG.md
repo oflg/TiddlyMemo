@@ -1,3 +1,15 @@
+## [1.6.7](https://github.com/oflg/TiddlyMemo/compare/v1.6.6...v1.6.7) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-twpub plugin:** no chapter content ([9042068](https://github.com/oflg/TiddlyMemo/commit/9042068cb9cd8e2b77eab2d1dccfccdc66cfcc72))
+
+
+### Performance Improvements
+
+* **fishing-cannedfish plugin:** Import button ([570c39a](https://github.com/oflg/TiddlyMemo/commit/570c39a525e324fa16742cb56e85e5f02eb28c39))
+
 ## [1.6.6](https://github.com/oflg/TiddlyMemo/compare/v1.6.5...v1.6.6) (2022-07-15)
 
 
