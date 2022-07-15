@@ -1,3 +1,45 @@
+## [1.6.7](https://github.com/oflg/TiddlyMemo/compare/v1.6.6...v1.6.7) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-twpub plugin:** no chapter content ([9042068](https://github.com/oflg/TiddlyMemo/commit/9042068cb9cd8e2b77eab2d1dccfccdc66cfcc72))
+
+
+### Performance Improvements
+
+* **fishing-cannedfish plugin:** Import button ([570c39a](https://github.com/oflg/TiddlyMemo/commit/570c39a525e324fa16742cb56e85e5f02eb28c39))
+
+## [1.6.6](https://github.com/oflg/TiddlyMemo/compare/v1.6.5...v1.6.6) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** error show learning ([a7a58d6](https://github.com/oflg/TiddlyMemo/commit/a7a58d6235edcf401a3789a85bd0816fa0216154))
+
+## [1.6.5](https://github.com/oflg/TiddlyMemo/compare/v1.6.4...v1.6.5) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-analysis:** statistical errors ([57e3f83](https://github.com/oflg/TiddlyMemo/commit/57e3f832f0747cdb96fcc90b1b1c154c753d9ef9))
+* **fishing-catchfish plugin:** No word highlight ([31fb80d](https://github.com/oflg/TiddlyMemo/commit/31fb80d6a4f2ec0eb58ea2ac622e45e823379a4e))
+
+## [1.6.4](https://github.com/oflg/TiddlyMemo/compare/v1.6.3...v1.6.4) (2022-06-29)
+
+
+### Bug Fixes
+
+* **fishing-analysis plugin:** text not visible ([d7717f4](https://github.com/oflg/TiddlyMemo/commit/d7717f475c4fc6f93e6272375a37a9d1ab1ad5c6))
+
+## [1.6.3](https://github.com/oflg/TiddlyMemo/compare/v1.6.2...v1.6.3) (2022-06-28)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** two annotation bars ([fea6f90](https://github.com/oflg/TiddlyMemo/commit/fea6f9034d6cc3066ce05307cffdcec85a6508bc))
+* **fishing-twpub plugin:** can't discard & fold ([29d493b](https://github.com/oflg/TiddlyMemo/commit/29d493bbc86fb51c769db71444cbe9c39b380072))
+
 ## [1.6.2](https://github.com/oflg/TiddlyMemo/compare/v1.6.1...v1.6.2) (2022-06-28)
 
 
