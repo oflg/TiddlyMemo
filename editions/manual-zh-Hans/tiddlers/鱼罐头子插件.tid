@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220119013523900
 due: 20220701071218755
 interval: 9
-modified: 20220622083744842
+modified: 20220715044217915
 priority: 0
 review: 20220622071218755
 tags: 相关插件 ?
@@ -12,9 +12,9 @@ type: text/vnd.tiddlywiki
 是打包好的多个条目，使用和共享比较方便，又称作学习包（类似 Anki 的牌组）。
 
 <<<.tc-big-quote
-可参照 [[如何按组别学习条目？]] 来使用、删除和导出学习包。
+使用 {{$:/plugins/oflg/fishing/fishingfloat}} 中的 <<.icon $:/core/images/import-button>> 来导入，会自动添加到常用筛选器。
 
-@@color:green;推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''学习包插件库''中搜索学习包插件名，一键安装和更新更多插件。@@
+可参照 [[如何按组别学习条目？]] 来使用、删除和导出学习包。
 <<<
 
 <br><br>
