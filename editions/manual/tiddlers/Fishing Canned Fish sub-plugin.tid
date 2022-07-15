@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20220119013952016
 due: 20220701073130734
 interval: 9
-modified: 20220622083254073
+modified: 20220715044331448
 priority: 0
 review: 20220622073130734
 tags: [[Included plugins]] ?
@@ -12,9 +12,10 @@ type: text/vnd.tiddlywiki
 Packaged tiddlers (similar to Anki's deck) that can be easily shared. Also called Learning Pack.
 
 <<<.tc-big-quote
-You can refer to [[How to learn tiddlers by group?]] to use, delete and export Learning Packs.
 
-@@color:green; It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install Learning Pack and get updates with one click in ''Learning Pack Plugin Library''.@@
+Use <<.icon $:/core/images/import-button>> in {{$:/plugins/oflg/fishing/fishingfloat}} to import and it will be automatically added to the common filters.
+
+You can refer to [[How to learn tiddlers by group?]] to use, delete and export it.
 <<<
 
 <br><br>
