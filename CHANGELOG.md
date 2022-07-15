@@ -1,3 +1,11 @@
+## [1.6.5](https://github.com/oflg/TiddlyMemo/compare/v1.6.4...v1.6.5) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-analysis:** statistical errors ([57e3f83](https://github.com/oflg/TiddlyMemo/commit/57e3f832f0747cdb96fcc90b1b1c154c753d9ef9))
+* **fishing-catchfish plugin:** No word highlight ([31fb80d](https://github.com/oflg/TiddlyMemo/commit/31fb80d6a4f2ec0eb58ea2ac622e45e823379a4e))
+
 ## [1.6.4](https://github.com/oflg/TiddlyMemo/compare/v1.6.3...v1.6.4) (2022-06-29)
 
 
