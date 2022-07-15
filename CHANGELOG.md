@@ -1,3 +1,10 @@
+## [1.6.6](https://github.com/oflg/TiddlyMemo/compare/v1.6.5...v1.6.6) (2022-07-15)
+
+
+### Bug Fixes
+
+* **fishing-catchfish plugin:** error show learning ([a7a58d6](https://github.com/oflg/TiddlyMemo/commit/a7a58d6235edcf401a3789a85bd0816fa0216154))
+
 ## [1.6.5](https://github.com/oflg/TiddlyMemo/compare/v1.6.4...v1.6.5) (2022-07-15)
 
 
