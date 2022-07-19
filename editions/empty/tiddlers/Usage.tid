@@ -18,7 +18,7 @@ You can click on the ''new'' group to start learning, and then click on the ''ne
 
 There are two buttons at the bottom of the tiddler:
 
-* @@color:green;''Retain''@@ means learned this tiddler and will keep it. Learned tiddlers are grouped into the ''Undue'' group and revert to this group after an interval of expiration.
+* @@color:green;''Learn''@@ means learned this tiddler and will learn next one. Learned tiddlers are grouped into the ''Undue'' group and revert to this group after an interval of expiration.
 * @@color:black; ''Discard''@@ means that this tiddler is not learned and will be discarded. This tiddler is no longer repeated at intervals.
 
 
