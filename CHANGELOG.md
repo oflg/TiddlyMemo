@@ -1,3 +1,20 @@
+# [1.7.0](https://github.com/oflg/TiddlyMemo/compare/v1.6.7...v1.7.0) (2022-08-05)
+
+
+### Bug Fixes
+
+* **fishing-twpub plugin:** twpub disorder ([16d78fd](https://github.com/oflg/TiddlyMemo/commit/16d78fdb70bed3d74444991411ed1e19a6a61c20))
+
+
+### Features
+
+* **fishing plugin:** info in subtitle ([02f3f2d](https://github.com/oflg/TiddlyMemo/commit/02f3f2d4a63c9ae632d7fabbc95ea19ea1cdcabd))
+
+
+### Performance Improvements
+
+* **fishing-catchfish plugin:** annotation ([3ee3949](https://github.com/oflg/TiddlyMemo/commit/3ee39494a5696c53cb322d9e5854b92ba64c0a8a))
+
 ## [1.6.7](https://github.com/oflg/TiddlyMemo/compare/v1.6.6...v1.6.7) (2022-07-15)
 
 
