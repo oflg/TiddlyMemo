@@ -48,7 +48,7 @@
     },
     "homepage": "https://github.com/oflg/TiddlyMemo#readme",
     "dependencies": {
-        "tiddlywiki": "^5.2.2"
+        "tiddlywiki": "^5.2.3"
     },
     "devDependencies": {
         "@semantic-release/changelog": "^6.0.1",
