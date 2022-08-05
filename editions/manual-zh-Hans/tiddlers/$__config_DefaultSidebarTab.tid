@@ -1,6 +1,6 @@
 created: 20220309070814161
-modified: 20220309070814696
+modified: 20220804011151194
 title: $:/config/DefaultSidebarTab
 type: text/vnd.tiddlywiki
 
-$:/core/ui/SideBar/FishingAnalysis
+$:/plugins/oflg/fishing-analysis/ui/SideBar/FishingAnalysis
