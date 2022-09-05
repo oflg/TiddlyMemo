@@ -13,6 +13,9 @@
 [submodule "plugins/oflg/fishing-twpub"]
 	path = plugins/oflg/fishing-twpub
 	url = git@github.com:oflg/fishing-twpub.git
+[submodule "plugins/oflg/fishing-weave"]
+	path = plugins/oflg/fishing-weave
+	url = git@github.com:oflg/fishing-weave.git
 [submodule "plugins/oflg/fishing-zh-Hans"]
 	path = plugins/oflg/fishing-zh-Hans
 	url = git@github.com:oflg/fishing-zh-Hans.git
