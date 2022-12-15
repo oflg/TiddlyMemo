@@ -48,14 +48,14 @@
     },
     "homepage": "https://github.com/oflg/TiddlyMemo#readme",
     "dependencies": {
-        "tiddlywiki": "^5.2.3"
+        "tiddlywiki": "^5.2.4"
     },
     "devDependencies": {
-        "@semantic-release/changelog": "^6.0.1",
+        "@semantic-release/changelog": "^6.0.2",
         "@semantic-release/git": "^10.0.1",
         "cross-env": "^7.0.3",
-        "nodemon": "^2.0.15",
-        "semantic-release": "^19.0.3"
+        "nodemon": "^2.0.20",
+        "semantic-release": "^19.0.5"
     },
     "release": {
         "branches": [
