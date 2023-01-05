@@ -18,7 +18,7 @@
         "build-empty-all": "npm run build-empty; npm run build-empty-zh-Hans;",
         "build-website": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/index/ --output docs/ --build index",
         "build-website-zh-Hans": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/zh-Hans/ --output docs/ --build index",
-        "build-website-all": "npm run build; npm run build-zh-Hans;",
+        "build-website-all": "npm run build-website; npm run build-website-zh-Hans;",
         "build-edition-all": "npm run build-website-all; npm run build-manual-all; npm run build-empty-all;",
         "build-library": "cross-env TIDDLYWIKI_PLUGIN_PATH='./plugins' TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx tiddlywiki editions/manual/ --output docs/library --build library",
         "build-all": "npm run build-edition-all; npm run build-library;",
