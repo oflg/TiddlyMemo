@@ -28,6 +28,9 @@ jobs:
             ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
             ${{ runner.os }}-node-
 
+      - name: Clone git submodule
+        run: git submodule update --init
+
       - name: Install Dependencies
         run: npm install
 
