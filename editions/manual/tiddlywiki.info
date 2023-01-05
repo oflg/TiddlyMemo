@@ -10,9 +10,10 @@
         "tiddlywiki/dynannotate",
         "oflg/fishing",
         "oflg/fishing-analysis",
-        "oflg/fishing-cannedfish",
         "oflg/fishing-catchfish",
-        "oflg/fishing-twpub"
+        "oflg/fishing-cannedfish",
+        "oflg/fishing-twpub",
+        "oflg/fishing-weave"
     ],
     "themes": [
         "tiddlywiki/vanilla",
