@@ -1,18 +1,18 @@
 [submodule "plugins/oflg/fishing"]
 	path = plugins/oflg/fishing
-	url = git@github.com:oflg/fishing.git
+	url = https://github.com/oflg/fishing.git
 [submodule "plugins/oflg/fishing-analysis"]
 	path = plugins/oflg/fishing-analysis
-	url = git@github.com:oflg/fishing-analysis.git
+	url = https://github.com/oflg/fishing-analysis.git
 [submodule "plugins/oflg/fishing-cannedfish"]
 	path = plugins/oflg/fishing-cannedfish
-	url = git@github.com:oflg/fishing-cannedfish.git
+	url = https://github.com/oflg/fishing-cannedfish.git
 [submodule "plugins/oflg/fishing-catchfish"]
 	path = plugins/oflg/fishing-catchfish
-	url = git@github.com:oflg/fishing-catchfish.git
+	url = https://github.com/oflg/fishing-catchfish.git
 [submodule "plugins/oflg/fishing-twpub"]
 	path = plugins/oflg/fishing-twpub
-	url = git@github.com:oflg/fishing-twpub.git
+	url = https://github.com/oflg/fishing-twpub.git
 [submodule "plugins/oflg/fishing-zh-Hans"]
 	path = plugins/oflg/fishing-zh-Hans
-	url = git@github.com:oflg/fishing-zh-Hans.git
+	url = https://github.com/oflg/fishing-zh-Hans.git
