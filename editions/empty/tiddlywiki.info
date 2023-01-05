@@ -9,8 +9,7 @@
         "oflg/fishing-analysis",
         "oflg/fishing-catchfish",
         "oflg/fishing-cannedfish",
-        "oflg/fishing-twpub",
-        "oflg/fishing-weave"
+        "oflg/fishing-twpub"
     ],
     "themes": [
         "tiddlywiki/vanilla",
