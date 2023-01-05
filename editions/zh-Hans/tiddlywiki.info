@@ -3,7 +3,7 @@
 	"plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
-        "tiddlywiki/pluginlibrary"
+        "tiddlywiki/github-fork-ribbon"
     ],
     "themes": [
         "tiddlywiki/vanilla",
