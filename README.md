@@ -21,9 +21,9 @@ Welcome to translate TiddlyMemo into your language, If you encounter problems, p
 ## ⌨️Development
 
 * Run `git clone --recursive git@github.com:oflg/TiddlyMemo.git`
-* In the root folder of the project run `npm install-empty`
+* In the root folder of the project run `npm install`
 * To start the TiddlyMemo server, run `npm run serve-empty`
-* To build the TiddlyMemo HTML files, run `npm run build`
+* To build the TiddlyMemo HTML files, run `npm run build-empty`
 * To serve or build a specific language edition, refer to `package.json`
 
 ## ❤️Contributors
