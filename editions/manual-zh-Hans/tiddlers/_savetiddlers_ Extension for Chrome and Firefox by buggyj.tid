@@ -5,12 +5,12 @@ created: 20171109171935039
 delivery: Browser Extension
 description: Chrome 和 Firefox 的浏览器附加组件
 method: save
-modified: 20210103112404321
+modified: 20221217083119655
 tags: Chrome Firefox Saving [[Other Resources]] plugins
 title: "savetiddlers" Extension for Chrome and Firefox by buggyj
 type: text/vnd.tiddlywiki
 url: https://github.com/buggyj/savetiddlers
 
-Google Chrome 和 Mozilla Firefox 的附加组件，可以平顺 TiddlyWiki 内置的 [[HTML5 备用保存模块|Saving with the HTML5 fallback saver]]的一些摩擦，正确设置后，与使用 TiddlyFox 一样简单。
+Google Chrome 和 Mozilla Firefox 的附加组件，可以平顺 TiddlyWiki 内置的 [[HTML5 保存模块|Saving with the HTML5 saver]]的一些摩擦，正确设置后，与使用 TiddlyFox 一样简单。
 
 {{!!url}}

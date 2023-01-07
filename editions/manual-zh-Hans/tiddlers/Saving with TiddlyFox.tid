@@ -10,9 +10,9 @@ tags: Saving Firefox
 title: Saving with TiddlyFox
 type: text/vnd.tiddlywiki
 
-若你使用的是 [[Android 版的 Firefox|Firefox for Android]]，请参阅[[在 Android 用 TiddlyFox 进行保存|Saving with TiddlyFox on Android]]的说明。
+若您使用的是 [[Android 版的 Firefox|Firefox for Android]]，请参阅[[在 Android 用 TiddlyFox 进行保存|Saving with TiddlyFox on Android]]的说明。
 
-# ~TiddlyFox 将不适用于 Firefox 57 和其后的版本，确认你用是的 57 版以前的 Firefox。Firefox 57 和其后的版本，请考虑使用以下替代方案： <<list-links filter:"[tag[Firefox]delivery[Browser Extension]] -[[Saving with TiddlyFox]]">>
+# ~TiddlyFox 将不适用于 Firefox 57 和其后的版本，确认您用是的 57 版以前的 Firefox。Firefox 57 和其后的版本，请考虑使用以下替代方案： <<list-links filter:"[tag[Firefox]delivery[Browser Extension]] -[[Saving with TiddlyFox]]">>
 # 更改 Firefox ''选项''中之''个人隐私''设置为''保留所有浏览纪录''，再''清除所有浏览纪录''
 # 从下列网址安装最新版的 TiddlyFox 附加组件：
 #* https://addons.mozilla.org/zh-TW/firefox/addon/tiddlyfox/
@@ -20,13 +20,13 @@ type: text/vnd.tiddlywiki
 # 点击下列按钮，下载一个空白的 TiddlyWiki：
 #> {{$:/editions/zh-Hant/snippets/download-empty-button}} {{$:/editions/zh-Hans/snippets/download-empty-button}}
 # 找到你刚才下载的文件
-#* 你可以重命名该文件，但其扩展名必须是 `.html` 或 `.htm`
+#* 您可以重命名该文件，但其扩展名必须是 `.html` 或 `.htm`
 #* 文件名与存放的路径''勿''包含半角英文本母、数字、"-"、"_"、"." 以外的字符
 # 于 [[Firefox]] 打开该文件
-#* 如果你使用 TiddlyFox v1.x.x，你将需要点击 ''OK''，以回应 TiddlyFox 询问是否激活保存此文件的提示。
-#* 如果你使用 TiddlyFox v2.x.x，你将需要点击站在蓝色地球上的小猫的图标，再点击 <span class="tc-btn-big-green">Enable Saving</span> 以激活保存支持。
-#** 对于 TiddlyFox v2.0.1，你不能使用隐私浏览模式，也不能使用 "不保留历史记录"。
+#* 如果您使用 TiddlyFox v1.x.x，您将需要点击 ''OK''，以回应 TiddlyFox 询问是否激活保存此文件的提示。
+#* 如果您使用 TiddlyFox v2.x.x，您将需要点击站在蓝色地球上的小猫的图标，再点击 <span class="tc-btn-big-green">Enable Saving</span> 以激活保存支持。
+#** 对于 TiddlyFox v2.0.1，您不能使用隐私浏览模式，也不能使用 "不保留历史记录"。
 # 点击侧边栏的<<.icon $:/core/images/new-button>>''添加''按钮尝，试创建新条目。为此条目输入一些内容，然后点击<<.icon $:/core/images/done-button>>''确定''按钮
-# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮，保存你的更改
+# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮，保存您的更改
 #* 在窗口的右上角可看到''已保存 wiki'' 的黄色消息
-# 刷新浏览器窗口，以确认你的更改已正确保存
+# 刷新浏览器窗口，以确认您的更改已正确保存

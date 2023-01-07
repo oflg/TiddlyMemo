@@ -1,35 +1,35 @@
-caption: Node.js
+caption: 安装 TiddlyWiki 于 Node.js
 color: #F06292
 created: 20131219100608529
 delivery: DIY
-description: 灵活的托管在你自己的机器或云端
+description: 灵活的托管在您自己的机器或云端
 method: sync
-modified: 20211005025603829
+modified: 20221115230831173
 tags: Saving [[TiddlyWiki on Node.js]] Windows Mac Linux
 title: Installing TiddlyWiki on Node.js
 type: text/vnd.tiddlywiki
 
 # 安装 [[Node.js]]
-#* Linux:
+#* Linux: 
 #*> //Debian/Ubuntu//:<br/>`apt install nodejs`<br/>可能需要跟进：<br/>`apt install npm`
-#*> //Arch Linux//<br/>`pacman -S tiddlywiki` <br/>(安装 nodejs 和 tiddlywiki)
+#*> //Arch Linux//<br/>`yay -S tiddlywiki` <br/>(安装 nodejs 和 tiddlywiki)
 #* Mac
 #*> `brew install node`
 #* Android
-#*> [[Termux for Android|Serving TW5 from Android]]
-#* 其他
+#*> [[适用于 Android 的 Termux|Serving TW5 from Android]]
+#* 其他 
 #*> 详见 http://nodejs.org
 # 打开一个命令行终端并输入：
 #> `npm install -g tiddlywiki`
-#> 若运行失败出现错误，你可能需要以管理员身份重新运行命令：
+#> 若运行失败出现错误，您可能需要以管理员身份重新运行命令：
 #> `sudo npm install -g tiddlywiki` (Mac/Linux)
-# 检查 TiddlyWiki 已安装，请输入：
+# 确认 ~TiddlyWiki 已安装，请输入：
 #> `tiddlywiki --version`
-# 你应该会看到 TiddlyWiki 回应其当前版本 (例如："<<version>>"；你还可能看到回应其他调试信息)
+#* 您应该会看到 ~TiddlyWiki 回应其当前版本 (例如："<<version>>"。您还可能看到回应其他调试信息。)
 # 试试看：
 ## `tiddlywiki mynewwiki --init server` 创建一个新的 wiki 所需的文件夹，其中包含与服务器相关的组件
 ## `tiddlywiki mynewwiki --listen` 启动 TiddlyWiki 服务器
-## 在你的浏览器造访 http://127.0.0.1:8080/
+## 在您的浏览器造访 http://127.0.0.1:8080/
 ## 尝试编辑和添加条目
 # （可选）制作脱机副本 ︰
 #* 点击侧边栏的 <<.icon $:/core/images/save-button>> ''保存变更''按钮，''或''
@@ -37,10 +37,7 @@ type: text/vnd.tiddlywiki
 
 其中 `-g` 参数令 TiddlyWiki 安装于全域。若未指定该参数，TiddlyWiki 只会可用在你安装它的目录中。
 
-如果你使用 Debian 或基于 Debian 的 Linux，并且通过 node.js 套件包安装时，遇到 `node: command not found` 错误，则可能需要在 `nodejs` 和 `node` 之间创建一个符号链接。请参考你的发行手册和 `whereis` 来正确创建一个链接。详见 github [[issue 1434|http：//github.com/Jermolene/TiddlyWiki5/issues/1434]]
+<<.warning "如果您使用 Debian 或基于 Debian 的 Linux，并且通过 node.js 套件包安装时，遇到 `node: command not found` 错误，则可能需要在 `nodejs` 和 `node` 之间创建一个符号链接。请参考您的发行手册和 `whereis` 来正确创建一个链接。详见 github [[issue 1434|http：//github.com/Jermolene/TiddlyWiki5/issues/1434]]。<br>Debian v8.0 的示例：`sudo ln -s /usr/bin/nodejs /usr/bin/node`">>
+<br>
+<<.tip "您也可以安装以前的版本：<br><code> npm install -g tiddlywiki@5.1.13</code>">>
 
-Debian v8.0 的示例：`sudo ln -s /usr/bin/nodejs /usr/bin/node`
-
-你也可以安装以前的版本：
-
-> npm install -g tiddlywiki@5.1.13

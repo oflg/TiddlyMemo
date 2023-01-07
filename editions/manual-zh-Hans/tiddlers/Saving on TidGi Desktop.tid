@@ -5,8 +5,8 @@ created: 20220221080637764
 delivery: App
 description: 桌面应用程序，用于启动和同步 TiddlyWiki
 method: save
-modified: 20220224013756949
-tags: Saving Mac Windows Linux
+modified: 20220515020129820
+tags: Saving Mac Windows Linux [[Standalone App]]
 title: Saving on TidGi Desktop
 type: text/vnd.tiddlywiki
 url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/latest
@@ -22,6 +22,6 @@ url: https://github.com/tiddly-gittly/TidGi-Desktop/releases/latest
 # 自 {{!!url}} 安装太记桌面的最新版本
 # 运行太记
 # 创建一个新的维基，或打开一个现有的 [[Node.js 版 TiddlyWiki|TiddlyWiki on Node.js]] 文件夹
-# 更改会自动保存，你可以选择将其配置为每 30 分钟同步到 GitHub
+# 更改会自动保存，您可以选择将其配置为每 30 分钟同步到 GitHub
 
 [img[https://github.com/tiddly-gittly/TidGi-Desktop/raw/master/docs/images/preference.png]]

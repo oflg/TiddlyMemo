@@ -3,7 +3,7 @@ created: 20140912140651119
 due: 20220626080531892
 interval: 2
 list: 
-modified: 20220816070002468
+modified: 20230105140641886
 review: 20220624080531892
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
 saving-os: Windows Mac Linux Android iOS
@@ -11,65 +11,6 @@ tags: 安装 ?
 title: 更多方法
 type: text/vnd.tiddlywiki
 
-\define alltagsfilter()  
-<$vars tag1="tag[" tag2="]" lb="[" rb="tag[Saving]sort[delivery]]">
-<$set filter="[list[]addprefix<tag1>addsuffix<tag2>]+[join[]addprefix<lb>addsuffix<rb>]" name="alltags" select=0>
-<$text text=<<alltags>>/>
-</$set>
-</$vars>
-\end
+''墨屉是一种 ALL IS ONE 的笔记软件，文件 = 数据 = 软件，三者合一''，所以可以把刚刚下载的墨屉软件当作数据使用，有以下面几十种方法。
 
-\define saverssidebaritem(item:"Linux")
-<$checkbox tiddler=<<qualify $:/temp/$item$>> field="status" checked="selected" checkactions=<<checkactions "$item$">> uncheckactions=<<uncheckactions "$item$">> default="closed"> $item$</$checkbox><br/>
-\end
-
-\define saverssidebaritemlist(fieldname:"os")
-<$list filter="[enlist{!!$fieldname$}]" variable="currentItem">
-<$macrocall $name="saverssidebaritem" item=<<currentItem>>/>
-</$list>
-\end
-
-\define uncheckactions(item:"Linux")
-<$action-listops  $subfilter="-[[$item$]]"/>
-\end
-
-\define checkactions(item:"Linux")
-<$action-listops $subfilter="[[$item$]]"/>
-\end
-
-\define uncheckactions(item:"Linux")
-<$action-listops $subfilter="-[[$item$]]"/>
-\end
-
-''墨屉是一种 ALL IS ONE 的笔记软件，文件 = 数据 = 软件，三者合一''，所以可以把刚刚下载的墨屉软件当作数据使用。
-
-有近几十种各异的使用方式，可以先勾选要使用的环境，选出你最喜欢的方式。
-
-<div class="tc-wrapper-flex">
-<div class="tc-saving-sidebar">
-  <div class="tc-saving-sidebar-category">
-      <div class="tc-saving-sidebar-category-title">系统</div>
-     <div class="tc-saving-sidebar-category-item">
-                <<saverssidebaritemlist "saving-os">>
-      </div>
-   </div>
-   <div class="tc-saving-sidebar-category">
-       <div class="tc-saving-sidebar-category-title">浏览器</div>
-        <div class="tc-saving-sidebar-category-item">
-               <<saverssidebaritemlist "saving-browser">>
-        </div>
-  </div>
-  
-</div>
-
-<!-- Page content -->
-
-<div class="content">
-<$wikify text=<<alltagsfilter>> name="alltagsfilterwikified">
-<$list filter=<<alltagsfilterwikified>>>
-{{||$:/_tw5.com-card-template}}
-</$list>
-</$wikify>
-
-</div>
-</div>
+{{Saving}}

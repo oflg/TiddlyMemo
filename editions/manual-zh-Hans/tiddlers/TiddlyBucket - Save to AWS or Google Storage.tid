@@ -1,0 +1,15 @@
+caption: ~TiddlyBucket
+color: #f48fb1
+created: 20221126192148031
+delivery: Protocol
+description: 保存到 AWS 或 Google Storage
+method: save
+modified: 20221204232107306
+ribbon-text: 新
+tags: Chrome Firefox [[Internet Explorer]] Linux Mac Opera Safari Saving Windows iOS Edge
+title: TiddlyBucket - Save to AWS or Google Storage
+type: text/vnd.tiddlywiki
+
+~TiddlyBucket - 使用 Go 保存到 AWS 或 Google Storage
+
+此工具拷贝了 ~TiddlyWeb 后端 API，并且可以像规范的 ~TiddlyWiki5 应用程序一样，将条目文件读写到本地目录。但是，除此之外，它还可以对给定的 Google Cloud Storage bucket 或 AWS S3 bucket 运行相同的操作。使用 Go 编程语言编写

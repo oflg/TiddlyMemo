@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 
 这是使用 Ruby Webrick 的最小服务器。它只是提供来自同一个文件夹的文件并处理保存。
 
-运行后，只需将浏览器指向 http://localhost:8000 即可查看文件夹列表，然后点击你的维基 html 文件。
+运行后，只需将浏览器指向 http://localhost:8000 即可查看文件夹列表，然后点击您的维基 html 文件。
 
 请参阅以下脚本：
 
