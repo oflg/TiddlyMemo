@@ -4,7 +4,7 @@ created: 20220206035734757
 delivery: Saver
 description: Save changes using new versions of Chromium based browsers
 method: save
-modified: 20220402015346069
+modified: 20220206035734757
 tags: Chrome Edge Opera Saving Linux Mac Windows
 title: Saving on Browser with File System Access API
 type: text/vnd.tiddlywiki

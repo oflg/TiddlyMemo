@@ -12,14 +12,14 @@ type: text/vnd.tiddlywiki
 
 # 安装 TiddlyIE 附加组件，从：
 #* https://github.com/davidjade/TiddlyIE/releases
-# 重新启动 Internet Explorer。IE 会提示你激活 TiddlyIE 附加组件。
-#> 你也会看到提示激活 //Microsoft Script Runtime//
+# 重新启动 Internet Explorer。IE 会提示您激活 TiddlyIE 附加组件。
+#> 您也会看到提示激活 //Microsoft Script Runtime//
 # 保存下列链接，下载一个空白的 TiddlyWiki。
 #> https://tiddlywiki.com/empty.html
-#> 在运行下载前，你的浏览器可能会要你允许此下载
+#> 在运行下载前，您的浏览器可能会要您允许此下载
 # 找到你刚才下载的文件
 #* 你可以重命名该文件，但其扩展名必须是 `.html` 或 `.htm`
 # 于 Internet Explorer 打开该文件
 # 点击侧边栏的<<.icon $:/core/images/new-button>>''添加''按钮，尝试创建新条目。为此条目输入一些内容，然后点击<<.icon $:/core/images/done-button>>''确定''按钮
-# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮，保存你的更改。Internet Explorer 会跳出另存新档的对话匡请求你的同意于本机保存该文件。
-# 刷新浏览器窗口，检测确认你的更改已正确保存
+# 点击侧边栏的<<.icon $:/core/images/save-button>>''保存变更''按钮，保存您的更改。Internet Explorer 会跳出另存新档的对话匡请求您的同意于本机保存该文件。
+# 刷新浏览器窗口，检测确认您的更改已正确保存
