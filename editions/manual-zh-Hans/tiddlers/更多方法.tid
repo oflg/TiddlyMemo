@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20140912140651119
 due: 20220626080531892
 interval: 2
-list: 
+list:
 modified: 20230105140641886
 review: 20220624080531892
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
@@ -11,6 +11,6 @@ tags: 安装 ?
 title: 更多方法
 type: text/vnd.tiddlywiki
 
-''墨屉是一种 ALL IS ONE 的笔记软件，文件 = 数据 = 软件，三者合一''，所以可以把刚刚下载的墨屉软件当作数据使用，有以下面几十种方法。
+墨屉是[[本地优先软件|https://www.inkandswitch.com/local-first/]]，可以把刚刚下载到本地的`墨屉.html`当作数据使用，有以下面几十种方法。
 
 {{Saving}}
