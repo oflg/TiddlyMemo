@@ -2,7 +2,7 @@ caption: {{||Excerpt}}
 created: 20140912140651119
 due: 20220623073155036
 interval: 1
-list: 
+list:
 modified: 20230105135614420
 review: 20220622073155036
 saving-browser: Firefox Chrome Edge [[Internet Explorer]] Safari Opera
@@ -11,7 +11,7 @@ tags: Installation ?
 title: More methods
 type: text/vnd.tiddlywiki
 
-TiddlyMemo is ALL IS ONE note taking program, file = data = software, all three in one, so you can just use the downloaded TiddlyMemo program as data.
+TiddlyMemo is [[Local-first software|https://www.inkandswitch.com/local-first/]], you can just use the local downloaded `TiddlyMemo.html` program as data.
 
 There are nearly dozens of different ways to use it, so you can check the environment you want to use first and choose the way you like best.
 
