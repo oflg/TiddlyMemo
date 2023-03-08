@@ -1,11 +1,17 @@
-created: 20220401181453377
-due: 20220403030832232
-interval: 
-modified: 20220405014505780
+caption: Step 1<br>Syncing
+created: 20230308111151861
+modified: 20230308111519112
 tags: $:/tags/GettingStarted
 title: GettingStarted
 type: text/vnd.tiddlywiki
 
-{{Usage}}
+{{Welcome}}
 
-More usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/]].
+! Syncing Changes to the Server
+
+Before you can start storing important information in ~TiddlyWiki it is important to make sure that your changes are being reliably saved by the server.
+
+# Create a new tiddler using the {{$:/core/images/new-button}} button in the sidebar on the right
+# Click the {{$:/core/images/done-button}} button at the top right of the new tiddler
+# Check the ~TiddlyWiki command line for a message confirming the tiddler has been saved
+# Refresh the page in the browser to and verify that the new tiddler has been correctly saved

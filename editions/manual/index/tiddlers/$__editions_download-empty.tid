@@ -1,11 +1,11 @@
 code-body: yes
 created: 20220401172140173
-modified: 20230308102035270
+modified: 20230308111646866
 title: $:/editions/download-empty
 type: text/vnd.tiddlywiki
 
 \define saveTiddlerFilter()
-[[$:/plugins/oflg/fishing]] [prefix[$:/plugins/oflg/fishing-]!prefix[$:/plugins/oflg/fishing-cannedfish-]]  [[$:/plugins/tiddlywiki/dynaview]] [[$:/plugins/tiddlywiki/dynannotate]] [[$:/plugins/Gk0Wk/echarts]] [[$:/plugins/Gk0Wk/focused-tiddler]] [[$:/config/ChinesePluginLibrary]] [[$:/SiteTitle]]  [[$:/SiteSubtitle]]  [prefix[$:/themes/]] [prefix[$:/languages/]] [[$:/core]] [[$:/language]] [[$:/isEncrypted]] [[$:/SplashScreen]] [[$:/favicon.ico]] [[GettingStarted]] [[Usage]] [[TiddlyMemo]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
+[[$:/plugins/oflg/fishing]] [prefix[$:/plugins/oflg/fishing-]!prefix[$:/plugins/oflg/fishing-cannedfish-]]  [[$:/plugins/tiddlywiki/dynaview]] [[$:/plugins/tiddlywiki/dynannotate]] [[$:/plugins/Gk0Wk/echarts]] [[$:/plugins/Gk0Wk/focused-tiddler]] [[$:/config/ChinesePluginLibrary]] [[$:/SiteTitle]]  [[$:/SiteSubtitle]]  [prefix[$:/themes/]] [prefix[$:/languages/]] [[$:/core]] [[$:/language]] [[$:/isEncrypted]] [[$:/SplashScreen]] [[$:/favicon.ico]] [[GettingStarted]] [[Welcome]] [[TiddlyWiki]] [[TiddlyMemo]] -[[$:/boot/boot.css]] -[type[application/javascript]library[yes]] -[[$:/boot/boot.js]] -[[$:/boot/bootprefix.js]] +[sort[title]]
 \end
 \define savingEmpty()
 yes
