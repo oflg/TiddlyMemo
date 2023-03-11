@@ -1,0 +1,20 @@
+created: 20211111070713273
+due: 20230312050132761
+interval: 2
+modified: 20230311071917198
+review: 20230310050132761
+tags: [[TiddlyMemo Manual]] ? .
+title: Advanced Tips
+type: text/vnd.tiddlywiki
+
+''Note: The following content is difficult but does not interfere with normal use, it is best to use Fihsing for a period of time before reading.''
+
+*[[How to use Cloze and Select Question?]]
+*[[How to learn tiddlers by group?]]
+*[[How to do incremental reading?]]
+
+
+
+Shortcut keys are available throughout. You can switch to the ''Shortcuts'' option in [[Settings|$:/ControlPanel]] to personalize shortcuts and prevent conflicts with other shortcuts.
+
+{{FishingKey}}

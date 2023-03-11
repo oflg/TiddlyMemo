@@ -1,6 +1,29 @@
-# 🦑墨屉
+<p align="center">
+  <a href="https://tiddlymemo.org/zh-Hans">
+    <img src="https://tiddlymemo.org/icon.png" width="150" height="150" alt="TiddlyMemo">
+  </a>
+</p>
 
-终身知识，深入脑海。墨屉采用先进的[渐进学习](https://help.supermemo.org/wiki/Incremental_learning)理念，是助你获得终身知识的第二大脑。
+<div align="center">
+
+# 墨屉
+
+_✨ 终身知识，深入脑海 ✨_
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/oflg/TiddlyMemo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/oflg/TiddlyMemo" alt="license">
+  </a>
+  <a href="https://github.com/oflg/TiddlyMemo/releases">
+    <img src="https://img.shields.io/github/v/release/oflg/TiddlyMemo?color=5778d8&include_prereleases" alt="release">
+  </a>
+</p>
+
+## 🦑介绍
+
+墨屉采用先进的[渐进学习](https://help.supermemo.org/wiki/Incremental_learning)理念，是助你获得终身知识的第二大脑。
 
 ## 🎏语言
 
@@ -34,6 +57,7 @@
 * [@Gk0Wk](https://github.com/Gk0Wk)
 * [@L-M-Sherlock](https://github.com/L-M-Sherlock)
 * [@oeyoews](https://github.com/oeyoews)
+* [@Zacharia2](https://github.com/Zacharia2)
 
 ## ⭐亮星
 

@@ -1,6 +1,29 @@
-# 🦑TiddlyMemo
+<p align="center">
+  <a href="https://tiddlymemo.org/">
+    <img src="https://tiddlymemo.org/icon.png" width="150" height="150" alt="TiddlyMemo">
+  </a>
+</p>
 
-Lifelong knowledge, deep in mind. TiddlyMemo uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
+<div align="center">
+
+# TiddlyMemo
+
+_✨ Lifelong knowledge, deep in mind ✨_
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/oflg/TiddlyMemo/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/oflg/TiddlyMemo" alt="license">
+  </a>
+  <a href="https://github.com/oflg/TiddlyMemo/releases">
+    <img src="https://img.shields.io/github/v/release/oflg/TiddlyMemo?color=5778d8&include_prereleases" alt="release">
+  </a>
+</p>
+
+## 🦑Introduction
+
+TiddlyMemo uses advanced [Incremental Learning](https://help.supermemo.org/wiki/Incremental_learning) concepts to make it your powerful second brain for acquiring lifelong knowledge.
 
 ## 🎏Languages
 
@@ -34,6 +57,7 @@ Many thanks to the following friends who have contributed to TiddlyMemo!
 * [@Gk0Wk](https://github.com/Gk0Wk)
 * [@L-M-Sherlock](https://github.com/L-M-Sherlock)
 * [@oeyoews](https://github.com/oeyoews)
+* [@Zacharia2](https://github.com/Zacharia2)
 
 ## ⭐Star
 

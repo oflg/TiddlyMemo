@@ -1,0 +1,24 @@
+created: 20211111062231718
+difficulty: 5
+due: 20230311043548233
+grade: -1
+history: []
+interval: 1
+lapses: 0
+modified: 20230310043548234
+priority: 10
+reps: 1
+retrievability: 1
+review: 20230310043548233
+stability: 2
+tags: [[Included plugins]] ? .
+title: Fishing plugin
+type: text/vnd.tiddlywiki
+
+Fishing plugin integrates [[Spaced Repetition|https://docs.ankiweb.net/background.html#spaced-repetition]] system into TiddlyWiki using [[FSRS|https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler]] algorithm.
+
+<<<.tc-big-quote
+Fishing plugin uses ''tiddler note'' as Flashcards for incremental learning. Since Tiddler means small fish in the Story River of TiddlyWiki, this plugin that hooks Tiddler into the Sea of Brain is called Fishing.
+<<<
+
+<br><br>

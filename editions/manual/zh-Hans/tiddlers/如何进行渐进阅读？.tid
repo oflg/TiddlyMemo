@@ -1,0 +1,72 @@
+created: 20211111054946683
+difficulty: 6.06997918573884
+due: 20230405044527915
+grade: 1
+history: [{"due":"20220301052911158","interval":"3","difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":"2","lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220301052911158","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20220221052911157"},{"due":"20220318113737091","interval":24,"difficulty":4.987711692697593,"stability":1.4816364413634358,"retrievability":0.7338967244521296,"grade":0,"lapses":1,"reps":1,"review":"20220317113737091"},{"due":"20220321044010979","interval":1,"difficulty":5.119070282100833,"stability":3.3432415243521896,"retrievability":0.9313585894032408,"grade":1,"lapses":1,"reps":2,"review":"20220318044010979"},{"due":"20220323050002950","interval":4,"difficulty":6.200634069864288,"stability":1.097623272188053,"retrievability":0.8815637877634545,"grade":0,"lapses":2,"reps":1,"review":"20220322050002950"},{"due":"20220520125159466","interval":28,"difficulty":5.468670548332188,"stability":31.392815534473325,"retrievability":0.06803647846790031,"grade":1,"lapses":2,"reps":2,"review":"20220419125159465"},{"due":"20220520125236698","interval":0,"difficulty":5.668670548332188,"stability":31.392815534473325,"retrievability":1,"grade":1,"lapses":2,"reps":3,"review":"20220419125236697"},{"due":"20220520125302090","interval":0,"difficulty":5.868670548332188,"stability":31.392815534473325,"retrievability":1,"grade":1,"lapses":2,"reps":4,"review":"20220419125302089"},{"due":"20220625075836535","interval":66,"difficulty":6.8699791857388375,"stability":0.8131393194811983,"retrievability":0.8013086374066491,"grade":0,"lapses":3,"reps":1,"review":"20220624075836535"}]
+interval: 259
+lapses: 3
+modified: 20230310044527915
+reps: 2
+retrievability: 2.6631034341796044e-15
+review: 20230310044527915
+stability: 25.538724333624014
+tags: 高级技巧 ?
+title: 如何进行渐进阅读？
+type: text/vnd.tiddlywiki
+
+[[导入]]
+
+<<<
+{{导入}}
+<<<
+
+
+[[设置优先级]]
+
+<<<
+{{设置优先级}}
+<<<
+
+
+[[阅读]]
+
+<<<
+{{阅读}}
+<<<
+
+
+
+[[摘录]]
+
+<<<
+{{摘录}}
+<<<
+
+
+
+[[间隔重复]]
+
+<<<
+{{间隔重复}}
+<<<
+
+[[主动召回]]
+
+<<<
+{{主动召回}}
+<<<
+
+[[设问]]
+
+<<<
+{{设问}}
+<<<
+
+
+
+[[查看知识树]]
+
+<<<
+{{查看知识树}}
+<<<
+

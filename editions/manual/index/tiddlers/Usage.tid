@@ -1,0 +1,42 @@
+created: 20201212170005281
+due: 20220623073158410
+interval: 1
+modified: 20230310042329795
+review: 20220622073158410
+tags: [[TiddlyMemo Manual]] ?
+title: Usage
+type: text/vnd.tiddlywiki
+
+1. Add the tag `?` to the tiddler you want to remember.
+
+2. Click {{$:/plugins/oflg/fishing/fishingfloat}} on the sidebar and select a learning group.
+
+<<<.tc-big-quote
+After the above two steps, an action interface will pop up, which has added `?` tags are divided into two groups:
+
+* The ''{{$:/language/fishing/new}}'' group contains newly added tiddlers, which need to be learned.
+
+* The ''{{$:/language/fishing/due}}'' group contains due  tiddlers, which need to be reviewed.
+
+You can click on the ''{{$:/language/fishing/new}}'' group to start learning, and then click on the ''{{$:/language/fishing/next}}'' button below the tiddler to learn the next tiddler in the group when you are done.
+
+There are two buttons at the bottom of the tiddler:
+
+* @@color:green;''{{$:/language/fishing/learn}}''@@ means learned this tiddler and will learn next one. Learned tiddlers will be divided into ''{{$:/language/fishing/due}}'' groups when they are due.
+* @@color:black; ''{{$:/language/fishing/discard}}''@@ means that this tiddler is not learned and will be discarded. This tiddler is no longer repeated at intervals.
+
+
+When an tiddler expires, it can be reviewed by clicking on the ''Due'' group. When reviewing, the tiddlers are usually folded and only the titles are displayed. You should recall the answer based on the title of the tiddler, and when you think of it, click <<.icon $:/core/images/unfold-button>> in it to unfold it, compare the thought answer with the correct answer, and evaluate it.
+
+At the bottom of the tiddler there are three buttons to ''evaluate'' the recall results.
+
+* @@color:red;''{{$:/language/fishing/forget}}''@@ means the answer is forgotten.
+* @@color:green;''{{$:/language/fishing/remember}}''@@ means the answer is remembered.
+* @@color:blue;''{{$:/language/fishing/grasp}}''@@ means the question is grasped.
+
+<$reveal default={{$:/toquestion}} type="nomatch" text="">
+Click this example {{Question1||$:/toquestion}} to simulate the experience evaluating process.
+</$reveal>
+<<<
+
+<br><br>

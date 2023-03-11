@@ -1,0 +1,13 @@
+created: 20211111074227863
+due: 20220701073129938
+interval: 9
+modified: 20230311075152921
+review: 20220622073129938
+tags: [[How to do incremental reading?]] ?
+title: Import
+type: text/vnd.tiddlywiki
+
+Edit or create a tiddler, add a `.` tag to set it as an ''Excerpt Tiddler''. This ''Excerpt Tiddler'' can be learned by clicking on the “{{$:/language/fishing/new}}” group in {{$:/plugins/oflg/fishing/fishingfloat}} on the sidebar.
+
+
+Or import reading material directly from external sources. [[Importing TWPUB Books|Import TWPUB Books sub-plugin]] is currently supported.

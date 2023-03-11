@@ -1,0 +1,26 @@
+created: 20211111054354485
+creator: oflg
+difficulty: 5.641091443557455
+due: 20220719125315807
+grade: 1
+history: [{"due":"20220214062000530","interval":"7","difficulty":4.8915901242788244,"stability":14.421632209922258,"retrievability":0.6915901242788246,"grade":"1","lapses":0,"reps":2,"review":"20220131062000530"},{"due":"20220317124558144","interval":"14","difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":"1","lapses":0,"reps":3,"review":"20220214124558143"},{"due":"20220317124558144","interval":14,"difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":1,"lapses":0,"reps":3,"review":"20220214124558143"},{"due":"20220519113828400","interval":31,"difficulty":5.095060034199421,"stability":62.66993218757949,"retrievability":0.9006933386938285,"grade":1,"lapses":0,"reps":4,"review":"20220317113828399"},{"due":"20220719125219021","interval":33,"difficulty":5.241091443557455,"stability":91.25349270389151,"retrievability":0.946031409358033,"grade":1,"lapses":0,"reps":5,"review":"20220419125219020"},{"due":"20220719125248834","interval":0,"difficulty":5.441091443557455,"stability":91.25349270389151,"retrievability":1,"grade":1,"lapses":0,"reps":6,"review":"20220419125248833"}]
+interval: 0
+lapses: 0
+modified: 20230311075703985
+modifier: oflg
+reps: 7
+retrievability: 1
+review: 20220419125315807
+stability: 91.25349270389151
+tags: 高级技巧 ?
+title: 如何使用填空和选择题？
+type: text/vnd.tiddlywiki
+
+结合编辑栏上的  <<.icon $:/plugins/oflg/fishing/icons/cloze>> <<.icon $:/plugins/oflg/fishing/icons/select>> 按钮，编辑条目的`caption`字段。
+
+| 题型 | 使用方式 |>| 按钮产生的宏 |<|h
+|~|~| 名称 | 结构 |示例和说明|h
+| 填空题 | 写题干 + 用 <<.icon $:/plugins/oflg/fishing/icons/cloze>> 按钮将所选文本设置为''挖空'' | ?c | `<<?c hide show id>>`  | {{填空题示例和说明||$:/toquestion}} |
+| 问答题 | 写题干 + 用 <<.icon $:/plugins/oflg/fishing/icons/select>> 按钮将所选文白设置为''选项'' + 填入答案''序号'' | ?s | `<<?s option answer>>` |  {{选择题示例和说明||$:/toquestion}} |
+
+可以根据需要手动编写自己的模板，或在 <a href="https://github.com/oflg/fishing/issues?q=label%3A%22question+template%22" target="_blank" title="question template issues"><img height=16 src="https://img.shields.io/github/issues/oflg/fishing/question%20template?style=social"></a> 获取和分享模板。

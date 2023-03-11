@@ -1,0 +1,20 @@
+caption: 填<<?c 空>>题<<?c 示  ? 1>>例和<<?c 说  x 1>>明
+created: 20211015001749734
+creator: oflg
+difficulty: 6.350455767345903
+due: 20220806084923846
+grade: 0
+history: [{"due":"20220624072426032","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220622072426032"},{"due":"20220625080549287","interval":2,"difficulty":6.1000000000000005,"stability":1.4816364413634358,"retrievability":0.9,"grade":0,"lapses":1,"reps":1,"review":"20220624080549286"}]
+interval: 42
+lapses: 2
+modified: 20230311081750914
+modifier: oflg
+reps: 1
+retrievability: 0.050455767345902
+review: 20220805084923845
+stability: 1.097623272188053
+tags: ?
+title: 填空题示例和说明
+type: text/vnd.tiddlywiki
+
+宏内有三个参数 `hide` `show` `id`，后两个参数可以省略。`hide`表示挖空的内容。`show`表示挖空后展示出的文字，默认是`...`。`hide`表示被挖空的id，相同id的空会在被点击时同时显示和隐藏

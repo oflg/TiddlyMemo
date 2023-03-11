@@ -1,0 +1,28 @@
+created: 20220315072658071
+due: 20230321044626459
+interval: 11
+modified: 20230310044626460
+priority: 0
+review: 20230310044626459
+tags: 相关插件 ? .
+title: 摸鱼子插件
+type: text/vnd.tiddlywiki
+
+将[[渐进阅读|https://www.yuque.com/supermemo/wiki/incremental_reading]]集成到 TiddlyWiki 中。
+
+<<<.tc-big-quote
+可在阅读中摘录句子，也可注释单词并配合单词学习包来学习外语。
+
+安装单词包后，阅读中的生词会自动高亮注释。可参照 [[如何进行渐进阅读？]] 来使用。
+
+@@color:green;此插件需要 <$link to="$:/plugins/tiddlywiki/dynaview" >Dynaview 插件</$link>和 <$link to="$:/plugins/tiddlywiki/dynannotate" >Dynannotate 插件</$link>依赖，推荐打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''~TiddlyWiki 官方插件库''中搜索插件名，一键安装和更新更多插件。@@
+<<<
+
+<br><br>
+
+
+[[导入 TWPUB 电子书子插件]]
+
+<<<
+{{导入 TWPUB 电子书子插件}}
+<<<

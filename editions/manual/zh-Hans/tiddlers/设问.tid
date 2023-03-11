@@ -1,0 +1,12 @@
+created: 20211111055401884
+due: 20230323044657943
+interval: 13
+modified: 20230310044657944
+review: 20230310044657943
+tags: 如何进行渐进阅读？ ? .
+title: 设问
+type: text/vnd.tiddlywiki
+
+''摘录条目''有重要知识点时，可对每个知识点摘录一个''摘录条目''，并编辑单个知识点的''摘录条目''，将其转为''问题条目''。
+
+参照 [[如何使用问答、填空和选择题？]] 使用编辑栏上的 <<.icon $:/core/images/underline>> 改写对应问题形式，再点击 <<.icon $:/plugins/oflg/fishing-catchfish/icons/setquestion>> 、<<.icon $:/plugins/oflg/fishing-catchfish/icons/setcloze>> 或 <<.icon $:/plugins/oflg/fishing-catchfish/icons/setselect>> 进行转换。
