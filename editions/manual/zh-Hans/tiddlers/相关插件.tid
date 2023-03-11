@@ -1,19 +1,18 @@
-caption: {{||Excerpt}}
 created: 20220401142641686
-due: 20220625080529967
+due: 20230312044455934
 history: []
-interval: 1
-modified: 20230105141446380
-review: 20220624080529967
-tags: 墨屉手册 ?
+interval: 2
+modified: 20230311060204129
+review: 20230310044455934
+tags: 墨屉手册 ? .
 title: 相关插件
 type: text/vnd.tiddlywiki
 
 [img[fishing.png]]
 
-[[墨屉]]是基于 TiddlyWiki 的发行版，专注于间隔重复和渐进学习，主要有以下相关插件。
+[[墨屉]]是基于 TiddlyWiki 的发行版，专注于间隔重复和渐进学习，可以将下列插件安装在TiddlyWiki中使用。
 
-可以打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''墨屉插件库''中搜索插件名，一键安装和更新更多插件。
+推荐可以打开[[设置|$:/ControlPanel]]-''插件''中的{{$:/core/ui/ControlPanel/Plugins/AddPlugins}}，在''墨屉插件库''中搜索插件名，一键安装和更新插件。
 
 
 [[钓鱼插件]]

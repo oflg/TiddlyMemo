@@ -1,4 +1,3 @@
-caption: {{||Excerpt}}
 created: 20211111080038854
 due: 20220701073132300
 interval: 9
@@ -8,7 +7,7 @@ tags: [[How to do incremental reading?]] ?
 title: Set Question
 type: text/vnd.tiddlywiki
 
-When ''Excerpt Tiddler'' has important knowledge points, you can make 
-deeper ''Excerpt Tiddler'' for each knowledge point, and edit it to convert it into a ''Question Tiddler''. 
+When ''Excerpt Tiddler'' has important knowledge points, you can make
+deeper ''Excerpt Tiddler'' for each knowledge point, and edit it to convert it into a ''Question Tiddler''.
 
-Please refer to [[How to use Q&A, Cloze and Select Question?]] and use <<.icon $:/core/images/underline>> on the edit bar to rewrite the corresponding question template form, then click <<.icon $:/plugins/oflg/fishing-catchfish/icons/setquestion>>, <<.icon $:/plugins/oflg/fishing-catchfish/icons/setcloze>> or <<.icon $:/plugins/oflg/fishing-catchfish/icons/setselect>> to convert it. 
+Please refer to [[How to use Q&A, Cloze and Select Question?]] and use <<.icon $:/core/images/underline>> on the edit bar to rewrite the corresponding question template form, then click <<.icon $:/plugins/oflg/fishing-catchfish/icons/setquestion>>, <<.icon $:/plugins/oflg/fishing-catchfish/icons/setcloze>> or <<.icon $:/plugins/oflg/fishing-catchfish/icons/setselect>> to convert it.

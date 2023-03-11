@@ -5,10 +5,8 @@ tags: $:/tags/TiddlerList
 title: TiddlyMemo
 type: text/vnd.tiddlywiki
 
+[img width=100 [$:/favicon.ico]]
+
 ! Lifelong knowledge, deep in mind
 
 TiddlyMemo uses advanced [[Incremental Learning|https://help.supermemo.org/wiki/Incremental_learning]] concepts to make it your powerful second brain for acquiring lifelong knowledge.
-
-[img width=100 [$:/favicon.ico]]
-
-[[Read Articles]] like ~SuperMemo, [[Learn languages]] like ~LingQ, [[Memory Notes]] like Anki.

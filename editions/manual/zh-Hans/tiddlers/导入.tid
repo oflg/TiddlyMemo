@@ -1,13 +1,13 @@
-caption: {{||Excerpt}}
 created: 20211111055327730
-due: 20220702072019705
-interval: 10
-modified: 20220622072019705
-review: 20220622072019705
-tags: 如何进行渐进阅读？ ?
+due: 20230321044611121
+interval: 11
+modified: 20230311055446972
+review: 20230310044611121
+tags: 如何进行渐进阅读？ ? .
 title: 导入
 type: text/vnd.tiddlywiki
 
-编辑或新建一个条目，再点击编辑栏上的 <<.icon $:/plugins/oflg/fishing-catchfish/icons/setexcerpt>> 转为''摘录条目''。
+编辑或新建一个条目，添加`.`标签将其设为''摘录条目''。此''摘录条目''可以通过点击侧边栏上的 {{$:/plugins/oflg/fishing/fishingfloat}} 中的''{{$:/language/fishing/new}}''组开始学习。
+
 
 或者直接从外部导入阅读材料。目前支持 [[导入 TWPUB 电子书|导入 TWPUB 电子书子插件]]。

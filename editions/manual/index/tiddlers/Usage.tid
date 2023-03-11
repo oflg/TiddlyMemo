@@ -1,8 +1,7 @@
-caption: {{||Excerpt}}
 created: 20201212170005281
 due: 20220623073158410
 interval: 1
-modified: 20230112143251626
+modified: 20230310042329795
 review: 20220622073158410
 tags: [[TiddlyMemo Manual]] ?
 title: Usage
@@ -15,9 +14,9 @@ type: text/vnd.tiddlywiki
 <<<.tc-big-quote
 After the above two steps, an action interface will pop up, which has added `?` tags are divided into two groups:
 
-* The ''{{$:/language/fishing/new}}'' group contains newly added and expired pending learning tiddlers, which need to be learned.
+* The ''{{$:/language/fishing/new}}'' group contains newly added tiddlers, which need to be learned.
 
-* The ''{{$:/language/fishing/due}}'' group contains tiddlers that have been learned and not yet expired, and generally do not need to be learned.
+* The ''{{$:/language/fishing/due}}'' group contains due  tiddlers, which need to be reviewed.
 
 You can click on the ''{{$:/language/fishing/new}}'' group to start learning, and then click on the ''{{$:/language/fishing/next}}'' button below the tiddler to learn the next tiddler in the group when you are done.
 

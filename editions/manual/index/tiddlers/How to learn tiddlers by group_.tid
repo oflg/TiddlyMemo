@@ -1,4 +1,3 @@
-caption: {{||Question}}
 created: 20211111070815535
 difficulty: 5.144586545559224
 due: 20221116073210373
@@ -6,7 +5,7 @@ grade: 1
 history: [{"due":"20220214062007148","interval":"7","difficulty":4.8915901242788244,"stability":14.421632209922258,"retrievability":0.6915901242788246,"grade":"1","lapses":0,"reps":2,"review":"20220131062007147"},{"due":"20220317124601182","interval":"14","difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":"1","lapses":0,"reps":3,"review":"20220214124601182"},{"due":"20220317124601182","interval":14,"difficulty":4.994366695505593,"stability":31.22824717860308,"retrievability":0.9027765712267686,"grade":1,"lapses":0,"reps":3,"review":"20220214124601182"},{"due":"20220519113822382","interval":31,"difficulty":5.095060034199421,"stability":62.66993218757949,"retrievability":0.9006933386938285,"grade":1,"lapses":0,"reps":4,"review":"20220317113822382"}]
 interval: 97
 lapses: 0
-modified: 20220622073210373
+modified: 20230311074538877
 reps: 5
 retrievability: 0.8495265113598027
 review: 20220622073210372
@@ -18,9 +17,9 @@ type: text/vnd.tiddlywiki
 Use the input box in {{$:/plugins/oflg/fishing/fishingfloat}} The image is a "fishing rod".
 
 * Enter [[Filter Expression|https://tiddlywiki.com/#Filter%20Expression]] in the input box. For example:
-** `[tag[?]tag[advanced tips]]`: tiddlers with `advanced tips` tag will be filtered from tiddlers with `? ` tags and learnd.
-** `[!tag[!]tag[advanced tips]]`: tiddlers with `advanced tips` tag will be filtered out from tiddlers without `!` tag.
-** `[[newTiddler]]`, also written `newTiddler`: "newTiddler" will be learnd. It will be automatically added with the `?` tag and removed from `!` tag when ''graded'', and removed frome `?` tag and added with `!` tags when ''discarded''.
+**`newTiddler`, also written `[[newTiddler]]`: will learn `newTiddler`. It will automatically be added as it is learned with the `?`  tag. Depending on your actions, it will also add `.` or `!` tags. Where the `.` tag indicates that this tiddler (''Excerpt Tiddler'') does not need to be recalled when learning, and the `!` tag indicates that this tiddler (the discarded tiddler) is no longer learning.
+** `[tag[?] tag[advanced tips]]`: will filter from entries with the `?` tags to filter out tiddlers with `advanced tips` tags to learn.
+** `[tag[?] tag[.]] `: will filter from tiddlers with the `?` to filter out ''Excerpt Tiddle''r for learning.
 
 * Use <<.icon $:/core/images/plus-button>> to add frequently used expressions.
 * Use <<.icon $:/core/images/down-arrow>> to fillin frequently used expressions.

@@ -1,22 +1,15 @@
-created: 20220401142641686
-difficulty: 5
-due: 20220624073011982
-grade: -1
-history: []
-interval: 0
-lapses: 0
-modified: 20230105141648211
-reps: 1
-retrievability: 1
-review: 20220622073011982
-stability: 2
-tags: [[TiddlyMemo Manual]] ?
+created: 20230310050445318
+due: 20230311050445318
+interval: 1
+modified: 20230311073431949
+review: 20230310050445318
+tags: [[TiddlyMemo Manual]] ? .
 title: Included plugins
 type: text/vnd.tiddlywiki
 
 [img[fishing.png]]
 
-[[TiddlyMemo]] is a TiddlyWiki edition that focuses on spaced repetition and progressive learning, with the following main related plugins.
+[[TiddlyMemo]] is a TiddlyWiki edition that focuses on spaced repetition and progressive learning. The following plugins can be installed for use in TiddlyWiki.
 
 It is recommended to open ''Plugins'' in [[ControlPanel|$:/ControlPanel]] {{$:/core/ui/ControlPanel/Plugins/AddPlugins}}, then search plugin name to install it and get updates with one click in ''TiddlyMemo Plugin Library''.
 

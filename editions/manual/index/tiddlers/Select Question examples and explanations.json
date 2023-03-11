@@ -1,0 +1,21 @@
+[
+    {
+        "created": "20220112045833226",
+        "text": "There are two parameters inside the macro `option` and `answer`. `option` indicates an option. `answer` indicates the answer, which can use the letters A-I or the numbers 1-9, and write multiple numbers or letters for multiple choices.",
+        "title": "Select Question examples and explanations",
+        "modified": "20230311073236196",
+        "tags": "?",
+        "type": "text/vnd.tiddlywiki",
+        "caption": "Question stem<<?s \"\"\"\noption 1\noption 2\noption 3\noption 4\n\"\"\"AC>>",
+        "difficulty": "3.593637491028436",
+        "due": "20221114073202991",
+        "grade": "2",
+        "history": "[{\"due\":\"20220318075247589\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20220316075247589\"},{\"due\":\"20220404050014071\",\"interval\":6,\"difficulty\":4.929,\"stability\":12.646047859057882,\"retrievability\":0.7290000000000001,\"grade\":1,\"lapses\":0,\"reps\":2,\"review\":\"20220322050014070\"}]",
+        "interval": "92",
+        "lapses": "0",
+        "reps": "3",
+        "retrievability": "0.46463749102843527",
+        "review": "20220622073202991",
+        "stability": "144.74995779398085"
+    }
+]

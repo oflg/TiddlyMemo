@@ -5,11 +5,8 @@ tags: $:/tags/TiddlerList
 title: 墨屉
 type: text/vnd.tiddlywiki
 
+[img width=100 [$:/favicon.ico]]
+
 ! 终身知识，深入脑海
 
 [[墨屉]]采用先进的[[渐进学习|https://www.yuque.com/supermemo/wiki/incremental_learning]]理念，是助你获得终身知识的第二大脑。
-
-[img width=100 [$:/favicon.ico]]
-
-
-像 ~SuperMemo 一样[[阅读文章]]、像 ~LingQ 一样[[学习外语]]、像 Anki 一样[[记忆笔记]]。
