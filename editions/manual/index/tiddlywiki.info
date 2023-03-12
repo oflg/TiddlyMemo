@@ -1,6 +1,7 @@
 {
     "description": "TiddlyMemo Manual",
     "plugins": [
+        "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/powered-by-tiddlywiki",
         "tiddlywiki/pluginlibrary",
