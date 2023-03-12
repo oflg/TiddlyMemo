@@ -6,6 +6,7 @@
         "tiddlywiki/pluginlibrary",
         "tiddlywiki/dynaview",
         "tiddlywiki/dynannotate",
+        "tiddlywiki/github-fork-ribbon",
         "oflg/fishing",
         "oflg/fishing-analysis",
         "oflg/fishing-catchfish",
