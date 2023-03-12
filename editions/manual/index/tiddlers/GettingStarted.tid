@@ -1,17 +1,19 @@
-caption: Step 1<br>Syncing
-created: 20230308111151861
-modified: 20230308111519112
-tags: $:/tags/GettingStarted
+created: 20230312052343326
+modified: 20230312052346361
 title: GettingStarted
-type: text/vnd.tiddlywiki
+
+\define lingo-base() $:/language/ControlPanel/Basics/
 
 {{Welcome}}
 
-! Syncing Changes to the Server
+!! Set up this ~TiddlyWiki
 
-Before you can start storing important information in ~TiddlyWiki it is important to make sure that your changes are being reliably saved by the server.
+<div class="tc-control-panel">
 
-# Create a new tiddler using the {{$:/core/images/new-button}} button in the sidebar on the right
-# Click the {{$:/core/images/done-button}} button at the top right of the new tiddler
-# Check the ~TiddlyWiki command line for a message confirming the tiddler has been saved
-# Refresh the page in the browser to and verify that the new tiddler has been correctly saved
+|tc-table-no-border tc-first-col-min-width tc-first-link-nowrap|k
+| <$link to="$:/SiteTitle"><<lingo Title/Prompt>></$link>|<$edit-text tiddler="$:/SiteTitle" default="" tag="input"/> |
+| <$link to="$:/SiteSubtitle"><<lingo Subtitle/Prompt>></$link>|<$edit-text tiddler="$:/SiteSubtitle" default="" tag="input"/> |
+|^ <$link to="$:/DefaultTiddlers"><<lingo DefaultTiddlers/Prompt>></$link><br><<lingo DefaultTiddlers/TopHint>>|<$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br>//<<lingo DefaultTiddlers/BottomHint>>// |
+</div>
+
+See the [[control panel|$:/ControlPanel]] for more options.
