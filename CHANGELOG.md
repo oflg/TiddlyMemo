@@ -1,3 +1,17 @@
+# [1.8.0](https://github.com/oflg/TiddlyMemo/compare/v1.7.0...v1.8.0) (2023-03-11)
+
+
+### Bug Fixes
+
+* **fishing-twpub plugin:** twpub disorder ([c94eaeb](https://github.com/oflg/TiddlyMemo/commit/c94eaeb0ab98ec6f3204f7a7475ab440fcc6e818))
+
+
+### Features
+
+* **fishing plugin:** two card editors ([5b309d2](https://github.com/oflg/TiddlyMemo/commit/5b309d2bff83af0ecc86e79c1d0ea4763e95b5e3))
+* **fishing-analysis plugin:** focus charts ([54cc046](https://github.com/oflg/TiddlyMemo/commit/54cc046eca1caa59bc453267139711fe768c5475))
+* **fishing-catchfish plugin:** excerpt to caption ([8213ea9](https://github.com/oflg/TiddlyMemo/commit/8213ea94223d037362bf1b6c7037158d0a8bb8da))
+
 # [1.7.0](https://github.com/oflg/TiddlyMemo/compare/v1.6.7...v1.7.0) (2022-08-05)
 
 
