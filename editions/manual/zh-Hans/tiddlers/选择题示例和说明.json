@@ -1,10 +1,10 @@
 [
     {
         "created": "20220112042204478",
+        "text": "宏内有两个参数 `option` `answer` 。\n\n*  `option`表示选项，一行表示一个选项。\n*  `answer`表示答案，可以使用字母 A-I 或数字 1-9，多选时写多个数字或字母。",
         "creator": "oflg",
-        "text": "宏内有两个参数 `option` `answer` 。`option`表示选项。`answer`表示答案，可以使用字母 A-I 或数字 1-9，多选时写多个数字或字母。",
         "title": "选择题示例和说明",
-        "modified": "20230311071433191",
+        "modified": "20230312103433090",
         "modifier": "oflg",
         "tags": "?",
         "type": "text/vnd.tiddlywiki",

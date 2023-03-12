@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20220624073124471","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220622073124471"}]
 interval: 261
 lapses: 0
-modified: 20230311073137180
+modified: 20230312103232571
 priority: 100
 reps: 2
 retrievability: 0.0000010681874761701868
@@ -16,4 +16,8 @@ tags: ?
 title: Cloze Question examples and explanations
 type: text/vnd.tiddlywiki
 
-There are three parameters inside the macro `hide` `show` `id`, the last two parameters can be omitted. `hide` indicates the content of the gouge. `show` indicates the text to be displayed after the hollowing, the default is `... `. `hide` indicates the id of the hollow, the hollow with the same id will be shown and hidden at the same time when it is clicked.
+There are three parameters inside the macro `hide` `show` `id`, the last two parameters can be omitted. 
+
+* `hide` indicates the content of the gouge. 
+* `show` indicates the text to be displayed after the hollowing, the default is `... `. 
+* `id` indicates the id of the hollow, the hollow with the same id will be shown and hidden at the same time when it is clicked.
