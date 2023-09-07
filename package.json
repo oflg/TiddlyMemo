@@ -1,6 +1,6 @@
 {
     "name": "tiddlymemo",
-    "version": "1.8.0",
+    "version": "1.8.2",
     "description": "TiddlyMemo uses advanced Incremental Learning concepts to make it your powerful second brain for acquiring lifelong knowledge.",
     "scripts": {
         "serve-manual": "cross-env TIDDLYWIKI_PLUGIN_PATH=./plugins TIDDLYWIKI_THEME_PATH='./themes' TIDDLYWIKI_LANGUAGE_PATH='./languages' npx nodemon -e tid,multids,js,info --watch plugins ./node_modules/tiddlywiki/tiddlywiki.js editions/manual/index --listen",

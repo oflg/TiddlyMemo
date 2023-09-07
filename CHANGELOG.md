@@ -1,3 +1,17 @@
+## [1.8.2](https://github.com/oflg/TiddlyMemo/compare/v1.8.1...v1.8.2) (2023-09-03)
+
+
+### Bug Fixes
+
+* **fishing-catchfish:** not work ([ffa17ae](https://github.com/oflg/TiddlyMemo/commit/ffa17ae6da29094101b45a57d40f2119b0238a59))
+
+## [1.8.1](https://github.com/oflg/TiddlyMemo/compare/v1.8.0...v1.8.1) (2023-08-31)
+
+
+### Bug Fixes
+
+* **fishing-catchfish:** not work ([3197aef](https://github.com/oflg/TiddlyMemo/commit/3197aef6b8f7bcead8f5b17586a020877d936696))
+
 # [1.8.0](https://github.com/oflg/TiddlyMemo/compare/v1.7.0...v1.8.0) (2023-03-11)
 
 
