@@ -49,7 +49,7 @@
     },
     "homepage": "https://github.com/oflg/TiddlyMemo#readme",
     "dependencies": {
-        "tiddlywiki": "5.2.7"
+        "tiddlywiki": "latest"
     },
     "devDependencies": {
         "@semantic-release/changelog": "latest",
