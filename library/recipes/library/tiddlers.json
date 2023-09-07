@@ -53,7 +53,7 @@
         "plugin-type": "plugin",
         "source": "https://github.com/oflg/fishing-catchfish",
         "title": "$:/plugins/oflg/fishing-catchfish",
-        "version": "0.5.1",
+        "version": "0.5.2",
         "type": "application/json",
         "readme": "Installation and usage tutorial is available at [[TiddlyMemo Manual|https://tiddlymemo.org/manual/#Included%20plugins]].\n\n可在 [[墨屉手册|https://tiddlymemo.org/manual/zh-Hans#相关插件]] 查看安装使用教程。",
         "requires-reload": "no"
