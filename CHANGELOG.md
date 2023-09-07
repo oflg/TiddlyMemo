@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/oflg/TiddlyMemo/compare/v1.8.2...v1.8.3) (2023-09-07)
+
+
+### Bug Fixes
+
+* **fishing-catchfish:** Excerpt  is not working ([97381d7](https://github.com/oflg/TiddlyMemo/commit/97381d7c9d469cd8c46b449b1fd8ad20fd2379c7))
+
 ## [1.8.2](https://github.com/oflg/TiddlyMemo/compare/v1.8.1...v1.8.2) (2023-09-03)
 
 
