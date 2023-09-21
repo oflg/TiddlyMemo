@@ -1,3 +1,5 @@
+# This repository has been archived due to huge release update, please go to [Tidme](https://github.com/oflg/Tidme) to check it out!
+
 <p align="center">
   <a href="https://tiddlymemo.org/">
     <img src="https://tiddlymemo.org/icon.png" width="150" height="150" alt="TiddlyMemo">

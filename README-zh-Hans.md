@@ -1,3 +1,5 @@
+# 因大版本更新此仓库已归档，请移步[Tidme](https://github.com/oflg/Tidme)查看！
+
 <p align="center">
   <a href="https://tiddlymemo.org/zh-Hans">
     <img src="https://tiddlymemo.org/icon.png" width="150" height="150" alt="TiddlyMemo">
