@@ -1,4 +1,4 @@
-# 因大版本更新此仓库已归档，请移步[Tidme](https://github.com/oflg/Tidme)查看！
+# 因大版本更新，此仓库已归档。请移步最新[Tidme](https://github.com/oflg/Tidme)！
 
 <p align="center">
   <a href="https://tiddlymemo.org/zh-Hans">

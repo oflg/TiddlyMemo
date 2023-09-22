@@ -1,4 +1,4 @@
-# This repository has been archived due to huge release update, please go to [Tidme](https://github.com/oflg/Tidme) to check it out!
+# Due to huge version update, this manual has been archived. Please move go to the new [Tidme](https://github.com/oflg/Tidme)!
 
 <p align="center">
   <a href="https://tiddlymemo.org/">
