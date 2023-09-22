@@ -20,7 +20,7 @@ Supported Languages
 </$list>
 </$transclude>
 </$set>
-<$button message="tm-open-external-window" param={{{ [<currentTiddler>addprefix[https://https://oflg.github.io/Tidme/manual/]search-replace[$:/languages/],[]search-replace[en-GB],[]] }}} class="tc-btn-invisible tc-tiddlylink">
+<$button message="tm-open-external-window" param={{{ [<currentTiddler>addprefix[oflg.github.io/Tidme/manual/]search-replace[$:/languages/],[]search-replace[en-GB],[]] }}} class="tc-btn-invisible tc-tiddlylink">
 <$view subtiddler="$:/language/ControlPanel/Basics/Language/Prompt">
 <$view tiddler="$:/language/ControlPanel/Basics/Language/Prompt"/>
 </$view><$view field="description">
